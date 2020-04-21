@@ -1,0 +1,1379 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1236",
+			"layup_id": 1236,
+			"title": "FILM030: Documentary Videomaking",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 8,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1244",
+			"layup_id": 1244,
+			"title": "FILM037: Directing for the Camera",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 5,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3735",
+			"layup_id": 3735,
+			"title": "FILM007.16: Lifestyle Media",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4617",
+			"layup_id": 4617,
+			"title": "FILM096: Honors Project II",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1241",
+			"layup_id": 1241,
+			"title": "FILM035: Animation: Principles and Practice",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 12,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1265",
+			"layup_id": 1265,
+			"title": "FILM047.19: Krieger's Virtual Girlfriend: Japanese Anime and the idea of the Post-human",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4703",
+			"layup_id": 4703,
+			"title": "FILM044.04: Sound: Practice and Theory",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1227",
+			"layup_id": 1227,
+			"title": "FILM001: Introduction to Film: From Script to Screen",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 86,
+			"quality_score": 13,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4896",
+			"layup_id": 4896,
+			"title": "FILM048.02: Video Art",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4702",
+			"layup_id": 4702,
+			"title": "FILM007.17: Fame and Hollywood Stardom",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1240",
+			"layup_id": 1240,
+			"title": "FILM034: Writing for the Screen II",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 5,
+			"quality_score": 3,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1245",
+			"layup_id": 1245,
+			"title": "FILM038: Advanced Animation",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1228",
+			"layup_id": 1228,
+			"title": "FILM002: Introduction to Television",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": -2,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1242",
+			"layup_id": 1242,
+			"title": "FILM036.01: Experimental Videomaking (Autobiography)",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5119",
+			"layup_id": 5119,
+			"title": "FILM007.18: Special Effects",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"W",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1266",
+			"layup_id": 1266,
+			"title": "FILM047.20: Curating and Microcinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5001",
+			"layup_id": 5001,
+			"title": "FILM044.06: Storytelling/Digital Age",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1237",
+			"layup_id": 1237,
+			"title": "FILM031: Filmmaking I: Basic Elements of Film",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 20,
+			"quality_score": 3,
+			"layup_score": 15
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1267",
+			"layup_id": 1267,
+			"title": "FILM048: The Map",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4143",
+			"layup_id": 4143,
+			"title": "FILM039.01: Advanced Videomaking:Group Documentary",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1230",
+			"layup_id": 1230,
+			"title": "FILM007: First-Year Seminars in Film and Media Studies",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 40,
+			"quality_score": 11,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3239",
+			"layup_id": 3239,
+			"title": "FILM036.02: Music Video Production",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3155",
+			"layup_id": 3155,
+			"title": "FILM047.21: Scenes from the City: Urbanism and Modern American Visual Culture",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5120",
+			"layup_id": 5120,
+			"title": "FILM044.07: Docu-Fantasy",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1229",
+			"layup_id": 1229,
+			"title": "FILM003: Introduction to Digital Arts and Culture",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1238",
+			"layup_id": 1238,
+			"title": "FILM032: Filmmaking II",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3240",
+			"layup_id": 3240,
+			"title": "FILM039.02: Digital Cinematography",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1268",
+			"layup_id": 1268,
+			"title": "FILM049: Practicum in Digital Culture and New Media Technologies",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1231",
+			"layup_id": 1231,
+			"title": "FILM010: Special Topics in Film",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1243",
+			"layup_id": 1243,
+			"title": "FILM036.03: TV Production",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3445",
+			"layup_id": 3445,
+			"title": "FILM047.22: Buddhism and Film",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1257",
+			"layup_id": 1257,
+			"title": "FILM044: Theory Meets Practice",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3067",
+			"layup_id": 3067,
+			"title": "FILM007.13: Great Screenwriting",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1239",
+			"layup_id": 1239,
+			"title": "FILM033: Writing for the Screen I",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 17,
+			"quality_score": 7,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1232",
+			"layup_id": 1232,
+			"title": "FILM020: Film History I (Silent to Sound)",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 32,
+			"quality_score": 5,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5086",
+			"layup_id": 5086,
+			"title": "FILM039: Topics in Advanced Videomaking",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1261",
+			"layup_id": 1261,
+			"title": "FILM047.01: Found Footage",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4616",
+			"layup_id": 4616,
+			"title": "FILM047.23: Berlin--New York--Hollywood: A Cultural History of Exile",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3073",
+			"layup_id": 3073,
+			"title": "FILM047.03: Sonic Landscapes",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3102",
+			"layup_id": 3102,
+			"title": "FILM007.14: Mass Media and Democracy",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1270",
+			"layup_id": 1270,
+			"title": "FILM051: Game Design Studio",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1246",
+			"layup_id": 1246,
+			"title": "FILM040: Theories and Methodologies of Film and Media Studies",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 10,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1233",
+			"layup_id": 1233,
+			"title": "FILM021: Film History II (1930-60)",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 19,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4212",
+			"layup_id": 4212,
+			"title": "FILM047.24: Race \u0026 Gender in American Film",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1258",
+			"layup_id": 1258,
+			"title": "FILM045: U. S. Television History",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1262",
+			"layup_id": 1262,
+			"title": "FILM047.05: History of Documentary",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1269",
+			"layup_id": 1269,
+			"title": "FILM050.01: Cinematic Mirrors: Reflexivity and Authorship in Global Film History",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4613",
+			"layup_id": 4613,
+			"title": "FILM041.01:",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3203",
+			"layup_id": 3203,
+			"title": "FILM050.02: Race, Media, Celebrity",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3403",
+			"layup_id": 3403,
+			"title": "FILM046.01: TV and Histories of Gender",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1234",
+			"layup_id": 1234,
+			"title": "FILM022: Film History III (1960 to 1990)",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 17,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4174",
+			"layup_id": 4174,
+			"title": "FILM047.25: Black Noir",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3466",
+			"layup_id": 3466,
+			"title": "FILM007.15: Women \u0026 Comedy in Film",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1271",
+			"layup_id": 1271,
+			"title": "FILM080: Independent Study",
+			"department": "FILM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3284",
+			"layup_id": 3284,
+			"title": "FILM041.02: Shades of Noir: Film, Fiction, Politics",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3251",
+			"layup_id": 3251,
+			"title": "FILM047.06: Audio-Vision: Film, Music, Sound",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1259",
+			"layup_id": 1259,
+			"title": "FILM046.03: Science and Religion in American Media",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5091",
+			"layup_id": 5091,
+			"title": "FILM050.03: Topics in Film Theory: Exploring the Archive",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"W",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1235",
+			"layup_id": 1235,
+			"title": "FILM023: Film History IV (1990-present)",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": -2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4829",
+			"layup_id": 4829,
+			"title": "FILM047.26: Film and Fashion",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1272",
+			"layup_id": 1272,
+			"title": "FILM093: Major Project",
+			"department": "FILM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3404",
+			"layup_id": 3404,
+			"title": "FILM047.07: Migration Stories",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"INT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1247",
+			"layup_id": 1247,
+			"title": "FILM041.04: Ethnographic Film",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1273",
+			"layup_id": 1273,
+			"title": "FILM095: Honors Project I",
+			"department": "FILM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4932",
+			"layup_id": 4932,
+			"title": "FILM050.04: Video Games and the Meaning of Life",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3261",
+			"layup_id": 3261,
+			"title": "FILM046.04: Broadcast Journalism and Electronic Journalism History",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3241",
+			"layup_id": 3241,
+			"title": "FILM047.16: Film Festivals",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5089",
+			"layup_id": 5089,
+			"title": "FILM047.27: The Hollywood Studio System",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1260",
+			"layup_id": 1260,
+			"title": "FILM046.06: Topics in Television: Cop TV",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1248",
+			"layup_id": 1248,
+			"title": "FILM041.06: Bond and Beyond",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1263",
+			"layup_id": 1263,
+			"title": "FILM047.08: Cut and Paste Animation",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3870",
+			"layup_id": 3870,
+			"title": "FILM046.07: Television and New Media",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3040",
+			"layup_id": 3040,
+			"title": "FILM046.05: Inside the Television Set",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3039",
+			"layup_id": 3039,
+			"title": "FILM047.17: Race and Place",
+			"department": "FILM",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3976",
+			"layup_id": 3976,
+			"title": "FILM047.09: The Cinematic City",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5090",
+			"layup_id": 5090,
+			"title": "FILM047.28: Queer Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4615",
+			"layup_id": 4615,
+			"title": "FILM046.08: Television Without Borders: Local Communities, Global Audiences",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"W",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4144",
+			"layup_id": 4144,
+			"title": "FILM041.07: Cinema and the Graphic Novel",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1254",
+			"layup_id": 1254,
+			"title": "FILM043.01: Women Make Movies: Women and Film Authorship",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3869",
+			"layup_id": 3869,
+			"title": "FILM041.13: Women in Musicals",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1264",
+			"layup_id": 1264,
+			"title": "FILM047.18: Handmade Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5087",
+			"layup_id": 5087,
+			"title": "FILM041.16: Space and Genre",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4309",
+			"layup_id": 4309,
+			"title": "FILM048.01:",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1256",
+			"layup_id": 1256,
+			"title": "FILM043.05: Truffaut and Godard",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3202",
+			"layup_id": 3202,
+			"title": "FILM044.01: Handmade Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3996",
+			"layup_id": 3996,
+			"title": "FILM041.08: The Cinematic City",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3201",
+			"layup_id": 3201,
+			"title": "FILM042.13: Global Documentary and Transnational Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1252",
+			"layup_id": 1252,
+			"title": "FILM042.02: The French New Wave",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4418",
+			"layup_id": 4418,
+			"title": "FILM041.14: The Western",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3242",
+			"layup_id": 3242,
+			"title": "FILM042.08: Asian Animation as Socio-Political Artifact",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4828",
+			"layup_id": 4828,
+			"title": "FILM043.02: Family Matters: Pedro Almodovar, Gender Reversals, and New Communities",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1255",
+			"layup_id": 1255,
+			"title": "FILM043.04: Hitchcock",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1249",
+			"layup_id": 1249,
+			"title": "FILM041.09: History of Animation",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3323",
+			"layup_id": 3323,
+			"title": "FILM044.02: Cut and Paste Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4614",
+			"layup_id": 4614,
+			"title": "FILM042.14: Mexican Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4895",
+			"layup_id": 4895,
+			"title": "FILM041.17: Water In the Lake: Real Events for the Imagination",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1251",
+			"layup_id": 1251,
+			"title": "FILM041.11: Genre: History of Visual Music",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4425",
+			"layup_id": 4425,
+			"title": "FILM041.15: 20th-Century American Film Comedy",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1253",
+			"layup_id": 1253,
+			"title": "FILM042.03: The New Latin American Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4878",
+			"layup_id": 4878,
+			"title": "FILM042.16: Cinema of Black Protest",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4211",
+			"layup_id": 4211,
+			"title": "FILM044.03: Filming the Landscape",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3200",
+			"layup_id": 3200,
+			"title": "FILM041.12: Screwball Comedy",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4419",
+			"layup_id": 4419,
+			"title": "FILM042.15: Nothing is True and Everything is Possible: Politics, Media, and Religion in Post-Soviet Russia",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5088",
+			"layup_id": 5088,
+			"title": "FILM042.17: Of Golems, Vampires, and Robots: The Haunted Screen of Weimar Cinema",
+			"department": "FILM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1250",
+			"layup_id": 1250,
+			"title": "FILM041.10: Global Gothic",
+			"department": "FILM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:33:57",
+	"total": 105
+}

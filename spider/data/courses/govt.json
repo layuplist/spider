@@ -1,0 +1,3082 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1451",
+			"layup_id": 1451,
+			"title": "GOVT005: International Politics",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 353,
+			"quality_score": 223,
+			"layup_score": -13
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1457",
+			"layup_id": 1457,
+			"title": "GOVT019.01: Applied Multivariate Data Analysis",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1463",
+			"layup_id": 1463,
+			"title": "GOVT024: Development in Emerging Economies",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4707",
+			"layup_id": 4707,
+			"title": "GOVT019.06: By the Numbers: Race, Incarceration and Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1450",
+			"layup_id": 1450,
+			"title": "GOVT004: Politics of the World",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 158,
+			"quality_score": 61,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1452",
+			"layup_id": 1452,
+			"title": "GOVT006: Political Ideas",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 131,
+			"quality_score": 29,
+			"layup_score": -9
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3207",
+			"layup_id": 3207,
+			"title": "GOVT019.05: Computational Text Analysis for the Social Sciences",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1460",
+			"layup_id": 1460,
+			"title": "GOVT020.04: Federalism and Decentralization",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3450",
+			"layup_id": 3450,
+			"title": "GOVT081.10: The Rise of China",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1459",
+			"layup_id": 1459,
+			"title": "GOVT020.03: Morality and Political Economy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 6,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3066",
+			"layup_id": 3066,
+			"title": "GOVT007.02: Nationalism in War",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 4,
+			"quality_score": -3,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1497",
+			"layup_id": 1497,
+			"title": "GOVT050.03: The Rise of China",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1498",
+			"layup_id": 1498,
+			"title": "GOVT050.04: War and Peace in the Modern Age",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1461",
+			"layup_id": 1461,
+			"title": "GOVT020.05: Revolution, Reform and Reaction: The Cold War in Latin America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1449",
+			"layup_id": 1449,
+			"title": "GOVT003: The American Political System",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 197,
+			"quality_score": 56,
+			"layup_score": -12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1458",
+			"layup_id": 1458,
+			"title": "GOVT020.01: Women and Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 6,
+			"quality_score": -6,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3105",
+			"layup_id": 3105,
+			"title": "GOVT007.03: Media and Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 3,
+			"quality_score": 2,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1610",
+			"layup_id": 1610,
+			"title": "GOVT099: Honors Thesis",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1464",
+			"layup_id": 1464,
+			"title": "GOVT025: Problems of Political Development: India, South Africa and China",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1499",
+			"layup_id": 1499,
+			"title": "GOVT050.05: Human Rights and International Relations",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1462",
+			"layup_id": 1462,
+			"title": "GOVT020.07: Religion and World Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1482",
+			"layup_id": 1482,
+			"title": "GOVT040.09: Politics of Israel and Palestine",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 3,
+			"quality_score": 2,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3243",
+			"layup_id": 3243,
+			"title": "GOVT020.02: Capitalism and Government",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3065",
+			"layup_id": 3065,
+			"title": "GOVT007.12: Intelligence \u0026 Ntl Security",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1534",
+			"layup_id": 1534,
+			"title": "GOVT081.15: The Rise and Fall of Great Powers",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1483",
+			"layup_id": 1483,
+			"title": "GOVT040.11: The Arab Uprising",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1500",
+			"layup_id": 1500,
+			"title": "GOVT050.06: Nuclear Weapons: Physical and Strategic Effects",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 4,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4708",
+			"layup_id": 4708,
+			"title": "GOVT020.08: America and the Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1465",
+			"layup_id": 1465,
+			"title": "GOVT026: Elections and Reform",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4148",
+			"layup_id": 4148,
+			"title": "GOVT007.13: Political Theory of GOT",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4962",
+			"layup_id": 4962,
+			"title": "GOVT020.09: Populism and Democracy in Europe",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4375",
+			"layup_id": 4375,
+			"title": "GOVT081.16: The Rise of Populism in Europe",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"W",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1484",
+			"layup_id": 1484,
+			"title": "GOVT040.13: Modern Islamic Politics: from the Muslim Brotherhood to the Islamic State",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4150",
+			"layup_id": 4150,
+			"title": "GOVT050.08: Psychology and International Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4649",
+			"layup_id": 4649,
+			"title": "GOVT030.12: The Power of Latinx in U.S. Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1455",
+			"layup_id": 1455,
+			"title": "GOVT016: Data Visualization",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1453",
+			"layup_id": 1453,
+			"title": "GOVT007: First-Year Seminars in Government",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 77,
+			"quality_score": 6,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1501",
+			"layup_id": 1501,
+			"title": "GOVT050.14: Consequences of Globalization",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1535",
+			"layup_id": 1535,
+			"title": "GOVT081.21: Democracy in America: Tocqueville and His Critics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4650",
+			"layup_id": 4650,
+			"title": "GOVT030.13: Immigration Policy in the U.S.",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4313",
+			"layup_id": 4313,
+			"title": "GOVT027: Racial Justice",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1456",
+			"layup_id": 1456,
+			"title": "GOVT018: Introduction to Political Game Theory",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 11,
+			"quality_score": 9,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3448",
+			"layup_id": 3448,
+			"title": "GOVT050.16: THE RISE AND FALL OF GREAT POWERS",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 5,
+			"quality_score": 5,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1476",
+			"layup_id": 1476,
+			"title": "GOVT040.01: Democracy European Style",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1477",
+			"layup_id": 1477,
+			"title": "GOVT040.02: Politics of India",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"W",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1466",
+			"layup_id": 1466,
+			"title": "GOVT030.01: The Federal Budget",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1479",
+			"layup_id": 1479,
+			"title": "GOVT040.05: Politics of Ethnicity",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4214",
+			"layup_id": 4214,
+			"title": "GOVT050.17: Weapons of Mass Destruction",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1472",
+			"layup_id": 1472,
+			"title": "GOVT031: Campaigns and Elections",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1480",
+			"layup_id": 1480,
+			"title": "GOVT040.06: Elections in Emerging Democracies",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1454",
+			"layup_id": 1454,
+			"title": "GOVT010: Quantitative Political Analysis",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 94,
+			"quality_score": 40,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1478",
+			"layup_id": 1478,
+			"title": "GOVT040.03: Politics of Japan: A Unique Democracy?",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1467",
+			"layup_id": 1467,
+			"title": "GOVT030.02: Leadership and Political Institutions",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4215",
+			"layup_id": 4215,
+			"title": "GOVT050.18: Foreign Policies of Middle Eastern States",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1473",
+			"layup_id": 1473,
+			"title": "GOVT034: Congress and the American Political System",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1481",
+			"layup_id": 1481,
+			"title": "GOVT040.07: Comparative Political Economy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1574",
+			"layup_id": 1574,
+			"title": "GOVT085.21: International Law and Institutions",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1471",
+			"layup_id": 1471,
+			"title": "GOVT030.08: Political Parties",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3263",
+			"layup_id": 3263,
+			"title": "GOVT030.09: Law, Courts, and Judges",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1536",
+			"layup_id": 1536,
+			"title": "GOVT081.25: Defying Convention: Human Rights in the United States and the United Nations",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1502",
+			"layup_id": 1502,
+			"title": "GOVT052: Russian Foreign Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"W"
+			],
+			"total_reviews": 10,
+			"quality_score": 4,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1474",
+			"layup_id": 1474,
+			"title": "GOVT035: The Presidency",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 8,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1554",
+			"layup_id": 1554,
+			"title": "GOVT084.12: Gender and American Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1555",
+			"layup_id": 1555,
+			"title": "GOVT084.13: Improving Democracy: Institutional Innovations and Experiments in Developing Nations",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1468",
+			"layup_id": 1468,
+			"title": "GOVT030.03: Political Economy in the Age of Google",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1575",
+			"layup_id": 1575,
+			"title": "GOVT085.22: Techniques of Statecraft",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3405",
+			"layup_id": 3405,
+			"title": "GOVT030.10: American Conservatism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1475",
+			"layup_id": 1475,
+			"title": "GOVT037: Polling, Public Opinion, and Public Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 18,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1503",
+			"layup_id": 1503,
+			"title": "GOVT053: International Security",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 25,
+			"quality_score": 8,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4711",
+			"layup_id": 4711,
+			"title": "GOVT081.26: Vladimir Putin: Russia in the 21st Century",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1469",
+			"layup_id": 1469,
+			"title": "GOVT030.04: Political Misinformation and Conspiracy Theories",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3812",
+			"layup_id": 3812,
+			"title": "GOVT084.14: Foreign Aid",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3737",
+			"layup_id": 3737,
+			"title": "GOVT030.11: Policy Implementation",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1576",
+			"layup_id": 1576,
+			"title": "GOVT085.23: Unipolarity and US Security",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1595",
+			"layup_id": 1595,
+			"title": "GOVT086.20: Ideology and Intellectuals",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1504",
+			"layup_id": 1504,
+			"title": "GOVT054: United States Foreign Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 47,
+			"quality_score": 6,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4712",
+			"layup_id": 4712,
+			"title": "GOVT081.27: Politics, Gender, and Film",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1596",
+			"layup_id": 1596,
+			"title": "GOVT086.22: Rousseau",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1577",
+			"layup_id": 1577,
+			"title": "GOVT085.24: National Security Policy and Decision Making",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1556",
+			"layup_id": 1556,
+			"title": "GOVT084.16: Rebel Governance During the Civil War",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1505",
+			"layup_id": 1505,
+			"title": "GOVT056: International Relations Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 9,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1537",
+			"layup_id": 1537,
+			"title": "GOVT083.01: US Presidential Primaries",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5124",
+			"layup_id": 5124,
+			"title": "GOVT084.39: Comparative Ethnic Politics",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"CI",
+				"SOC",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1597",
+			"layup_id": 1597,
+			"title": "GOVT086.24: Machiavelli",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1470",
+			"layup_id": 1470,
+			"title": "GOVT030.07: American Political Economy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1578",
+			"layup_id": 1578,
+			"title": "GOVT085.26: International Law",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1564",
+			"layup_id": 1564,
+			"title": "GOVT085.01: Diplomacy",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1506",
+			"layup_id": 1506,
+			"title": "GOVT057: International Relations of East Asia",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 9,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1538",
+			"layup_id": 1538,
+			"title": "GOVT083.02: Politics and Markets",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1557",
+			"layup_id": 1557,
+			"title": "GOVT084.23: Politics of Peace in the Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4934",
+			"layup_id": 4934,
+			"title": "GOVT040.25: Introduction to Middle East Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3977",
+			"layup_id": 3977,
+			"title": "GOVT086.25: Adam Smith and Political Economy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3556",
+			"layup_id": 3556,
+			"title": "GOVT085.27: Terrorism\u0026Counterterrorism;",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3739",
+			"layup_id": 3739,
+			"title": "GOVT083.04: Myths and Realities in Public Policy Solutions",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1507",
+			"layup_id": 1507,
+			"title": "GOVT058: International Political Economy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 17,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1565",
+			"layup_id": 1565,
+			"title": "GOVT085.02: Leadership and Grand Strategy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1558",
+			"layup_id": 1558,
+			"title": "GOVT084.26: Ethnic Conflict",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1598",
+			"layup_id": 1598,
+			"title": "GOVT086.26: Prophets on Trial",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1485",
+			"layup_id": 1485,
+			"title": "GOVT040.15: Commodities, Globalization, and Development in Latin America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1579",
+			"layup_id": 1579,
+			"title": "GOVT085.29: Lessons from America's Foreign Wars",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1539",
+			"layup_id": 1539,
+			"title": "GOVT083.05: The Media and Advertising in American Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1566",
+			"layup_id": 1566,
+			"title": "GOVT085.04: International Relations Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1508",
+			"layup_id": 1508,
+			"title": "GOVT059: Foreign Policy and Decision Making",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 31,
+			"quality_score": 12,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1599",
+			"layup_id": 1599,
+			"title": "GOVT086.27: Ethics of the Family",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1580",
+			"layup_id": 1580,
+			"title": "GOVT085.30: Regional Peace and War in the Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1540",
+			"layup_id": 1540,
+			"title": "GOVT083.06: Political Communication",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1559",
+			"layup_id": 1559,
+			"title": "GOVT084.28: Reform Revolution and Reaction in the Arab World",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1567",
+			"layup_id": 1567,
+			"title": "GOVT085.05: The Wilsonian Tradition in U.S. Foreign Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1541",
+			"layup_id": 1541,
+			"title": "GOVT083.07: Politics and Economics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1600",
+			"layup_id": 1600,
+			"title": "GOVT086.28: Montesquieu in Enlightenment and Revolution",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1581",
+			"layup_id": 1581,
+			"title": "GOVT085.31: Civil-Military Relations",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1560",
+			"layup_id": 1560,
+			"title": "GOVT084.30: Identity and Power in the Americas",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1509",
+			"layup_id": 1509,
+			"title": "GOVT060.01: Ethics, Everyday Life and Law",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1486",
+			"layup_id": 1486,
+			"title": "GOVT040.16: Israel and Palestine:  The Media as a Battlefield",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1568",
+			"layup_id": 1568,
+			"title": "GOVT085.06: Realism and Its Critics in Contemporary IR",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3406",
+			"layup_id": 3406,
+			"title": "GOVT083.08: Localism in America: Ethics, Politics, and Economics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1601",
+			"layup_id": 1601,
+			"title": "GOVT086.29: Leadership: Ancient and Modern",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1582",
+			"layup_id": 1582,
+			"title": "GOVT085.32: International Politics of South Asia",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1561",
+			"layup_id": 1561,
+			"title": "GOVT084.32: Opposition, Resistance, and Authoritarian Resilience in the Arab Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1510",
+			"layup_id": 1510,
+			"title": "GOVT060.03: Wittgenstein and Political Thought",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1487",
+			"layup_id": 1487,
+			"title": "GOVT040.17: Jerusalem: A Political History",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1569",
+			"layup_id": 1569,
+			"title": "GOVT085.08: US Security Policy in the 21st Century",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3451",
+			"layup_id": 3451,
+			"title": "GOVT083.09: Misperceptions in Politics: When Do They Matter and Why?",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1602",
+			"layup_id": 1602,
+			"title": "GOVT086.30: Current Research in Social/Political Philosophy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1583",
+			"layup_id": 1583,
+			"title": "GOVT085.33: Intelligence and Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1562",
+			"layup_id": 1562,
+			"title": "GOVT084.33: Political Economy of the Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3330",
+			"layup_id": 3330,
+			"title": "GOVT040.18: Jews and Arabs in Palestine-Israel: Past and Present",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1511",
+			"layup_id": 1511,
+			"title": "GOVT060.04: Ethics and Public Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 3,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1542",
+			"layup_id": 1542,
+			"title": "GOVT083.12: Gender and American Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3262",
+			"layup_id": 3262,
+			"title": "GOVT085.10: State Making and State Breaking",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3208",
+			"layup_id": 3208,
+			"title": "GOVT086.31: The Political Philosophy of Nietzsche",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1584",
+			"layup_id": 1584,
+			"title": "GOVT085.34: Mercenaries, Pirates, and Warlords:  Non-State Actors in International Relations",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1512",
+			"layup_id": 1512,
+			"title": "GOVT060.05: Indigenous Nationalism: Native Rights and Sovereignty",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1563",
+			"layup_id": 1563,
+			"title": "GOVT084.34: U.S. Policy in Africa and the Great Challenges Africa Faces in the Future",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3446",
+			"layup_id": 3446,
+			"title": "GOVT040.19: State-building in the Middle East and North Africa",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1543",
+			"layup_id": 1543,
+			"title": "GOVT083.14: The Role of Government",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1570",
+			"layup_id": 1570,
+			"title": "GOVT085.11: Nation-Building",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3283",
+			"layup_id": 3283,
+			"title": "GOVT086.32: Tocqueville’s Democracy in America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1585",
+			"layup_id": 1585,
+			"title": "GOVT085.35: US Security Policy in the Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4377",
+			"layup_id": 4377,
+			"title": "GOVT084.35: U.S. – Latin America Relations: The Dynamic of Foreign Policy Formulation",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3447",
+			"layup_id": 3447,
+			"title": "GOVT040.20: Immigration Politics",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1544",
+			"layup_id": 1544,
+			"title": "GOVT083.16: Voting Irregularities and Issues in Electoral Reform",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3741",
+			"layup_id": 3741,
+			"title": "GOVT086.33: Wittgenstein and Contemporary Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1571",
+			"layup_id": 1571,
+			"title": "GOVT085.12: Military Statecraft in International Relations",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3331",
+			"layup_id": 3331,
+			"title": "GOVT085.36: How National Security is Made",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1545",
+			"layup_id": 1545,
+			"title": "GOVT083.17: The American Voter through Time",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4838",
+			"layup_id": 4838,
+			"title": "GOVT084.36: The Future of the International Order",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1513",
+			"layup_id": 1513,
+			"title": "GOVT060.09: Indians and European Political Thought: 1492-1832",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4217",
+			"layup_id": 4217,
+			"title": "GOVT085.37: Resistance and Collaboration",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1572",
+			"layup_id": 1572,
+			"title": "GOVT085.14: 9/11: Origins, Event, Aftermath",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4316",
+			"layup_id": 4316,
+			"title": "GOVT086.34: Ethics, Economics, and the Environment",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3738",
+			"layup_id": 3738,
+			"title": "GOVT040.21: Perception and Misperception: The Politics of the Cold War",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 4,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1546",
+			"layup_id": 1546,
+			"title": "GOVT083.19: American Political Behavior",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4898",
+			"layup_id": 4898,
+			"title": "GOVT084.37: Populism and the Crisis of Liberal Democracy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1514",
+			"layup_id": 1514,
+			"title": "GOVT060.10: Environmental Ethics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4317",
+			"layup_id": 4317,
+			"title": "GOVT086.35: Feminist Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4647",
+			"layup_id": 4647,
+			"title": "GOVT085.15: Economic Statecraft in International Relations",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4378",
+			"layup_id": 4378,
+			"title": "GOVT085.38: Gender and War",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"W",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4314",
+			"layup_id": 4314,
+			"title": "GOVT040.22: The Making of the Modern Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5123",
+			"layup_id": 5123,
+			"title": "GOVT084.38: Trading Places",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"SOC",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1547",
+			"layup_id": 1547,
+			"title": "GOVT083.20: Law and Political Institutions",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1515",
+			"layup_id": 1515,
+			"title": "GOVT060.11: Republicanism: An Alternative",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1573",
+			"layup_id": 1573,
+			"title": "GOVT085.16: The Causes and Prevention of Genocide and Mass Killing",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4648",
+			"layup_id": 4648,
+			"title": "GOVT085.39: Public Opinion and American Foreign Policy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4379",
+			"layup_id": 4379,
+			"title": "GOVT086.36: The Color Line, Lynching and the Black Public Sphere: Social\u0026Political Thought of Ida Wells \u0026 DuBois",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4149",
+			"layup_id": 4149,
+			"title": "GOVT040.23: Energy and Society in the Middle East and North Africa",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1548",
+			"layup_id": 1548,
+			"title": "GOVT083.21: Experiments in Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3158",
+			"layup_id": 3158,
+			"title": "GOVT086.05: Utopia and Its Critics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3449",
+			"layup_id": 3449,
+			"title": "GOVT060.14: Libertarianism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1590",
+			"layup_id": 1590,
+			"title": "GOVT086.07: Morality of Capitalism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1593",
+			"layup_id": 1593,
+			"title": "GOVT086.17: Against the Tide: Excellence in Democratic Age",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4714",
+			"layup_id": 4714,
+			"title": "GOVT086.37: The Ethics of War and Peace",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5125",
+			"layup_id": 5125,
+			"title": "GOVT085.40: The Cold War",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3841",
+			"layup_id": 3841,
+			"title": "GOVT060.15: Adam Smith and Political Economy",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4709",
+			"layup_id": 4709,
+			"title": "GOVT040.24: Dictatorship and Dissent: the Middle East in a Global Context",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5126",
+			"layup_id": 5126,
+			"title": "GOVT086.38: Justice and Work",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1591",
+			"layup_id": 1591,
+			"title": "GOVT086.15: Tocqueville and His Critics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1586",
+			"layup_id": 1586,
+			"title": "GOVT086.01: Multiculturalism",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4376",
+			"layup_id": 4376,
+			"title": "GOVT083.22: Political Representation in the U.S.",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3281",
+			"layup_id": 3281,
+			"title": "GOVT090.01: London FSP",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3902",
+			"layup_id": 3902,
+			"title": "GOVT060.16: Capitalism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1592",
+			"layup_id": 1592,
+			"title": "GOVT086.16: Contemporary Aboriginal Politics in Canada",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1588",
+			"layup_id": 1588,
+			"title": "GOVT086.03: Contemporary Political Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1589",
+			"layup_id": 1589,
+			"title": "GOVT086.04: Power and Statecraft in the Ancient World",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4646",
+			"layup_id": 4646,
+			"title": "GOVT083.23: Race and Politics in the U.S.",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1587",
+			"layup_id": 1587,
+			"title": "GOVT086.02: Political Speech",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4216",
+			"layup_id": 4216,
+			"title": "GOVT060.17: Arab Political Thought",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1492",
+			"layup_id": 1492,
+			"title": "GOVT049.01: Politics in Latin America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1551",
+			"layup_id": 1551,
+			"title": "GOVT084.06: Identity and Power in the Americas",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1606",
+			"layup_id": 1606,
+			"title": "GOVT093: Washington DC - Internship Essays",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4373",
+			"layup_id": 4373,
+			"title": "GOVT040.14: LatinAmer Democracy\u0026Develop;",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1550",
+			"layup_id": 1550,
+			"title": "GOVT084.02: Ethnicity and Representation",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4651",
+			"layup_id": 4651,
+			"title": "GOVT060.18: Daniel Webster and the Dartmouth College Case",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1603",
+			"layup_id": 1603,
+			"title": "GOVT090: Seminar",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1488",
+			"layup_id": 1488,
+			"title": "GOVT042: Politics of Africa",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 3,
+			"quality_score": 4,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1493",
+			"layup_id": 1493,
+			"title": "GOVT049.03: Latin American Politics: Cuba",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4374",
+			"layup_id": 4374,
+			"title": "GOVT060.19: Black Political Thought",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1604",
+			"layup_id": 1604,
+			"title": "GOVT091: Seminar",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1607",
+			"layup_id": 1607,
+			"title": "GOVT094: Seminar",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1494",
+			"layup_id": 1494,
+			"title": "GOVT049.04: Sex and the State in Latin America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1489",
+			"layup_id": 1489,
+			"title": "GOVT044: Globalization and Global Development",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1605",
+			"layup_id": 1605,
+			"title": "GOVT092.02: Public Policy in Cross-national Perspective",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4713",
+			"layup_id": 4713,
+			"title": "GOVT083.24: Inequality and American Democracy",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4315",
+			"layup_id": 4315,
+			"title": "GOVT060.20: Introduction to Law, Social Justice, and Trial Practice",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": -3,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1608",
+			"layup_id": 1608,
+			"title": "GOVT095: Seminar",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1495",
+			"layup_id": 1495,
+			"title": "GOVT049.05: Protest and Parties in Latin America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3282",
+			"layup_id": 3282,
+			"title": "GOVT092: Seminar",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4935",
+			"layup_id": 4935,
+			"title": "GOVT083.25: Hating the other side: polarization in American Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1490",
+			"layup_id": 1490,
+			"title": "GOVT046: Politics of the Middle East and North Africa",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 11,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4710",
+			"layup_id": 4710,
+			"title": "GOVT060.21: Italian Political Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3909",
+			"layup_id": 3909,
+			"title": "GOVT097: Honors Research",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3266",
+			"layup_id": 3266,
+			"title": "GOVT049.06: U.S. – Latin America Relations: The Dynamic of Foreign Policy Formulation",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1549",
+			"layup_id": 1549,
+			"title": "GOVT084.01: Dilemmas of Development: India, China, and Middle East",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1594",
+			"layup_id": 1594,
+			"title": "GOVT086.18: Contemporary Readings on Justice",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1491",
+			"layup_id": 1491,
+			"title": "GOVT047: The Arab-Israeli Conflict (Comparative Politics or International Relations)",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1609",
+			"layup_id": 1609,
+			"title": "GOVT098: Honors Research (This course counts as a seminar course for the major or minor.)",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1496",
+			"layup_id": 1496,
+			"title": "GOVT050.02: Civil War, Insurgency, and the International Response",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1525",
+			"layup_id": 1525,
+			"title": "GOVT068: The Future of Capitalism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 12,
+			"quality_score": 5,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3740",
+			"layup_id": 3740,
+			"title": "GOVT086.19: Race, Law and Identity",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1520",
+			"layup_id": 1520,
+			"title": "GOVT064.02: Modern Political Thought",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1522",
+			"layup_id": 1522,
+			"title": "GOVT066.02: Constitutional Law, Development, and Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1517",
+			"layup_id": 1517,
+			"title": "GOVT062: Theorizing Free Speech",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1516",
+			"layup_id": 1516,
+			"title": "GOVT061: Jurisprudence",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 19,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1553",
+			"layup_id": 1553,
+			"title": "GOVT084.11: Democracy and Accountability in Latin America",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1523",
+			"layup_id": 1523,
+			"title": "GOVT066.03: Democratic Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1518",
+			"layup_id": 1518,
+			"title": "GOVT063: Foundations of Political Thought: Athens and Jerusalem",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 6,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4652",
+			"layup_id": 4652,
+			"title": "GOVT060.22: Law, Power \u0026 Society",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1519",
+			"layup_id": 1519,
+			"title": "GOVT064.01: Liberalism and Its Critics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1521",
+			"layup_id": 1521,
+			"title": "GOVT065: American Political Thought",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1524",
+			"layup_id": 1524,
+			"title": "GOVT067: Civil Liberties Legal and Normative Approaches",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"W",
+				"SOC"
+			],
+			"total_reviews": 8,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1527",
+			"layup_id": 1527,
+			"title": "GOVT080: Readings in Government",
+			"department": "GOVT",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1528",
+			"layup_id": 1528,
+			"title": "GOVT081.01: Advanced Game Theory",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1531",
+			"layup_id": 1531,
+			"title": "GOVT081.05: Left and Right : Party Spirit and Ideology in American Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1526",
+			"layup_id": 1526,
+			"title": "GOVT069: Federal Indian Law",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 5,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1529",
+			"layup_id": 1529,
+			"title": "GOVT081.02: Memory, Nationalism, and War. (Comparative or International Relations)",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1533",
+			"layup_id": 1533,
+			"title": "GOVT081.08: Global Public Opinion",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1530",
+			"layup_id": 1530,
+			"title": "GOVT081.03: Economic Growth and Reform in the Emerging Economies. (Comparative or International Relations)",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3157",
+			"layup_id": 3157,
+			"title": "GOVT081.09: Democracy in Age of Populism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1532",
+			"layup_id": 1532,
+			"title": "GOVT081.07: Political Mythbusters: Testing Common Claims about Politics",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1552",
+			"layup_id": 1552,
+			"title": "GOVT084.09: Political Responses to Capitalism",
+			"department": "GOVT",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:38:32",
+	"total": 240
+}

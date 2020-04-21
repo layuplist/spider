@@ -1,0 +1,1270 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/4693",
+			"layup_id": 4693,
+			"title": "ASCL007.02: Intl Conflict\u0026Coop; in Asia",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4541",
+			"layup_id": 4541,
+			"title": "ASCL010.02: Introduction to Korean Culture",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 2,
+			"quality_score": -2,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5026",
+			"layup_id": 5026,
+			"title": "ASCL001.01: Urban Asia",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"SOC",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4556",
+			"layup_id": 4556,
+			"title": "ASCL060.02: Women in China",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4547",
+			"layup_id": 4547,
+			"title": "ASCL054.02: Ethnic Identities in Modern South Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4587",
+			"layup_id": 4587,
+			"title": "ASCL067.01: Politics of Japan: A Unique Democracy?",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5027",
+			"layup_id": 5027,
+			"title": "ASCL061.02: Tibetan Buddhism",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4559",
+			"layup_id": 4559,
+			"title": "ASCL060.06: Traditional Chinese Short Fiction",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4539",
+			"layup_id": 4539,
+			"title": "ASCL010.01: Introduction to Chinese Culture",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": -4,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4565",
+			"layup_id": 4565,
+			"title": "ASCL060.21: Body Politics in Japan: Beauty, Disfigurement, Corporeality",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4548",
+			"layup_id": 4548,
+			"title": "ASCL054.03: The City in Modern South Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4889",
+			"layup_id": 4889,
+			"title": "ASCL091: Honors Thesis II",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4542",
+			"layup_id": 4542,
+			"title": "ASCL010.03: Introduction to Japanese Culture",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5028",
+			"layup_id": 5028,
+			"title": "ASCL061.03: Buddhism and Film",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4557",
+			"layup_id": 4557,
+			"title": "ASCL060.03: Beyond the Great Wall: Frontier in Traditional Chinese Literature",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4567",
+			"layup_id": 4567,
+			"title": "ASCL060.22: Gender, Sexuality, and Power in Premodern Japan",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5201",
+			"layup_id": 5201,
+			"title": "ASCL062.13: Women, Gender \u0026 Art",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4560",
+			"layup_id": 4560,
+			"title": "ASCL060.07: Chinese Painting, Poetry, and Philosophy",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4339",
+			"layup_id": 4339,
+			"title": "ASCL011.04: Introduction to South Asia: Culture and Identity on the Indian Subcontinent",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4549",
+			"layup_id": 4549,
+			"title": "ASCL054.04: Partition in South Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4558",
+			"layup_id": 4558,
+			"title": "ASCL060.04: Modern Chinese Literature across Time, Space and Media",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5041",
+			"layup_id": 5041,
+			"title": "ASCL067.02: Political Economy of China",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5033",
+			"layup_id": 5033,
+			"title": "ASCL063.01: Asian Medical Systems",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4568",
+			"layup_id": 4568,
+			"title": "ASCL060.23: Critiquing Modern Japan through the Works of Murakami Haruki",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5029",
+			"layup_id": 5029,
+			"title": "ASCL061.04: Buddhist Meditation Theory",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4561",
+			"layup_id": 4561,
+			"title": "ASCL060.09: Classical Chinese Poetry",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4543",
+			"layup_id": 4543,
+			"title": "ASCL051.01: Hinduism",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4583",
+			"layup_id": 4583,
+			"title": "ASCL064.01: Cultural Struggles in Colonial Korea",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4341",
+			"layup_id": 4341,
+			"title": "ASCL060.05: Love and Desire in Modern Chinese Literature",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4562",
+			"layup_id": 4562,
+			"title": "ASCL060.19: Languages of China",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4569",
+			"layup_id": 4569,
+			"title": "ASCL060.24: Image and Text in Modernizing Japan",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4694",
+			"layup_id": 4694,
+			"title": "ASCL054.05: Animals and Environmental History in the US and India",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4891",
+			"layup_id": 4891,
+			"title": "ASCL069.22: Reading Edo-Tokyo: An Interdisciplinary Approach",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5007",
+			"layup_id": 5007,
+			"title": "ASCL061.05: Women and Religion in Japan",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4544",
+			"layup_id": 4544,
+			"title": "ASCL051.02: Modern Hinduism",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4585",
+			"layup_id": 4585,
+			"title": "ASCL064.03: North Korea: Origins and Transitions",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4598",
+			"layup_id": 4598,
+			"title": "ASCL070.16: Eat, Drink, Japan: An Interdisciplinary Approach",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4564",
+			"layup_id": 4564,
+			"title": "ASCL060.20: Languages and Scripts of Gender, Class, and Nation",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4570",
+			"layup_id": 4570,
+			"title": "ASCL060.25: The Art of War: Stories, Paintings, Films, and Propaganda from Japan’s Modern Wars",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4802",
+			"layup_id": 4802,
+			"title": "ASCL070.17: Women in Asian Cities",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4800",
+			"layup_id": 4800,
+			"title": "ASCL054.06: Ethnicities and the Environment in India",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5098",
+			"layup_id": 5098,
+			"title": "ASCL061.06: Religions of Japan",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4593",
+			"layup_id": 4593,
+			"title": "ASCL070.07: Asian Performance Traditions",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4343",
+			"layup_id": 4343,
+			"title": "ASCL070.01: Sacred Architecture of Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4586",
+			"layup_id": 4586,
+			"title": "ASCL064.04: Christianity in Korea",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4920",
+			"layup_id": 4920,
+			"title": "ASCL051.03: Indian Buddhism",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": -2,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4801",
+			"layup_id": 4801,
+			"title": "ASCL060.92: Theory and Practice of Translation",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4803",
+			"layup_id": 4803,
+			"title": "ASCL070.18: Social Revolutions East and West: Japan and the United States in the 1960s",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"CI",
+				"INT",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5008",
+			"layup_id": 5008,
+			"title": "ASCL054.09: The Vietnam War",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4588",
+			"layup_id": 4588,
+			"title": "ASCL070.02: East Meets West",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4594",
+			"layup_id": 4594,
+			"title": "ASCL070.08: Nomads from Central Asia to the Middle East",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4695",
+			"layup_id": 4695,
+			"title": "ASCL064.05: The Two Koreas, 1948-Present",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4574",
+			"layup_id": 4574,
+			"title": "ASCL062.01: Chinese Calligraphy",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5099",
+			"layup_id": 5099,
+			"title": "ASCL070.20: Buddhist Meditation Theory",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5198",
+			"layup_id": 5198,
+			"title": "ASCL051.04: Tibetan Buddhism",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4589",
+			"layup_id": 4589,
+			"title": "ASCL070.03: Asian Animation as Socio-Political Artifact",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4344",
+			"layup_id": 4344,
+			"title": "ASCL070.09: Global Sounds",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4550",
+			"layup_id": 4550,
+			"title": "ASCL055.01: Anthropology of Tibet and the Himalayas",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4577",
+			"layup_id": 4577,
+			"title": "ASCL062.02: Traditional Performance in China: Past and Present",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5034",
+			"layup_id": 5034,
+			"title": "ASCL064.06: Colonialism, Development, and the Environment in Africa and Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5100",
+			"layup_id": 5100,
+			"title": "ASCL070.21: EnvironmntlHist China\u0026India;",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"SOC",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4545",
+			"layup_id": 4545,
+			"title": "ASCL052.01: Music and Dance of North India",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4571",
+			"layup_id": 4571,
+			"title": "ASCL060.93: Countercultures of Japan’s 1960s",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4590",
+			"layup_id": 4590,
+			"title": "ASCL070.04: Tokyo and Shanghai as Ideas: Urban Space/Imagined Modernity",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4595",
+			"layup_id": 4595,
+			"title": "ASCL070.10: Music from the Lands of the Silk Road",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4551",
+			"layup_id": 4551,
+			"title": "ASCL059.01: Topics TBA Foreign Study in India",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5035",
+			"layup_id": 5035,
+			"title": "ASCL064.07: The History of Modern South Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4578",
+			"layup_id": 4578,
+			"title": "ASCL062.06: Exploring Korea Through Film",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4599",
+			"layup_id": 4599,
+			"title": "ASCL080.01: Colonial Photography",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"CI",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4546",
+			"layup_id": 4546,
+			"title": "ASCL053.01: Divine Love: Desire, Sex, and Romance in Traditions of India",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4572",
+			"layup_id": 4572,
+			"title": "ASCL060.94: Chinese Martial Arts Fiction",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4596",
+			"layup_id": 4596,
+			"title": "ASCL070.11: Catastrophe, Memory, and Narrative: Japanese and Jewish Responses to Atrocity",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4591",
+			"layup_id": 4591,
+			"title": "ASCL070.05: China in the Japanese Imagination: Translations of Identity",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5036",
+			"layup_id": 5036,
+			"title": "ASCL064.08: The History of China since 1800",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4579",
+			"layup_id": 4579,
+			"title": "ASCL062.07: Introduction to Korean Art",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4552",
+			"layup_id": 4552,
+			"title": "ASCL059.02: Topics TBA Foreign Study in India",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4600",
+			"layup_id": 4600,
+			"title": "ASCL080.03: Arts and Culture of Korea’s Last Dynasty",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4340",
+			"layup_id": 4340,
+			"title": "ASCL054.01: Political Economy of Development in Colonial and Postcolonial South Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4592",
+			"layup_id": 4592,
+			"title": "ASCL070.06: Magic and Supernaturalism in Asian Literature and Film",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4597",
+			"layup_id": 4597,
+			"title": "ASCL070.12: Voices and Images from Asian Borderlands",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5037",
+			"layup_id": 5037,
+			"title": "ASCL064.09: Late Imperial China in Global Context",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4580",
+			"layup_id": 4580,
+			"title": "ASCL062.08: Modern and Contemporary Korean Art",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4553",
+			"layup_id": 4553,
+			"title": "ASCL059.03: Foreign Study in India -Topics TBA",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4601",
+			"layup_id": 4601,
+			"title": "ASCL080.04: Lu Xun and Hu Shi",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4342",
+			"layup_id": 4342,
+			"title": "ASCL061.01: The Religions of China",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5039",
+			"layup_id": 5039,
+			"title": "ASCL064.11: The Emergence of Modern Japan",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5030",
+			"layup_id": 5030,
+			"title": "ASCL062.10: Sacred Art and Architecture of Japan",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5031",
+			"layup_id": 5031,
+			"title": "ASCL062.11: The Japanese Painting Tradition",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5040",
+			"layup_id": 5040,
+			"title": "ASCL064.12: Postwar Japan: From Occupied Nation to Economic Superpower",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4573",
+			"layup_id": 4573,
+			"title": "ASCL060.95: Modern Chinese Poetry",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4555",
+			"layup_id": 4555,
+			"title": "ASCL060.01: Traditional Chinese Short Fiction",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5038",
+			"layup_id": 5038,
+			"title": "ASCL064.10: Gandhi, Twentieth Century India and the World",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4345",
+			"layup_id": 4345,
+			"title": "ASCL080.05: Regional Identity in Modern Chinese Literature",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4785",
+			"layup_id": 4785,
+			"title": "ASCL090: Honors Thesis I",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4603",
+			"layup_id": 4603,
+			"title": "ASCL080.06: Chinese Calligraphy and Manuscript Culture: Orchid Pavillion",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4581",
+			"layup_id": 4581,
+			"title": "ASCL062.09: Krieger's Virtual Girlfriend: Japanese Anime and the Idea of the Posthuman",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4804",
+			"layup_id": 4804,
+			"title": "ASCL080.07: The History of Development in Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5042",
+			"layup_id": 5042,
+			"title": "ASCL080.08: Imperialism in Modern East Asia",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5032",
+			"layup_id": 5032,
+			"title": "ASCL062.12: Japanese Prints",
+			"department": "ASCL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4738",
+			"layup_id": 4738,
+			"title": "ASCL089: Independent Research",
+			"department": "ASCL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:19:49",
+	"total": 100
+}

@@ -1,0 +1,1084 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1276",
+			"layup_id": 1276,
+			"title": "FREN003: Introductory French III",
+			"department": "FREN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 135,
+			"quality_score": 39,
+			"layup_score": 9
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1278",
+			"layup_id": 1278,
+			"title": "FREN006: Language Study Abroad: Readings in French Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 13,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1275",
+			"layup_id": 1275,
+			"title": "FREN002: Introductory French II",
+			"department": "FREN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 198,
+			"quality_score": 45,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1274",
+			"layup_id": 1274,
+			"title": "FREN001: Introductory French I",
+			"department": "FREN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 180,
+			"quality_score": 43,
+			"layup_score": 12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1330",
+			"layup_id": 1330,
+			"title": "FREN089: Honors Seminar",
+			"department": "FREN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1325",
+			"layup_id": 1325,
+			"title": "FREN075.01: Faces of the Criminal",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4101",
+			"layup_id": 4101,
+			"title": "FREN045.05: Between Revolution and Oblivion: The Politics of Literature in Nineteenth-Century France",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3856",
+			"layup_id": 3856,
+			"title": "FREN010.18: The Medieval Mirror of Ourselves",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1313",
+			"layup_id": 1313,
+			"title": "FREN053: French Thought: Philosophical Issues",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 10,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1277",
+			"layup_id": 1277,
+			"title": "FREN005: Language Study Abroad: Aspects of French Civilization",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"W"
+			],
+			"total_reviews": 6,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3206",
+			"layup_id": 3206,
+			"title": "FREN075.02: Toward a History of French Cinema",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1305",
+			"layup_id": 1305,
+			"title": "FREN040.02: French and Francophone Poetry from Baudelaire through Césaire",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1318",
+			"layup_id": 1318,
+			"title": "FREN055.04: India in the French Imagination",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4704",
+			"layup_id": 4704,
+			"title": "FREN040.07: Constellations of Loss",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4102",
+			"layup_id": 4102,
+			"title": "FREN045.06: Debate, Dialogue and Advice: Launching France on Rhetoric",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5050",
+			"layup_id": 5050,
+			"title": "FREN075.03: Cinema and Modern Life",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1294",
+			"layup_id": 1294,
+			"title": "FREN021: Introduction to Francophone Literature and Culture",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 20,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1295",
+			"layup_id": 1295,
+			"title": "FREN022: Introduction to French Literature I: the Middle Ages and the Renaissance",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4311",
+			"layup_id": 4311,
+			"title": "FREN055.05: France, 1914-1944: from One War to Another",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3056",
+			"layup_id": 3056,
+			"title": "FREN007.02: French Graphic Novels",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3872",
+			"layup_id": 3872,
+			"title": "FREN040.06: Selfies: autobiographie, autoportrair, autofiction",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1304",
+			"layup_id": 1304,
+			"title": "FREN040: Acting French",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 15,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1308",
+			"layup_id": 1308,
+			"title": "FREN045: Dartmouth Meets the French Enlightenment",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1317",
+			"layup_id": 1317,
+			"title": "FREN055: French Culture and Politics",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 14,
+			"quality_score": 6,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1324",
+			"layup_id": 1324,
+			"title": "FREN075: French Film",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1296",
+			"layup_id": 1296,
+			"title": "FREN023: Introduction to French Literature II: Neoclassicism and the Eighteenth Century",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 12,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4459",
+			"layup_id": 4459,
+			"title": "FREN010.19: A La Recherche du bonheur",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4145",
+			"layup_id": 4145,
+			"title": "FREN007.04: Louis XIV, Then \u0026 Now",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1306",
+			"layup_id": 1306,
+			"title": "FREN040.03: Récits méditerranéens",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1309",
+			"layup_id": 1309,
+			"title": "FREN045.03: De la motérialité : the Body in 19th-century French Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1326",
+			"layup_id": 1326,
+			"title": "FREN078: Senior Major Workshop: Methods in Reading, Writing and Cultural Analysis",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1319",
+			"layup_id": 1319,
+			"title": "FREN060: Gender and French Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1311",
+			"layup_id": 1311,
+			"title": "FREN050.05: Montaigne and Proust",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1297",
+			"layup_id": 1297,
+			"title": "FREN024: Introduction to French Literature and Culture III: Nineteenth Century",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 15,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1279",
+			"layup_id": 1279,
+			"title": "FREN007: First-Year Seminars in French Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 30,
+			"quality_score": 7,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1307",
+			"layup_id": 1307,
+			"title": "FREN040.04: Classical Comedy: Molière",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3325",
+			"layup_id": 3325,
+			"title": "FREN045.04: What is the Contemporary?",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3327",
+			"layup_id": 3327,
+			"title": "FREN080.03: Men Behaving Badly: The Offending Sex in Literature and Music",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1321",
+			"layup_id": 1321,
+			"title": "FREN070.02: Francophone Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4310",
+			"layup_id": 4310,
+			"title": "FREN010.20: Representations of war in French literature and film from the Middle Ages to the present",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1280",
+			"layup_id": 1280,
+			"title": "FREN008: Exploring French Culture and Language",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 83,
+			"quality_score": 16,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3944",
+			"layup_id": 3944,
+			"title": "FREN040.05: Acting French",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1301",
+			"layup_id": 1301,
+			"title": "FREN031: The French Language: Study Abroad",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1312",
+			"layup_id": 1312,
+			"title": "FREN050.06: Michel Foucault et l’Histoire de la sexualité",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3873",
+			"layup_id": 3873,
+			"title": "FREN080.04: Color Coding: The Intensive Use of Color in Medieval Media",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1322",
+			"layup_id": 1322,
+			"title": "FREN070.03: Passages and Ambiguous Adventures: Colonial and Postcolonial Questions of Migration and Immigration",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4146",
+			"layup_id": 4146,
+			"title": "FREN009: Language Study Abroad: Readings in French Literature",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1298",
+			"layup_id": 1298,
+			"title": "FREN025: Introduction to French Literature and Culture IV: Twentieth and Twenty-First Centuries",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 18,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3326",
+			"layup_id": 3326,
+			"title": "FREN070.05: Mystical and Earthly Love",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1299",
+			"layup_id": 1299,
+			"title": "FREN029: French Civilization: Study Abroad",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1327",
+			"layup_id": 1327,
+			"title": "FREN080: French Literature and the Other Arts",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 8,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1320",
+			"layup_id": 1320,
+			"title": "FREN070: Francophone Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1310",
+			"layup_id": 1310,
+			"title": "FREN050: French Literature: Major Figures",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1282",
+			"layup_id": 1282,
+			"title": "FREN010.02: The Heroic Heart",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1323",
+			"layup_id": 1323,
+			"title": "FREN070.04: Pourtours mystiques",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1303",
+			"layup_id": 1303,
+			"title": "FREN035.03: Fifty Shades of Language: Finding pleasure in literary constraints",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1300",
+			"layup_id": 1300,
+			"title": "FREN030: French Literature: Study Abroad",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1328",
+			"layup_id": 1328,
+			"title": "FREN081: Seminar",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 5,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1329",
+			"layup_id": 1329,
+			"title": "FREN087: Honors Thesis Reading and Research",
+			"department": "FREN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1281",
+			"layup_id": 1281,
+			"title": "FREN010: Introduction to French Literature: Masterworks and Great Issues",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 68,
+			"quality_score": 17,
+			"layup_score": 9
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1314",
+			"layup_id": 1314,
+			"title": "FREN053.05: French Theory",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1288",
+			"layup_id": 1288,
+			"title": "FREN010.12: The Other's Gaze",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1283",
+			"layup_id": 1283,
+			"title": "FREN010.03: Invitation au Voyage",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1302",
+			"layup_id": 1302,
+			"title": "FREN035: The French Language: Introduction to Linguistics and Rhetoric",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1316",
+			"layup_id": 1316,
+			"title": "FREN053.07: Confrontations with Death in the French Tradition",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1292",
+			"layup_id": 1292,
+			"title": "FREN015: Business French and the French Economy",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 6,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3871",
+			"layup_id": 3871,
+			"title": "FREN020.01: France and the Culture of Conversation",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3205",
+			"layup_id": 3205,
+			"title": "FREN053.08: Paris, philosophies de l'espace",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1286",
+			"layup_id": 1286,
+			"title": "FREN010.10: Du mal/On Evil",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1289",
+			"layup_id": 1289,
+			"title": "FREN010.13: Games People Play",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3907",
+			"layup_id": 3907,
+			"title": "FREN011: Intensive French",
+			"department": "FREN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4372",
+			"layup_id": 4372,
+			"title": "FREN020.02: The Locations of French Culture",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1315",
+			"layup_id": 1315,
+			"title": "FREN053.06: Human Rights in France",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3204",
+			"layup_id": 3204,
+			"title": "FREN010.15: Literature and Images",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1287",
+			"layup_id": 1287,
+			"title": "FREN010.11: On Monsters and Monstrosity",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3324",
+			"layup_id": 3324,
+			"title": "FREN010.16: The Feeling of Love",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1290",
+			"layup_id": 1290,
+			"title": "FREN010.14: Le sentiment amoureux",
+			"department": "FREN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1291",
+			"layup_id": 1291,
+			"title": "FREN012: Advanced Writing and Speaking in French",
+			"department": "FREN",
+			"offered": true,
+			"distribs": [
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1293",
+			"layup_id": 1293,
+			"title": "FREN020: Interpreting French Cultures",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 8,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3839",
+			"layup_id": 3839,
+			"title": "FREN010.17: Saints, Martyrs, Demons",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1284",
+			"layup_id": 1284,
+			"title": "FREN010.06: The Anatomy of Passion",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1285",
+			"layup_id": 1285,
+			"title": "FREN010.08: Living in Paris/Habiter Paris",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3078",
+			"layup_id": 3078,
+			"title": "FREN010.09: Intro to French Literature",
+			"department": "FREN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:35:08",
+	"total": 83
+}

@@ -1,0 +1,764 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/3114",
+			"layup_id": 3114,
+			"title": "NAS007.02: America's Indian",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4232",
+			"layup_id": 4232,
+			"title": "NAS007.05: Aboriginal Pltcs in Canada",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4170",
+			"layup_id": 4170,
+			"title": "NAS030.16: Re-Mapping Tribal Narratives",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2210",
+			"layup_id": 2210,
+			"title": "NAS025: Indian Country Today",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 25,
+			"quality_score": 12,
+			"layup_score": 8
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2225",
+			"layup_id": 2225,
+			"title": "NAS044: Indigenous Law, the State \u0026 Legal Pluralism",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3414",
+			"layup_id": 3414,
+			"title": "NAS030.10: Language, Landscape, and Identity in Native North America: The Voices of time immemorial",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2231",
+			"layup_id": 2231,
+			"title": "NAS055: The First President and the First Americans: The Indian World of George Washington",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3823",
+			"layup_id": 3823,
+			"title": "NAS030.13: History of the Indigenous Peoples of the Southwest",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4855",
+			"layup_id": 4855,
+			"title": "NAS007.06: Native Americans and Sports",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3790",
+			"layup_id": 3790,
+			"title": "NAS030.14: Indigeneity and Development",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4856",
+			"layup_id": 4856,
+			"title": "NAS030.17: Trickster re: mediations",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2201",
+			"layup_id": 2201,
+			"title": "NAS007: First-Year Seminars in Native American Studies",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 17,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5022",
+			"layup_id": 5022,
+			"title": "NAS028:",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2226",
+			"layup_id": 2226,
+			"title": "NAS045: American Indian Intellectuals",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2234",
+			"layup_id": 2234,
+			"title": "NAS081.02: American Indian Intellectuals",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3455",
+			"layup_id": 3455,
+			"title": "NAS030.11: Circumpolar Archaeology and Environments",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3924",
+			"layup_id": 3924,
+			"title": "NAS030.15: Contemporary Native American Art",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4857",
+			"layup_id": 4857,
+			"title": "NAS030.18: Indians Who Rock the World",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4947",
+			"layup_id": 4947,
+			"title": "NAS030.02: Modern Native Amer Art Hist",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2227",
+			"layup_id": 2227,
+			"title": "NAS047: Contemporary Native American Poetry",
+			"department": "NAS",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2202",
+			"layup_id": 2202,
+			"title": "NAS008: Perspectives in Native American Studies",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 12,
+			"quality_score": 11,
+			"layup_score": 43
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3822",
+			"layup_id": 3822,
+			"title": "NAS030.12: Native Americans of the Southwest: Realities and Representations",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2218",
+			"layup_id": 2218,
+			"title": "NAS035: Native American Literature",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 4,
+			"layup_score": 16
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2219",
+			"layup_id": 2219,
+			"title": "NAS036: Indigenous Nationalism: Native Rights and Sovereignty",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 2,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2228",
+			"layup_id": 2228,
+			"title": "NAS048: Indians and European Political Thought: 1492-1832",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2212",
+			"layup_id": 2212,
+			"title": "NAS030.07: Indians and Europeans in the Early Modern Southeast (1540-1763)",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2203",
+			"layup_id": 2203,
+			"title": "NAS010: Peoples and Cultures of Native North America",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2233",
+			"layup_id": 2233,
+			"title": "NAS080.01: Bear Clan Texts",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4406",
+			"layup_id": 4406,
+			"title": "NAS056: Indigenous North American Borderlands",
+			"department": "NAS",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4948",
+			"layup_id": 4948,
+			"title": "NAS030.19: Indigistory-Dartmouth and Beyond: Digital Storytelling in American Indian Communities and Contexts",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2220",
+			"layup_id": 2220,
+			"title": "NAS037: Alaska: American Dreams and Native Realities",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2213",
+			"layup_id": 2213,
+			"title": "NAS030.08: Contemporary Native American Art",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2229",
+			"layup_id": 2229,
+			"title": "NAS049: The Land of the Totem Poles: Native Peoples of the Northwest Coast",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2204",
+			"layup_id": 2204,
+			"title": "NAS011: Ancient Native Americans",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2232",
+			"layup_id": 2232,
+			"title": "NAS080: Advanced Seminars in Native American Studies",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2211",
+			"layup_id": 2211,
+			"title": "NAS030: Special Topics in Native American Studies",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2236",
+			"layup_id": 2236,
+			"title": "NAS085: Independent Study in Native American Studies",
+			"department": "NAS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2221",
+			"layup_id": 2221,
+			"title": "NAS038: American Odysseys: Lewis and Clark, American Indians, and the New Nation",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2230",
+			"layup_id": 2230,
+			"title": "NAS050: Federal Indian Law",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2214",
+			"layup_id": 2214,
+			"title": "NAS030.09: The Native Southwest: Peoples, Places \u0026 Stories",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4405",
+			"layup_id": 4405,
+			"title": "NAS013: Feast and Forest",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4260",
+			"layup_id": 4260,
+			"title": "NAS051: Pan-Indianism in American History",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2235",
+			"layup_id": 2235,
+			"title": "NAS081.03: Pen and Ink Witchcraft: Native American History Through Treaties",
+			"department": "NAS",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2215",
+			"layup_id": 2215,
+			"title": "NAS031: Indians in American Literature",
+			"department": "NAS",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2223",
+			"layup_id": 2223,
+			"title": "NAS041: Native American Literature and the Law",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2222",
+			"layup_id": 2222,
+			"title": "NAS040: Language Revitalization",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2224",
+			"layup_id": 2224,
+			"title": "NAS042: Gender Topics in Native American Life",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2205",
+			"layup_id": 2205,
+			"title": "NAS014: The Invasion of America: American Indian History Pre-Contact to 1800",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 9,
+			"quality_score": 5,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2207",
+			"layup_id": 2207,
+			"title": "NAS018: Indigenous Environmental Studies",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2208",
+			"layup_id": 2208,
+			"title": "NAS019: Encountering Forests",
+			"department": "NAS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2206",
+			"layup_id": 2206,
+			"title": "NAS015: American Indians and American Expansion: 1800 to 1924",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2216",
+			"layup_id": 2216,
+			"title": "NAS032: Indian Killers: Murder and Mystery in Native American Literature and Film",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2238",
+			"layup_id": 2238,
+			"title": "NAS087: Native American Studies Honors",
+			"department": "NAS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2209",
+			"layup_id": 2209,
+			"title": "NAS022: Native American Lives",
+			"department": "NAS",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2237",
+			"layup_id": 2237,
+			"title": "NAS086: Independent Research in Native American Studies",
+			"department": "NAS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2217",
+			"layup_id": 2217,
+			"title": "NAS034: Native American Oral Traditional Literatures",
+			"department": "NAS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 9,
+			"quality_score": 2,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4158",
+			"layup_id": 4158,
+			"title": "NAS016: 20th Century Native American History",
+			"department": "NAS",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:29:25",
+	"total": 57
+}

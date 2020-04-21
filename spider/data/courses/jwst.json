@@ -1,0 +1,915 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1841",
+			"layup_id": 1841,
+			"title": "JWST004: Religion of Israel: The Hebrew Bible (Old Testament)",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 23,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1848",
+			"layup_id": 1848,
+			"title": "JWST021.01: Jewish American Literature",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1846",
+			"layup_id": 1846,
+			"title": "JWST016: Introduction to Hebraic and Israeli Culture",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4385",
+			"layup_id": 4385,
+			"title": "JWST014: The Jewish Atlantic",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1845",
+			"layup_id": 1845,
+			"title": "JWST011: History and Culture of the Jews II: The Modern Period",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 7,
+			"quality_score": -4,
+			"layup_score": 10
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1843",
+			"layup_id": 1843,
+			"title": "JWST007: First-Year Seminars in Jewish Studies",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 21,
+			"quality_score": 5,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4223",
+			"layup_id": 4223,
+			"title": "JWST007.06: Prague, Jews and Mystery",
+			"department": "JWST",
+			"offered": true,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1844",
+			"layup_id": 1844,
+			"title": "JWST010: History and Culture of the Jews I: The Classical Period",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3889",
+			"layup_id": 3889,
+			"title": "JWST012.01: Jews and Cities: Urban Encounter and Cultural Transformations",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1842",
+			"layup_id": 1842,
+			"title": "JWST006: Introduction to Judaism",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 46,
+			"quality_score": 10,
+			"layup_score": 12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1852",
+			"layup_id": 1852,
+			"title": "JWST022.03: From Fanny to the Nanny: Jewish Women and Humor (Identical to WGST 56.7)",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1847",
+			"layup_id": 1847,
+			"title": "JWST021: Jewish American Literature",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1849",
+			"layup_id": 1849,
+			"title": "JWST021.02: Modern Jewish American Women Writers",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1850",
+			"layup_id": 1850,
+			"title": "JWST022.01: Jews and Hollywood",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1851",
+			"layup_id": 1851,
+			"title": "JWST022.02: Jews in American Culture: The New York Intellectuals",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1854",
+			"layup_id": 1854,
+			"title": "JWST024.02: From Genesis to Seinfeld: Jewish Humor and its Roots",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1855",
+			"layup_id": 1855,
+			"title": "JWST024.03: Midrash: How the Rabbis Interpreted the Bible",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1856",
+			"layup_id": 1856,
+			"title": "JWST024.04: Struggle and Rebirth in Hebrew and Yiddish Literature",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1857",
+			"layup_id": 1857,
+			"title": "JWST024.05: Rabbis, Rogues, and Schlemiels: Jewish Humor and Its Roots",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1853",
+			"layup_id": 1853,
+			"title": "JWST024.01: The Hebrew of the Bible",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1859",
+			"layup_id": 1859,
+			"title": "JWST025.02: 20th Century Jewish Memoir",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1860",
+			"layup_id": 1860,
+			"title": "JWST026: European Jewish Intellectuals",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1858",
+			"layup_id": 1858,
+			"title": "JWST025.01: On Editing Fiction",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3049",
+			"layup_id": 3049,
+			"title": "JWST007.01: Rediscovery of Holy Land",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1861",
+			"layup_id": 1861,
+			"title": "JWST027: The Jewish Family",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4846",
+			"layup_id": 4846,
+			"title": "JWST007.05: Nietzsche and the Jews",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1862",
+			"layup_id": 1862,
+			"title": "JWST027.01: The Jewish Family",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3084",
+			"layup_id": 3084,
+			"title": "JWST027.02: Writing at the Extreme",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1863",
+			"layup_id": 1863,
+			"title": "JWST027.03: Islam and Judaism: Europe's Orientalist Visions",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4940",
+			"layup_id": 4940,
+			"title": "JWST028: Women and The Bible",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1868",
+			"layup_id": 1868,
+			"title": "JWST037.01: History of the Holocaust",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3211",
+			"layup_id": 3211,
+			"title": "JWST036.02: Jewish Views of Christianity",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1865",
+			"layup_id": 1865,
+			"title": "JWST034.02: History of the Jews in Germany",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1864",
+			"layup_id": 1864,
+			"title": "JWST033: American Jewish History",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1866",
+			"layup_id": 1866,
+			"title": "JWST036: Topics in Medieval Jewish History",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1867",
+			"layup_id": 1867,
+			"title": "JWST036.01: Christians, Jews, and Muslims in the Age of the Crusades",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1869",
+			"layup_id": 1869,
+			"title": "JWST037.02: Burden of the Nazi Past: World War, Genocide, Population Transfer, and Firebombing",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1870",
+			"layup_id": 1870,
+			"title": "JWST037.03: Representing the Holocaust: History, Memory, and Survival",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3212",
+			"layup_id": 3212,
+			"title": "JWST040.04: Jews and Arabs in Palestine-Israel: Past and Present",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1871",
+			"layup_id": 1871,
+			"title": "JWST040.01: Politics of Israel and Palestine",
+			"department": "JWST",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1876",
+			"layup_id": 1876,
+			"title": "JWST041.03: Cities of the Biblical World, An Archaeological Approach",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1874",
+			"layup_id": 1874,
+			"title": "JWST041: Art and Archaeology of Israel: From Prehistory to the Roman Period",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1872",
+			"layup_id": 1872,
+			"title": "JWST040.02: Israel and Palestine: The Media as a Battlefield",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1875",
+			"layup_id": 1875,
+			"title": "JWST041.02: Synagogue and Church: Archaeology of Roman Palestine",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1877",
+			"layup_id": 1877,
+			"title": "JWST042: Film, Fiction and the Arab-Israeli Conflict",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1873",
+			"layup_id": 1873,
+			"title": "JWST040.03: Jerusalem: A Political History",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1885",
+			"layup_id": 1885,
+			"title": "JWST060: Judaism in Late Antiquity: The Rabbinic Revolution",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1882",
+			"layup_id": 1882,
+			"title": "JWST056: Women in Islam and Judaism",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1883",
+			"layup_id": 1883,
+			"title": "JWST057: Ethnomusicology",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1880",
+			"layup_id": 1880,
+			"title": "JWST053: Gender and Judaism",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1897",
+			"layup_id": 1897,
+			"title": "JWST085: Independent Study and Research",
+			"department": "JWST",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4224",
+			"layup_id": 4224,
+			"title": "JWST045: Soundscapes of the Middle East",
+			"department": "JWST",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1891",
+			"layup_id": 1891,
+			"title": "JWST068.02: Sociology of the Israeli-Palestinian Conflict",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1881",
+			"layup_id": 1881,
+			"title": "JWST055: Performing National Identities: Representations of Blacks and Jews in U.S. Culture",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1886",
+			"layup_id": 1886,
+			"title": "JWST061: Modern Judaism",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1892",
+			"layup_id": 1892,
+			"title": "JWST068: Topics in Sociology",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1895",
+			"layup_id": 1895,
+			"title": "JWST072: History of Heaven",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1878",
+			"layup_id": 1878,
+			"title": "JWST051: Freud: Psychoanalysis, Jews, and Gender",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1884",
+			"layup_id": 1884,
+			"title": "JWST058: Jewish Views of Islam",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1887",
+			"layup_id": 1887,
+			"title": "JWST062: Jewish Mysticism",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1879",
+			"layup_id": 1879,
+			"title": "JWST052: Judaism, Sexuality, and Queerness",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4514",
+			"layup_id": 4514,
+			"title": "JWST074.01: The Jewish Jesus",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4941",
+			"layup_id": 4941,
+			"title": "JWST066.03: Jews and Arabs in America",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4386",
+			"layup_id": 4386,
+			"title": "JWST075: Bible, Sex, and Sexuality",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5130",
+			"layup_id": 5130,
+			"title": "JWST066.04: Arab Jewish Culture",
+			"department": "JWST",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1893",
+			"layup_id": 1893,
+			"title": "JWST070: The Merchant of Venice: The Jew in the Protestant Imagination",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4173",
+			"layup_id": 4173,
+			"title": "JWST044: The Making of the Modern Middle East",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1890",
+			"layup_id": 1890,
+			"title": "JWST068.01: Israeli Society—Structure, Institutions, Identities and Dynamics",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1889",
+			"layup_id": 1889,
+			"title": "JWST066.02: Jews and Arabs: Entangled Histories",
+			"department": "JWST",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1894",
+			"layup_id": 1894,
+			"title": "JWST070.03: Orientalism and Origins of Religion",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1888",
+			"layup_id": 1888,
+			"title": "JWST063: Infinity and Ethics: Modern Jewish Mysticism and Philosophy",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1896",
+			"layup_id": 1896,
+			"title": "JWST080: History of Holocaust Historiography",
+			"department": "JWST",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:18:37",
+	"total": 72
+}

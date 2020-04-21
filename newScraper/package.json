@@ -1,0 +1,30 @@
+{
+  "name": "newScraper",
+  "version": "1.0.0",
+  "main": "src/dependencies.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "sync-request": "^6.1.0"
+  },
+  "scripts": {
+    "helpers": "nodemon src/createHelpers.js --exec babel-node",
+    "scrape": "nodemon src/script.js --exec babel-node"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/register": "^7.4.4",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "nodemon": "^1.19.1"
+  }
+}

@@ -1,0 +1,853 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1413",
+			"layup_id": 1413,
+			"title": "GERM002: Introductory German",
+			"department": "GERM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 41,
+			"quality_score": 11,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1438",
+			"layup_id": 1438,
+			"title": "GERM064.02: Lit of the Modern Period: Pulp Fiction Meets Highbrow Literature: German Writers in the 19th-Century",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1420",
+			"layup_id": 1420,
+			"title": "GERM010.02: From God’s Subjects to Global Citizens",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1412",
+			"layup_id": 1412,
+			"title": "GERM001: Introductory German",
+			"department": "GERM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 49,
+			"quality_score": 18,
+			"layup_score": 6
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4251",
+			"layup_id": 4251,
+			"title": "GERM042.06: Freud: Psychoanalysis, Jews, and Gender",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1441",
+			"layup_id": 1441,
+			"title": "GERM067: German Drama: Drama Queens: Madness on Stage",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4837",
+			"layup_id": 4837,
+			"title": "GERM082.06: Translation: Theory and Practice",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1443",
+			"layup_id": 1443,
+			"title": "GERM082.03: Breaking Bad: The Aesthetics of Evil",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1414",
+			"layup_id": 1414,
+			"title": "GERM003: Intermediate German",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 15,
+			"quality_score": 5,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1444",
+			"layup_id": 1444,
+			"title": "GERM082.04: Drawn to Life: The German Graphic Novel",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1421",
+			"layup_id": 1421,
+			"title": "GERM010.03: Understanding German Media",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4836",
+			"layup_id": 4836,
+			"title": "GERM042.07: Intercultural Communication",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"CI",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4424",
+			"layup_id": 4424,
+			"title": "GERM064.03: Weimar Republic Culture",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3857",
+			"layup_id": 3857,
+			"title": "GERM082.05: Found in Translation: Humor in German Literature",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1415",
+			"layup_id": 1415,
+			"title": "GERM005: Aspects of German Culture",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4475",
+			"layup_id": 4475,
+			"title": "GERM088: Honors Thesis II",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3937",
+			"layup_id": 3937,
+			"title": "GERM010.06: Look! A Visual History of Germany",
+			"department": "GERM",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1431",
+			"layup_id": 1431,
+			"title": "GERM044.04: Gems of German Prose Fiction from Goethe to the Present",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1429",
+			"layup_id": 1429,
+			"title": "GERM044: The Faust Tradition (in English translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4933",
+			"layup_id": 4933,
+			"title": "GERM064.04: Theater and the Revolution",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1440",
+			"layup_id": 1440,
+			"title": "GERM065.06: Modes of Belonging: What is Heimat",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1442",
+			"layup_id": 1442,
+			"title": "GERM081: Seminar",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1416",
+			"layup_id": 1416,
+			"title": "GERM006: Readings in German Literature",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1445",
+			"layup_id": 1445,
+			"title": "GERM082: Seminar- Religious Moments in German Literature",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4993",
+			"layup_id": 4993,
+			"title": "GERM042.08: Mind Reading: Media and the Brain",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4076",
+			"layup_id": 4076,
+			"title": "GERM010: Intermediate German Language and Culture: Contemporary Germany",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4786",
+			"layup_id": 4786,
+			"title": "GERM065.07: Babylon Berlin",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4474",
+			"layup_id": 4474,
+			"title": "GERM065.02: German Humor--Not an Oxymoron!",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5175",
+			"layup_id": 5175,
+			"title": "GERM065.08: The Case Study: From Detective Fiction to Medical Narratives",
+			"department": "GERM",
+			"offered": true,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4147",
+			"layup_id": 4147,
+			"title": "GERM007.01: After Hitler",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1446",
+			"layup_id": 1446,
+			"title": "GERM084: Seminar",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5172",
+			"layup_id": 5172,
+			"title": "GERM042.09: The Power and Spirit of Music In German Literature",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4706",
+			"layup_id": 4706,
+			"title": "GERM065: Topics:20thC.GermanCultural",
+			"department": "GERM",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1422",
+			"layup_id": 1422,
+			"title": "GERM013: Beyond Good and Evil",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4003",
+			"layup_id": 4003,
+			"title": "GERM065.03: Masterpieces: German Drama",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3025",
+			"layup_id": 3025,
+			"title": "GERM007.02: A Brief History of Paper",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1439",
+			"layup_id": 1439,
+			"title": "GERM065.05: Deutsche Kurzprosa: Kunstmaerchen gegen Novelle",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1447",
+			"layup_id": 1447,
+			"title": "GERM085: Independent Study",
+			"department": "GERM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5122",
+			"layup_id": 5122,
+			"title": "GERM042.10: Nuns and Knights",
+			"department": "GERM",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1417",
+			"layup_id": 1417,
+			"title": "GERM007: First-Year Seminars in German Literature",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 30,
+			"quality_score": 8,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1432",
+			"layup_id": 1432,
+			"title": "GERM045: The Burden of the Nazi Past: World War, Genocide, Population Transfer, and Firebombing",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3938",
+			"layup_id": 3938,
+			"title": "GERM014: Into the Woods: The Brothers Grimm and the European Folklore Tradition",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1427",
+			"layup_id": 1427,
+			"title": "GERM043: History and Theory of German Film (in English translation)",
+			"department": "GERM",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"ART",
+				"CI"
+			],
+			"total_reviews": 16,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1418",
+			"layup_id": 1418,
+			"title": "GERM010: Intermediate German Language and Culture: Contemporary Germany",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1426",
+			"layup_id": 1426,
+			"title": "GERM042: Topics in German Civilization (in English translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 10,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1448",
+			"layup_id": 1448,
+			"title": "GERM087: Honors Thesis I",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3246",
+			"layup_id": 3246,
+			"title": "GERM044.02: Hist of Jews in Germany",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3542",
+			"layup_id": 3542,
+			"title": "GERM007.04: Nietsche-Kafka-Freud",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3893",
+			"layup_id": 3893,
+			"title": "GERM046.01: Alienation and Exile",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4472",
+			"layup_id": 4472,
+			"title": "GERM015: Nazis, Neonazis, Antifa and the Others: Exploring Responses to the Nazi Past",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1419",
+			"layup_id": 1419,
+			"title": "GERM010.01: To Be Young and German",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 5,
+			"quality_score": 7,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1430",
+			"layup_id": 1430,
+			"title": "GERM044.03: Souls Sold to the Devil: The Faust Tradition (In English Translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1428",
+			"layup_id": 1428,
+			"title": "GERM043.01: History \u0026 Theory of German Film: Contemporary German Film (in English translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1425",
+			"layup_id": 1425,
+			"title": "GERM031: Studies in German Theater",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3329",
+			"layup_id": 3329,
+			"title": "GERM042.04: From the Typewriter to Virtual Reality: Modern Media Theory (in English Translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5121",
+			"layup_id": 5121,
+			"title": "GERM007.05: Franz Kafka",
+			"department": "GERM",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1433",
+			"layup_id": 1433,
+			"title": "GERM046: The German Novel (in English translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4473",
+			"layup_id": 4473,
+			"title": "GERM042.05: Material Realities, Material Matters: A Brief History of Paper and Other Writing Surfaces",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1424",
+			"layup_id": 1424,
+			"title": "GERM030: Studies in German History",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1423",
+			"layup_id": 1423,
+			"title": "GERM029: A Cultural Studies Approach to Contemporary Germany and Berlin",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1435",
+			"layup_id": 1435,
+			"title": "GERM061: The Age of Goethe (1749-1832)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1436",
+			"layup_id": 1436,
+			"title": "GERM062: Literature of the Romantic Period",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1437",
+			"layup_id": 1437,
+			"title": "GERM064.01: Lit of the Modern Period: Franz Kafka and the Modern Self\"",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5173",
+			"layup_id": 5173,
+			"title": "GERM047.01: Marketplace Germany: Language and Culture of the German Economy",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1434",
+			"layup_id": 1434,
+			"title": "GERM047: German Drama (in English translation)",
+			"department": "GERM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:38:10",
+	"total": 65
+}

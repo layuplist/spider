@@ -1,0 +1,1582 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/2478",
+			"layup_id": 2478,
+			"title": "PSYC006: Introduction to Neuroscience",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 119,
+			"quality_score": 51,
+			"layup_score": -13
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2477",
+			"layup_id": 2477,
+			"title": "PSYC001: Introductory Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 313,
+			"quality_score": 138,
+			"layup_score": -12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2496",
+			"layup_id": 2496,
+			"title": "PSYC050.01: Neuroscience of Mental Illness",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3833",
+			"layup_id": 3833,
+			"title": "PSYC051.11: Thinking About Thinking",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2518",
+			"layup_id": 2518,
+			"title": "PSYC054.02: Health Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3350",
+			"layup_id": 3350,
+			"title": "PSYC054.06: Aging \u0026 Life Stories",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2520",
+			"layup_id": 2520,
+			"title": "PSYC059: An Introduction to Pscyhological Assessment",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 25,
+			"quality_score": 7,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4987",
+			"layup_id": 4987,
+			"title": "PSYC700: Responsible and Ethical Conduct of Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2497",
+			"layup_id": 2497,
+			"title": "PSYC050.02: Decision Making: Linking Behavior to Brain",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3890",
+			"layup_id": 3890,
+			"title": "PSYC053.12: The Behavior of Groups",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2519",
+			"layup_id": 2519,
+			"title": "PSYC054.03: Forms of Therapy",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3088",
+			"layup_id": 3088,
+			"title": "PSYC007.02: Brain Evolution",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 3,
+			"quality_score": -5,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3981",
+			"layup_id": 3981,
+			"title": "PSYC054.07: Clinical Science Practicum",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4460",
+			"layup_id": 4460,
+			"title": "PSYC052.05: Science and Pseudoscience in the Study of Human Behavior",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2498",
+			"layup_id": 2498,
+			"title": "PSYC050.04: Sleep and Sleep Disorders",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2521",
+			"layup_id": 2521,
+			"title": "PSYC060.01: Principles of Human Brain Mapping with fMRI",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4861",
+			"layup_id": 4861,
+			"title": "PSYC053.13: Social Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2516",
+			"layup_id": 2516,
+			"title": "PSYC053.11: Comparative Neurobiology of Social Interaction",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3164",
+			"layup_id": 3164,
+			"title": "PSYC054.05: Neuromarketing and Consumer Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3426",
+			"layup_id": 3426,
+			"title": "PSYC054: Issues in Applied Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2503",
+			"layup_id": 2503,
+			"title": "PSYC051: Issues in Information Processing",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 14,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3048",
+			"layup_id": 3048,
+			"title": "PSYC060: Principles of Human Brain Mapping with fMRI",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 14,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2499",
+			"layup_id": 2499,
+			"title": "PSYC050.07: Exotic Sensory Systems",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5182",
+			"layup_id": 5182,
+			"title": "PSYC052.06: Typical and Atypical Neurodevelopment",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3425",
+			"layup_id": 3425,
+			"title": "PSYC053: Issues in Social Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2537",
+			"layup_id": 2537,
+			"title": "PSYC090: Independent Neuroscience Research",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3423",
+			"layup_id": 3423,
+			"title": "PSYC052.03: Animal Behavior",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3424",
+			"layup_id": 3424,
+			"title": "PSYC052.04: Adolescent Risk Behaviors: Corporate and Environmental Influences",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2512",
+			"layup_id": 2512,
+			"title": "PSYC052: Issues in Learning and Development",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 87,
+			"quality_score": 10,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4329",
+			"layup_id": 4329,
+			"title": "PSYC091.01: Honors Neuroscience Research I",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2517",
+			"layup_id": 2517,
+			"title": "PSYC054.01: Issues in Applied Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3064",
+			"layup_id": 3064,
+			"title": "PSYC007.03: Credulity \u0026 Pseudoscience",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2522",
+			"layup_id": 2522,
+			"title": "PSYC061: Computational neuroscience: from synapses to networks",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2513",
+			"layup_id": 2513,
+			"title": "PSYC052.01: Developmental Psychopathology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": -2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2545",
+			"layup_id": 2545,
+			"title": "PSYC174: Computational Neuroscience: Brain Engineering",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2479",
+			"layup_id": 2479,
+			"title": "PSYC007: First-Year Seminars in Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 30,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4330",
+			"layup_id": 4330,
+			"title": "PSYC091.02: Honors Neuroscience Research II",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3427",
+			"layup_id": 3427,
+			"title": "PSYC083.05: Affective Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2552",
+			"layup_id": 2552,
+			"title": "PSYC191: Dissertation Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2538",
+			"layup_id": 2538,
+			"title": "PSYC091: Honors Neuroscience Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2500",
+			"layup_id": 2500,
+			"title": "PSYC050.08: Neurobiology of Learning and Memory",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2514",
+			"layup_id": 2514,
+			"title": "PSYC053.03: Adolescent Risk Behaviors",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3982",
+			"layup_id": 3982,
+			"title": "PSYC175: Current Issues in Behav Neuro",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3926",
+			"layup_id": 3926,
+			"title": "PSYC083.07: The Problem of Other Minds",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2501",
+			"layup_id": 2501,
+			"title": "PSYC050.09: Motivation, Drugs, and Addiction",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2515",
+			"layup_id": 2515,
+			"title": "PSYC053.10: Social and Affective Motivations in Decision-making",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2546",
+			"layup_id": 2546,
+			"title": "PSYC176: Neural Plasticity and Behavior",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2553",
+			"layup_id": 2553,
+			"title": "PSYC288: Graduate Research (2 credits)",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2502",
+			"layup_id": 2502,
+			"title": "PSYC050.10: The Rhythmic Brain",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2539",
+			"layup_id": 2539,
+			"title": "PSYC100: Proseminar",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2533",
+			"layup_id": 2533,
+			"title": "PSYC086.03: Understanding Others Through Social Cues",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2527",
+			"layup_id": 2527,
+			"title": "PSYC083: Seminar Courses",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 20,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2547",
+			"layup_id": 2547,
+			"title": "PSYC179: Seminar in Special Topics",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2495",
+			"layup_id": 2495,
+			"title": "PSYC050: Issues in Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 55,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2540",
+			"layup_id": 2540,
+			"title": "PSYC110: Measurement and Statistics I",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2529",
+			"layup_id": 2529,
+			"title": "PSYC084.03: Leadership",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3165",
+			"layup_id": 3165,
+			"title": "PSYC086.04: Advanced Neuroscience Seminar and Annual Meeting: Topics on the cutting edge in neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2548",
+			"layup_id": 2548,
+			"title": "PSYC187: Supervised Undergraduate Teaching",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2554",
+			"layup_id": 2554,
+			"title": "PSYC289: Independent Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2541",
+			"layup_id": 2541,
+			"title": "PSYC111: Measurement and Statistics II",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2504",
+			"layup_id": 2504,
+			"title": "PSYC051.01: The Neuroscience of the mind-body problem",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2530",
+			"layup_id": 2530,
+			"title": "PSYC084.04: Clinical Science Practicum",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2549",
+			"layup_id": 2549,
+			"title": "PSYC188: Graduate Research (1 credit)",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2505",
+			"layup_id": 2505,
+			"title": "PSYC051.02: Face Perception",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3487",
+			"layup_id": 3487,
+			"title": "PSYC115: Supervised Undergraduate Teaching",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2550",
+			"layup_id": 2550,
+			"title": "PSYC189: Independent Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3231",
+			"layup_id": 3231,
+			"title": "PSYC084.05: The Power of Beliefs",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2542",
+			"layup_id": 2542,
+			"title": "PSYC117: Specialist Requirement",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2551",
+			"layup_id": 2551,
+			"title": "PSYC190: Predissertation Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2506",
+			"layup_id": 2506,
+			"title": "PSYC051.03: Mind and Brain",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2531",
+			"layup_id": 2531,
+			"title": "PSYC085.03: Top-Down Processing and Plasticity in the Brain",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2507",
+			"layup_id": 2507,
+			"title": "PSYC051.04: Attention",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2543",
+			"layup_id": 2543,
+			"title": "PSYC118: Research Presentation",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2532",
+			"layup_id": 2532,
+			"title": "PSYC085.04: Development, Learning and Disorders",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2508",
+			"layup_id": 2508,
+			"title": "PSYC051.05: A History of Psychology and Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2534",
+			"layup_id": 2534,
+			"title": "PSYC087.01: Nature and Nurture",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2555",
+			"layup_id": 2555,
+			"title": "PSYC290: Predisseratation Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3074",
+			"layup_id": 3074,
+			"title": "PSYC086.01: Selective Developmental Deficits",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3486",
+			"layup_id": 3486,
+			"title": "PSYC121: Perception",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2558",
+			"layup_id": 2558,
+			"title": "PSYC389: Independent Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2556",
+			"layup_id": 2556,
+			"title": "PSYC291: Dissertation Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3753",
+			"layup_id": 3753,
+			"title": "PSYC087.02: Genes, Evolution, and Behavior",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2487",
+			"layup_id": 2487,
+			"title": "PSYC026: Physiological Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 57,
+			"quality_score": 7,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2557",
+			"layup_id": 2557,
+			"title": "PSYC388: Graduate Research (3 credits)",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2510",
+			"layup_id": 2510,
+			"title": "PSYC051.07: Understanding the Frontal Lobes",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2511",
+			"layup_id": 2511,
+			"title": "PSYC051.09: Human Memory",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2535",
+			"layup_id": 2535,
+			"title": "PSYC088: Independent Psychology Research",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2559",
+			"layup_id": 2559,
+			"title": "PSYC390: Predissertation Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2481",
+			"layup_id": 2481,
+			"title": "PSYC011: Laboratory in Psychological Science.",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 66,
+			"quality_score": 1,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4327",
+			"layup_id": 4327,
+			"title": "PSYC089.01: Honors Psychology Research I",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3754",
+			"layup_id": 3754,
+			"title": "PSYC126: Systems/Behavioral Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4328",
+			"layup_id": 4328,
+			"title": "PSYC089.02: Honors Psychology Research II",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3163",
+			"layup_id": 3163,
+			"title": "PSYC051.10: Perceptual Learning and Skill Acquisition",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2509",
+			"layup_id": 2509,
+			"title": "PSYC051.06: Representation and Brain",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4081",
+			"layup_id": 4081,
+			"title": "PSYC127: Functional Neuroanatomy",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3101",
+			"layup_id": 3101,
+			"title": "PSYC063: Experimental Study of Social Behavior",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 9,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2480",
+			"layup_id": 2480,
+			"title": "PSYC010: Experimental Design, Methodology, and Data Analysis Procedures",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 121,
+			"quality_score": 15,
+			"layup_score": 10
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2544",
+			"layup_id": 2544,
+			"title": "PSYC128: Cognitive Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2536",
+			"layup_id": 2536,
+			"title": "PSYC089: Honors Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4409",
+			"layup_id": 4409,
+			"title": "PSYC015: Impact Design",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2484",
+			"layup_id": 2484,
+			"title": "PSYC023: Social Psychology",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 119,
+			"quality_score": 35,
+			"layup_score": 9
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4725",
+			"layup_id": 4725,
+			"title": "PSYC161: Intro to Prog for Psyc \u0026 Neuro",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2485",
+			"layup_id": 2485,
+			"title": "PSYC024: Abnormal Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 150,
+			"quality_score": 42,
+			"layup_score": 6
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2560",
+			"layup_id": 2560,
+			"title": "PSYC391: Dissertation Research",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4082",
+			"layup_id": 4082,
+			"title": "PSYC167: Pedagogy with Purpose",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4998",
+			"layup_id": 4998,
+			"title": "PSYC168: Practical Training",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2482",
+			"layup_id": 2482,
+			"title": "PSYC021: Perception",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 72,
+			"quality_score": 9,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2483",
+			"layup_id": 2483,
+			"title": "PSYC022: Learning",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 85,
+			"quality_score": 10,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2490",
+			"layup_id": 2490,
+			"title": "PSYC040: Introduction to Computational Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 8,
+			"quality_score": 2,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2489",
+			"layup_id": 2489,
+			"title": "PSYC028: Cognition",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 7,
+			"quality_score": 1,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2486",
+			"layup_id": 2486,
+			"title": "PSYC025: Developmental Psychology",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 23,
+			"quality_score": 6,
+			"layup_score": 12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5141",
+			"layup_id": 5141,
+			"title": "PSYC032: Introduction to Programming for Psychological Scientists",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4083",
+			"layup_id": 4083,
+			"title": "PSYC171: Brain Evolution",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4004",
+			"layup_id": 4004,
+			"title": "PSYC164: Computational Methods",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2488",
+			"layup_id": 2488,
+			"title": "PSYC027: Cognitive Neuroscience",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 4,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2492",
+			"layup_id": 2492,
+			"title": "PSYC044: Psychology and Organizations",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 4,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2494",
+			"layup_id": 2494,
+			"title": "PSYC046: Cellular and Molecular Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 7,
+			"quality_score": 3,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2493",
+			"layup_id": 2493,
+			"title": "PSYC045: Behavioral Neuroscience",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3352",
+			"layup_id": 3352,
+			"title": "PSYC081.05: Technology, Psychology, and Neuroscience",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3897",
+			"layup_id": 3897,
+			"title": "PSYC081.09: Storytelling with Data",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2491",
+			"layup_id": 2491,
+			"title": "PSYC043: Emotion",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3351",
+			"layup_id": 3351,
+			"title": "PSYC080.03: Spatial Cognition and Navigation: A Neurobiological Perspective",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2526",
+			"layup_id": 2526,
+			"title": "PSYC081.03: Neuroscience of Visual Consciousness",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3230",
+			"layup_id": 3230,
+			"title": "PSYC081.04: Neural Basis of Human Imagination",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2523",
+			"layup_id": 2523,
+			"title": "PSYC065: Systems Neuroscience with Laboratory",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 12,
+			"quality_score": 4,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3353",
+			"layup_id": 3353,
+			"title": "PSYC081.06: Analog and Digital Brains",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4952",
+			"layup_id": 4952,
+			"title": "PSYC080.04: The Weight Among Us: What Neuroscience Can Teach Us About Obesity",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2524",
+			"layup_id": 2524,
+			"title": "PSYC080.01: Neuroscience of Reward",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2528",
+			"layup_id": 2528,
+			"title": "PSYC083.03: The Self",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3931",
+			"layup_id": 3931,
+			"title": "PSYC081.10: Neural Bases of Attention and Consciousness",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3879",
+			"layup_id": 3879,
+			"title": "PSYC081.08: Animal Cognition",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3354",
+			"layup_id": 3354,
+			"title": "PSYC081.07: Decoding Human Brain Activity",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4461",
+			"layup_id": 4461,
+			"title": "PSYC081.11: Real-World Scene Perception",
+			"department": "PSYC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2525",
+			"layup_id": 2525,
+			"title": "PSYC080.02: Neuroeconomics",
+			"department": "PSYC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:37:15",
+	"total": 134
+}

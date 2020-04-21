@@ -1,0 +1,800 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/4752",
+			"layup_id": 4752,
+			"title": "THEA092: The Honors Thesis II",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4163",
+			"layup_id": 4163,
+			"title": "THEA010.25: Music, Design, and Creativity",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2914",
+			"layup_id": 2914,
+			"title": "THEA026: Movement Fundamentals I",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 3,
+			"quality_score": 3,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2913",
+			"layup_id": 2913,
+			"title": "THEA025: Solo Performance",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2899",
+			"layup_id": 2899,
+			"title": "THEA001: Introduction to Theater",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 10,
+			"quality_score": 3,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2915",
+			"layup_id": 2915,
+			"title": "THEA027: Movement Fundamentals II",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 10,
+			"quality_score": 6,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3103",
+			"layup_id": 3103,
+			"title": "THEA007.01: Theater for Social Change",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 3,
+			"quality_score": 3,
+			"layup_score": 9
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5154",
+			"layup_id": 5154,
+			"title": "THEA010.26: Sound Design",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3068",
+			"layup_id": 3068,
+			"title": "THEA007.02: Documentary Theatre",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2916",
+			"layup_id": 2916,
+			"title": "THEA028: Dance Composition",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4238",
+			"layup_id": 4238,
+			"title": "THEA010.32: Acting for Musical Theater II",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2900",
+			"layup_id": 2900,
+			"title": "THEA007: First-Year Seminars in Theater",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 17,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2917",
+			"layup_id": 2917,
+			"title": "THEA029: Dance Theater Performance",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4239",
+			"layup_id": 4239,
+			"title": "THEA010.45: Arab Theatre",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3099",
+			"layup_id": 3099,
+			"title": "THEA010.03: Russian Theater",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2907",
+			"layup_id": 2907,
+			"title": "THEA017: Theatre and Society III: 19th and 20th Century Performance",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2901",
+			"layup_id": 2901,
+			"title": "THEA010.04: Acting for Musical Theater",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2906",
+			"layup_id": 2906,
+			"title": "THEA016: Theatre and Society II: Early Modern Performance",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3085",
+			"layup_id": 3085,
+			"title": "THEA010.05: Tragedy\u0026Comedy Greece\u0026Rome",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4499",
+			"layup_id": 4499,
+			"title": "THEA018: Russian Theater",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2918",
+			"layup_id": 2918,
+			"title": "THEA030: Acting I",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 82,
+			"quality_score": 42,
+			"layup_score": 38
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4866",
+			"layup_id": 4866,
+			"title": "THEA010.55: The Making of 21st Century Exhibits: Curating a National Black Theater Museum/Institution",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2902",
+			"layup_id": 2902,
+			"title": "THEA010.08: Creativity and Collaboration",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2908",
+			"layup_id": 2908,
+			"title": "THEA019: Human Rights and Performance",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2919",
+			"layup_id": 2919,
+			"title": "THEA031: Acting II",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 12,
+			"quality_score": 5,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2909",
+			"layup_id": 2909,
+			"title": "THEA021: Race, Gender, and Performance",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2903",
+			"layup_id": 2903,
+			"title": "THEA010.11: Unveiling the Harem Dancer",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4999",
+			"layup_id": 4999,
+			"title": "THEA010.56: Black Theatre Workshop",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2910",
+			"layup_id": 2910,
+			"title": "THEA022: Black Theater, U.S.A.",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2904",
+			"layup_id": 2904,
+			"title": "THEA010.13: Dramatic Storytelling - Plays and Screenplays!",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2920",
+			"layup_id": 2920,
+			"title": "THEA032: Acting III",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2911",
+			"layup_id": 2911,
+			"title": "THEA023: Postcolonial African Drama",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4867",
+			"layup_id": 4867,
+			"title": "THEA010.65: Performeras on the Latin American Stage",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2921",
+			"layup_id": 2921,
+			"title": "THEA034: Acting for the Camera",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3173",
+			"layup_id": 3173,
+			"title": "THEA010.23: Voices:Perform Activism",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4416",
+			"layup_id": 4416,
+			"title": "THEA010.71: Plays OnStage: Acting Comedy",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3181",
+			"layup_id": 3181,
+			"title": "THEA010.22: Shakespeare in the Schools",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3796",
+			"layup_id": 3796,
+			"title": "THEA035: Acting for Musical Theater",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 1,
+			"quality_score": 5,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2912",
+			"layup_id": 2912,
+			"title": "THEA024: Asian Performance Traditions",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2931",
+			"layup_id": 2931,
+			"title": "THEA050: Playwriting I",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 15,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3250",
+			"layup_id": 3250,
+			"title": "THEA010.24: The Arts of War",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2932",
+			"layup_id": 2932,
+			"title": "THEA051: Playwriting II",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4498",
+			"layup_id": 4498,
+			"title": "THEA012: The Tragedy and Comedy of Greece and Rome",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2936",
+			"layup_id": 2936,
+			"title": "THEA062: Plays in Performance-Perception and Analysis",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2937",
+			"layup_id": 2937,
+			"title": "THEA065: Summer Theater Lab",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2926",
+			"layup_id": 2926,
+			"title": "THEA043: Scene Design II",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2922",
+			"layup_id": 2922,
+			"title": "THEA036: The Speaking Voice for the Stage",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 9,
+			"quality_score": 2,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2933",
+			"layup_id": 2933,
+			"title": "THEA054: Directing",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2938",
+			"layup_id": 2938,
+			"title": "THEA080: Independent Study",
+			"department": "THEA",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2923",
+			"layup_id": 2923,
+			"title": "THEA040: Technical Production",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 26,
+			"quality_score": 0,
+			"layup_score": 12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2927",
+			"layup_id": 2927,
+			"title": "THEA044: Lighting Design",
+			"department": "THEA",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 7,
+			"quality_score": 4,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2924",
+			"layup_id": 2924,
+			"title": "THEA041: Stage Management",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 5,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2928",
+			"layup_id": 2928,
+			"title": "THEA045: Composition and Design",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 6,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2905",
+			"layup_id": 2905,
+			"title": "THEA015: Theatre and Society I: Classical and Medieval Performance",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"W"
+			],
+			"total_reviews": 12,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2939",
+			"layup_id": 2939,
+			"title": "THEA090: Contemporary Practices in U.S. Theater",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2925",
+			"layup_id": 2925,
+			"title": "THEA042: Scene Design I",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 2,
+			"quality_score": 5,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2929",
+			"layup_id": 2929,
+			"title": "THEA046: Costume Production",
+			"department": "THEA",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2940",
+			"layup_id": 2940,
+			"title": "THEA091: The Honors Thesis I",
+			"department": "THEA",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2935",
+			"layup_id": 2935,
+			"title": "THEA061: Classical Performance II",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2934",
+			"layup_id": 2934,
+			"title": "THEA060: Classical Performance I",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2930",
+			"layup_id": 2930,
+			"title": "THEA048: Costume Design",
+			"department": "THEA",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 9,
+			"quality_score": 2,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:41:12",
+	"total": 61
+}

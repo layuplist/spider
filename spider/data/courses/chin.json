@@ -1,0 +1,523 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/524",
+			"layup_id": 524,
+			"title": "CHIN004: Advanced First-Year Chinese",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 12,
+			"quality_score": 19,
+			"layup_score": -13
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/551",
+			"layup_id": 551,
+			"title": "CHIN083: Topics in Chinese Literature and Culture",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/532",
+			"layup_id": 532,
+			"title": "CHIN041: Advanced Chinese (Fourth-year level)",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/541",
+			"layup_id": 541,
+			"title": "CHIN059: Independent Advanced Study in Chinese Language and Literature",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/543",
+			"layup_id": 543,
+			"title": "CHIN061.02: Love and Desire in Modern Chinese Literature",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4674",
+			"layup_id": 4674,
+			"title": "CHIN045.01: Introduction to Classical Chinese",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/523",
+			"layup_id": 523,
+			"title": "CHIN003: First-Year Courses in Chinese",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 18,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/522",
+			"layup_id": 522,
+			"title": "CHIN002: First-Year Courses in Chinese",
+			"department": "CHIN",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 27,
+			"quality_score": 4,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/530",
+			"layup_id": 530,
+			"title": "CHIN032: Advanced Modern Chinese (Third-year level)",
+			"department": "CHIN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/529",
+			"layup_id": 529,
+			"title": "CHIN031: Advanced Modern Chinese (Third-year level)",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4740",
+			"layup_id": 4740,
+			"title": "CHIN049: Independent Advanced Study in Chinese Language and Literature",
+			"department": "CHIN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3814",
+			"layup_id": 3814,
+			"title": "CHIN061.04: Modern Chinese Literature across Time, Space and Media",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/533",
+			"layup_id": 533,
+			"title": "CHIN042: Advanced Chinese (Fourth-year level)",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/526",
+			"layup_id": 526,
+			"title": "CHIN011: Special Topics in Chinese Studies",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/527",
+			"layup_id": 527,
+			"title": "CHIN022: Intermediate Modern Chinese (Second-year level)",
+			"department": "CHIN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/542",
+			"layup_id": 542,
+			"title": "CHIN061: Topics in Modern Chinese Literature and Culture",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/538",
+			"layup_id": 538,
+			"title": "CHIN052: Readings in Classical Chinese: Daoist Philosophical Texts",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/534",
+			"layup_id": 534,
+			"title": "CHIN043: Advanced Chinese (Fourth-year level)",
+			"department": "CHIN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/539",
+			"layup_id": 539,
+			"title": "CHIN053: Readings in Classical Chinese: Confucian Philosophical Texts",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/521",
+			"layup_id": 521,
+			"title": "CHIN001: First-Year Courses in Chinese",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 11,
+			"layup_score": -4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/528",
+			"layup_id": 528,
+			"title": "CHIN023: Intermediate Modern Chinese (Second-year level)",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/525",
+			"layup_id": 525,
+			"title": "CHIN010: Introduction to Chinese Culture",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/545",
+			"layup_id": 545,
+			"title": "CHIN062.01: Chinese Calligraphy",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/537",
+			"layup_id": 537,
+			"title": "CHIN051: Introduction to Classical Chinese",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/531",
+			"layup_id": 531,
+			"title": "CHIN033: Advanced Modern Chinese (Third-year level)",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/535",
+			"layup_id": 535,
+			"title": "CHIN044.02: Modern Chinese Poetry",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3386",
+			"layup_id": 3386,
+			"title": "CHIN063.01: Chinese Painting, Poetry, and Philosophy",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/540",
+			"layup_id": 540,
+			"title": "CHIN054: Classical Chinese Poetry",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3867",
+			"layup_id": 3867,
+			"title": "CHIN062.03: Women and Power in Traditional Chinese Literature and Art",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/546",
+			"layup_id": 546,
+			"title": "CHIN062.02: Traditional Chinese Short Fiction",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5202",
+			"layup_id": 5202,
+			"title": "CHIN040.03: Modrn Chinese Short Stories",
+			"department": "CHIN",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/536",
+			"layup_id": 536,
+			"title": "CHIN044.04: Reading, Translation, and Culture",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4130",
+			"layup_id": 4130,
+			"title": "CHIN062.04: Frontier in Tradit Chin Lit",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4131",
+			"layup_id": 4131,
+			"title": "CHIN063.03: Languages of China",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/548",
+			"layup_id": 548,
+			"title": "CHIN063.06: Women in China",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/544",
+			"layup_id": 544,
+			"title": "CHIN062: Topics in Traditional Chinese Literature and Culture",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5020",
+			"layup_id": 5020,
+			"title": "CHIN040: Advanced Chinese",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/549",
+			"layup_id": 549,
+			"title": "CHIN081: Lu Xun and Hu Shi",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/550",
+			"layup_id": 550,
+			"title": "CHIN082: Chinese Calligraphy and Manuscript Culture: Orchid Pavillion",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/547",
+			"layup_id": 547,
+			"title": "CHIN063.02: Traditional Performance in China: Past and Present",
+			"department": "CHIN",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:23:55",
+	"total": 40
+}

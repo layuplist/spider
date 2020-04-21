@@ -1,0 +1,386 @@
+{
+  "LING 1and one other Linguistics course in the 20s.": [
+    {
+      "req": [
+        "LING 001"
+      ]
+    },
+    {
+      "range": [
+        "LING 020",
+        "LING 029"
+      ]
+    }
+  ],
+  "LING 21and one other course in the 20s.": [
+    {
+      "req": [
+        "LING 021"
+      ]
+    },
+    {
+      "range": [
+        "LING 020",
+        "LING 029"
+      ]
+    }
+  ],
+  "A course in the French 10 sequence or permission of the instructor": [
+    {
+      "range": [
+        "FREN 010",
+        "FREN 019"
+      ]
+    }
+  ],
+  "Two courses from MUS 21-23, and one course from MUS 6, 10, 11, or 40-44, or permission of the instructor": [
+    {
+      "req": [
+        "MUS 021",
+        "MUS 022",
+        "MUS 023"
+      ],
+      "req": [
+        "MUS 021",
+        "MUS 022",
+        "MUS 023"
+      ],
+      "req": [
+        "MUS 006",
+        "MUS 010",
+        "MUS 011",
+        "MUS 040",
+        "MUS 041",
+        "MUS 042",
+        "MUS 043",
+        "MUS 044"
+      ]
+    }
+  ],
+  "CHEM 5or 10 (may be taken concurrently) and one course from EARS 1-9 exclusive ofEARS 7.": [
+    {
+      "req": [
+        "CHEM 005",
+        "CHEM 010"
+      ]
+    },
+    {
+      "range": [
+        "EARS 001",
+        "EARS 002",
+        "EARS 003",
+        "EARS 004",
+        "EARS 005",
+        "EARS 006",
+        "EARS 008",
+        "EARS 009"
+      ]
+    }
+  ],
+  "One course fromEARS 1,EARS 2,EARS 3,EARS 4,EARS 5,EARS 6,EARS 8,EARS 9or permission of the instructor.": [
+    {
+      "req": [
+        "EARS 001",
+        "EARS 002",
+        "EARS 003",
+        "EARS 004",
+        "EARS 005",
+        "EARS 006",
+        "EARS 008",
+        "EARS 009"
+      ]
+    }
+  ],
+  "One course fromEARS 1,EARS 2,EARS 3,EARS 4,EARS 5,EARS 6,EARS 8,EARS 9.CHEM 5recommended.": [
+    {
+      "req": [
+        "EARS 001",
+        "EARS 002",
+        "EARS 003",
+        "EARS 004",
+        "EARS 005",
+        "EARS 006",
+        "EARS 008",
+        "EARS 009"
+      ]
+    },
+    {
+      "rec": [
+        "CHEM 005"
+      ]
+    }
+  ],
+  "One course fromEARS 1,EARS 2,EARS 3,EARS 4,EARS 5,EARS 6,EARS 8,EARS 9, orGEOG 3.": [
+    {
+      "req": [
+        "EARS 001",
+        "EARS 002",
+        "EARS 003",
+        "EARS 004",
+        "EARS 005",
+        "EARS 006",
+        "EARS 008",
+        "EARS 009",
+        "GEOG 003"
+      ]
+    }
+  ],
+  "EARS 40, 45, 46, and 47.EARS 38is recommended.": [
+    {
+      "req": [
+        "EARS 040"
+      ]
+    },
+    {
+      "req": [
+        "EARS 045"
+      ]
+    },
+    {
+      "req": [
+        "EARS 046"
+      ]
+    },
+    {
+      "req": [
+        "EARS 047"
+      ]
+    },
+    {
+      "rec": [
+        "EARS 038"
+      ]
+    }
+  ],
+  "COSC 30and/orCOSC 31. Students who have not takenCOSC 30and/or 31, but have a strong mathematical background, may take COSC 39 with the instructor's permission.": [
+    {
+      "req": [
+        "COSC 030"
+      ]
+    },
+    {
+      "req": [
+        "COSC 031"
+      ]
+    }
+  ],
+  "COSC 50, COSC 11, or MATH 22 or 24; or instructor's permission.": [
+    {
+      "req": [
+        "COSC 050",
+        "COSC 011",
+        "MATH 022"
+      ]
+    }
+  ],
+  "ECON 20,ECON 21andECON 22with a grade of A- or better (with no recorded W from any of these classes) andMATH 8or permission of instructor": [
+    {
+      "grade": [
+        "ECON 020"
+      ]
+    },
+    {
+      "grade": [
+        "ECON 021"
+      ]
+    },
+    {
+      "grade": [
+        "ECON 022"
+      ]
+    },
+    {
+      "req": [
+        "MATH 008"
+      ]
+    }
+  ],
+  "Italian 8 or 9 or permission of the instructor": [
+    {
+      "req": [
+        "ITAL 008",
+        "ITAL 009"
+      ]
+    }
+  ],
+  "Italian 8 or 9 or permission of instructor": [
+    {
+      "req": [
+        "ITAL 008",
+        "ITAL 009"
+      ]
+    }
+  ],
+  "Prior to enrollment in ENGS 89, at least six engineering courses must be completed. These includeENGS 21plus five additional courses numbered 22 to 76 (excluding 75) and 91 and above." : [
+    {
+      "req": [
+        "ENGS 021"
+      ]
+    }
+  ],
+  "one fromENGS 35,ENGS 160, andENGS 161, orBIOL 46(formerly 64)" : [
+    {
+      "req": [
+        "ENGS 035",
+        "ENGS 160",
+        "ENGS 161",
+        "BIOL 046"
+      ]
+    }
+  ],
+  "GEOG 1orGEOG 3and one course from 12-41 or permission of the instructor." : [
+    {
+      "req": [
+        "GEOG 001",
+        "GEOG 003"
+      ]
+    },
+    {
+      "range": [
+        "GEOG 012",
+        "GEOG 041"
+      ]
+    }
+  ],
+  "GEOG 1orGEOG 3and one course numbered betweenGEOG 12andGEOG 41, or permission of the instructor. A minimum of one methods course (GEOG 11,GEOG 50,GEOG 51) is strongly recommended." : [
+    {
+      "req": [
+        "GEOG 001",
+        "GEOG 003"
+      ]
+    },
+    {
+      "range": [
+        "GEOG 012",
+        "GEOG 041"
+      ]
+    },
+    {
+      "rec": [
+        "GEOG 011",
+        "GEOG 050",
+        "GEOG 051"
+      ]
+    }
+  ],
+  "GEOG 1orGEOG 3and one course numbered between 12 and 41, or permission of the instructor. A minimum of one methods course (GEOG 11, GEOG 50, GEOG 51) is strongly recommended." : [
+    {
+      "req": [
+        "GEOG 001",
+        "GEOG 003"
+      ]
+    },
+    {
+      "range": [
+        "GEOG 012",
+        "GEOG 041"
+      ]
+    },
+    {
+      "rec": [
+        "GEOG 011",
+        "GEOG 050",
+        "GEOG 051"
+      ]
+    }
+  ],
+  "ENVS 2orENVS 3, or permission of instructor and a 10-level class (e.g.,ECON 10,GOVT 10,PSYC 10,SOCY 10,PBPL 10)": [
+    {
+      "req": [
+        "GEOG 002",
+        "GEOG 003"
+      ]
+    },
+    {
+      "req": [
+        "ECON 10"
+      ]
+    }
+  ],
+  "ENVS 2orENVS 3or permission of instructor and a 10-level class (e.g.,ECON 10,GOVT 10,MATH 10,PSYC 10,PBPL 10,SOCY 10)" : [
+    {
+      "req": [
+        "GEOG 002",
+        "GEOG 003"
+      ]
+    },
+    {
+      "req": [
+        "ECON 10"
+      ]
+    }
+  ],
+  "PHYS 15or 19; andPHYS 14orPHYS 16; or permission of the instructor." : [
+    {
+      "req": [
+        "PHYS 015",
+        "PHYS 019"
+      ]
+    },
+    {
+      "req": [
+        "PHYS 014",
+        "PHYS 016"
+      ]
+    }
+  ],
+  "BIOL 12and 13, one from (BIOL 38,BIOL 40,BIOL 45,CHEM 41) and instructor permission.": [
+    {
+      "req": [
+        "BIOL 012"
+      ]
+    },
+    {
+      "req": [
+        "BIOL 013"
+      ]
+    },
+    {
+      "req": [
+        "BIOL 038",
+        "BIOL 040",
+        "BIOL 045",
+        "CHEM 041"
+      ]
+    }
+  ],
+  "Two courses in biology numbered 11 or higher." : [
+    {
+      "range": [
+        "BIOL 011",
+        "BIOL 999"
+      ]
+    },
+    {
+      "range": [
+        "BIOL 011",
+        "BIOL 999"
+      ]
+    }
+  ],
+  "BIOL 15and at least 1 from amongBIOL 21,BIOL 24,BIOL 27,BIOL 28,BIOL 32,BIOL 37,BIOL 47or instructor permission": [
+    {
+      "req": [
+        "BIOL 015"
+      ]
+    },
+    {
+      "req": [
+        "BIOL 021",
+        "BIOL 024",
+        "BIOL 027",
+        "BIOL 028",
+        "BIOL 032",
+        "BIOL 037",
+        "BIOL 047"
+      ]
+    }
+  ],
+  "Instructor19W: Chee; 19S: O'MalleyCRWT 10 (formerly ENGL 80) and permission of the instructor. ": [
+    {
+      "req": [
+        "CRWT 10"
+      ]
+    }
+  ]
+}

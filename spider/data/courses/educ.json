@@ -1,0 +1,523 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/951",
+			"layup_id": 951,
+			"title": "EDUC088: Seminar in Human Development and Education: The Changeable Brain",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/928",
+			"layup_id": 928,
+			"title": "EDUC009.06: Children and Young Adult Literature: Reading Experiences in the K-8 Classroom",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5166",
+			"layup_id": 5166,
+			"title": "EDUC013: Disability in Children's Literature",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/938",
+			"layup_id": 938,
+			"title": "EDUC046: STEM and Education",
+			"department": "EDUC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/927",
+			"layup_id": 927,
+			"title": "EDUC001: Introduction to Education: Learning, Development, and Teaching",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 33,
+			"quality_score": 31,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3896",
+			"layup_id": 3896,
+			"title": "EDUC009.07: Higher Education in Crisis: Finance, Pedagogy and Policy",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/939",
+			"layup_id": 939,
+			"title": "EDUC047: Social and Emotional Development",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3120",
+			"layup_id": 3120,
+			"title": "EDUC007.02: Reading Comprehension",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4306",
+			"layup_id": 4306,
+			"title": "EDUC009.08: Race and Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/940",
+			"layup_id": 940,
+			"title": "EDUC048: Practice Teaching II - Secondary",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/937",
+			"layup_id": 937,
+			"title": "EDUC045: Principles of Teaching and Learning in the Secondary School: Theory and Practice",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 6,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3027",
+			"layup_id": 3027,
+			"title": "EDUC058: Language Acquisition and Development",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 32,
+			"quality_score": 10,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3033",
+			"layup_id": 3033,
+			"title": "EDUC082: Adv Issues Contemp Educ'n",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5168",
+			"layup_id": 5168,
+			"title": "EDUC032: Learning and Education Across Cultures",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4926",
+			"layup_id": 4926,
+			"title": "EDUC030: Educational Psychology",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/941",
+			"layup_id": 941,
+			"title": "EDUC050: The Reading Brain: Education and Development",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 7,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/948",
+			"layup_id": 948,
+			"title": "EDUC064: Development in the Exceptional Child",
+			"department": "EDUC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 19,
+			"quality_score": 0,
+			"layup_score": -6
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/949",
+			"layup_id": 949,
+			"title": "EDUC085: Independent Reading and Research",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/934",
+			"layup_id": 934,
+			"title": "EDUC042: Advanced Principles of Elementary Teaching",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 5,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/929",
+			"layup_id": 929,
+			"title": "EDUC015: History and Theory of Human Development and Learning",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/942",
+			"layup_id": 942,
+			"title": "EDUC051: Educational Testing",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 19,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/950",
+			"layup_id": 950,
+			"title": "EDUC086: Independent Reading and Research: Research in the Schools",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/933",
+			"layup_id": 933,
+			"title": "EDUC041: Teaching and Learning in Schools",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/930",
+			"layup_id": 930,
+			"title": "EDUC016: Educational Psychology",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 23,
+			"quality_score": 3,
+			"layup_score": 8
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/935",
+			"layup_id": 935,
+			"title": "EDUC043: Practice Teaching I - Elementary",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3798",
+			"layup_id": 3798,
+			"title": "EDUC059: Thinking About Thinking",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5171",
+			"layup_id": 5171,
+			"title": "EDUC052: Topics in Educational Theory",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/946",
+			"layup_id": 946,
+			"title": "EDUC060: Learning and Education Across Cultures",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 3,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4505",
+			"layup_id": 4505,
+			"title": "EDUC017: What Works in Education?",
+			"department": "EDUC",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": -2,
+			"layup_score": -5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4506",
+			"layup_id": 4506,
+			"title": "EDUC033: Disability in Children's Literature",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/943",
+			"layup_id": 943,
+			"title": "EDUC055: Applying Cognitive Psychology to Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 11,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5169",
+			"layup_id": 5169,
+			"title": "EDUC034: Adolescent Development and Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4200",
+			"layup_id": 4200,
+			"title": "EDUC027: The Impact of Poverty on Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3553",
+			"layup_id": 3553,
+			"title": "EDUC024: Education and Inequality",
+			"department": "EDUC",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/947",
+			"layup_id": 947,
+			"title": "EDUC062: Adolescent Development and Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 22,
+			"quality_score": 6,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5170",
+			"layup_id": 5170,
+			"title": "EDUC037: Language Development in Educational Contexts",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5167",
+			"layup_id": 5167,
+			"title": "EDUC019: Educational Testing",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/931",
+			"layup_id": 931,
+			"title": "EDUC020: Educational Issues Contemporary Society",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 99,
+			"quality_score": 15,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/936",
+			"layup_id": 936,
+			"title": "EDUC044: Practice Teaching II - Elementary",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/932",
+			"layup_id": 932,
+			"title": "EDUC029: Policy and Politics in American Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 24,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/945",
+			"layup_id": 945,
+			"title": "EDUC057: Social and Emotional Development",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/944",
+			"layup_id": 944,
+			"title": "EDUC056: STEM and Education",
+			"department": "EDUC",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 3,
+			"quality_score": 2,
+			"layup_score": 3
+		}
+	],
+	"updated": "2020-02-11 18:29:59",
+	"total": 42
+}

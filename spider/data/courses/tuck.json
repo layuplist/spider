@@ -1,0 +1,39 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/2943",
+			"layup_id": 2943,
+			"title": "TUCK003: Business Management and Strategy",
+			"department": "TUCK",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2942",
+			"layup_id": 2942,
+			"title": "TUCK002: Principles of Marketing",
+			"department": "TUCK",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 4,
+			"quality_score": 6,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2941",
+			"layup_id": 2941,
+			"title": "TUCK001: Financial Accounting",
+			"department": "TUCK",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:40:15",
+	"total": 3
+}

@@ -1,0 +1,961 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/3090",
+			"layup_id": 3090,
+			"title": "PHYS007.02: History\u0026Future of Universe",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2389",
+			"layup_id": 2389,
+			"title": "PHYS001: Understanding the Universe: From Atoms to the Big Bang, with Laboratory",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 85,
+			"quality_score": 6,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2390",
+			"layup_id": 2390,
+			"title": "PHYS002: Understanding the Universe: From Atoms to the Big Bang",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 82,
+			"quality_score": 10,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2393",
+			"layup_id": 2393,
+			"title": "PHYS005: Physics for Future Leaders",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2408",
+			"layup_id": 2408,
+			"title": "PHYS048: Electronics: Introduction to Linear and Digital Circuits",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5013",
+			"layup_id": 5013,
+			"title": "PHYS024: Quantum Physics of Matter: An Introduction",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2403",
+			"layup_id": 2403,
+			"title": "PHYS041: Electricity and Magnetism",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 14,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4986",
+			"layup_id": 4986,
+			"title": "PHYS700: Resp \u0026 Ethical Conduct of  Res",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2404",
+			"layup_id": 2404,
+			"title": "PHYS042: Introductory Quantum Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 15,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2400",
+			"layup_id": 2400,
+			"title": "PHYS030: Biological Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI",
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2405",
+			"layup_id": 2405,
+			"title": "PHYS043: Statistical Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 28,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2391",
+			"layup_id": 2391,
+			"title": "PHYS003: General Physics I",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 292,
+			"quality_score": 19,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2409",
+			"layup_id": 2409,
+			"title": "PHYS050: Introductory Quantum Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3348",
+			"layup_id": 3348,
+			"title": "PHYS031.01: Nonlinear Dynamics of Physical Systems",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2406",
+			"layup_id": 2406,
+			"title": "PHYS044: Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3752",
+			"layup_id": 3752,
+			"title": "PHYS007.05: Discovering the Universe",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2410",
+			"layup_id": 2410,
+			"title": "PHYS066: Relativistic Electrodynamics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2401",
+			"layup_id": 2401,
+			"title": "PHYS031: Explore Physics!",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2407",
+			"layup_id": 2407,
+			"title": "PHYS047: Optics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 10,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4234",
+			"layup_id": 4234,
+			"title": "PHYS007.06: The Origin of the Universe",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2411",
+			"layup_id": 2411,
+			"title": "PHYS068: Introductory Plasma Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2396",
+			"layup_id": 2396,
+			"title": "PHYS014: Introductory Physics II",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 103,
+			"quality_score": 28,
+			"layup_score": -13
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2402",
+			"layup_id": 2402,
+			"title": "PHYS040: Quantum Physics of Matter",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2394",
+			"layup_id": 2394,
+			"title": "PHYS007: First-year Seminars in Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 28,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2397",
+			"layup_id": 2397,
+			"title": "PHYS015: Introductory Physics I, Honors Section",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 91,
+			"quality_score": 18,
+			"layup_score": -10
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2412",
+			"layup_id": 2412,
+			"title": "PHYS070: Fourier Transforms and Complex Variables",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2392",
+			"layup_id": 2392,
+			"title": "PHYS004: General Physics II",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 79,
+			"quality_score": 5,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2395",
+			"layup_id": 2395,
+			"title": "PHYS013: Introductory Physics I",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 220,
+			"quality_score": 26,
+			"layup_score": -14
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4860",
+			"layup_id": 4860,
+			"title": "PHYS007.07: Nanotechnology and Society",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2398",
+			"layup_id": 2398,
+			"title": "PHYS016: Introductory Physics II, Honors Section",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 32,
+			"quality_score": 5,
+			"layup_score": -4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2399",
+			"layup_id": 2399,
+			"title": "PHYS019: Relativistic and Quantum Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 33,
+			"quality_score": 4,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2413",
+			"layup_id": 2413,
+			"title": "PHYS072: Introductory Particle Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 3,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2444",
+			"layup_id": 2444,
+			"title": "PHYS124: Optical Devices and Systems",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2438",
+			"layup_id": 2438,
+			"title": "PHYS116: Quantum Information Science",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2436",
+			"layup_id": 2436,
+			"title": "PHYS113: Microscopic Theory of Solids",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2433",
+			"layup_id": 2433,
+			"title": "PHYS109: Statistical Mechanics II",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2449",
+			"layup_id": 2449,
+			"title": "PHYS138: Graduate Research I: Level II",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2450",
+			"layup_id": 2450,
+			"title": "PHYS139: Graduate Research I: Level III",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2439",
+			"layup_id": 2439,
+			"title": "PHYS118: Computational Plasma Dynamics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2437",
+			"layup_id": 2437,
+			"title": "PHYS114: General Relativity and Cosmology",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2434",
+			"layup_id": 2434,
+			"title": "PHYS110: Methods in Applied Mathematics II",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2414",
+			"layup_id": 2414,
+			"title": "PHYS073: Introductory Condensed Matter Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2445",
+			"layup_id": 2445,
+			"title": "PHYS126: Semiconductor Theory and Devices",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2451",
+			"layup_id": 2451,
+			"title": "PHYS256: Instruction in Teaching for Graduate Students",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2440",
+			"layup_id": 2440,
+			"title": "PHYS120: Nonlinear Systems",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2435",
+			"layup_id": 2435,
+			"title": "PHYS111: Plasma Kinetic Theory",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2415",
+			"layup_id": 2415,
+			"title": "PHYS074: Space Plasma Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3835",
+			"layup_id": 3835,
+			"title": "PHYS115: Magnetohydrodynamics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2453",
+			"layup_id": 2453,
+			"title": "PHYS297: Graduate Research II: Level I",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2454",
+			"layup_id": 2454,
+			"title": "PHYS298: Graduate Research II: Level II",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2446",
+			"layup_id": 2446,
+			"title": "PHYS127: Reading Course",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2442",
+			"layup_id": 2442,
+			"title": "PHYS122: Special Topics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2441",
+			"layup_id": 2441,
+			"title": "PHYS121: Seminar",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2447",
+			"layup_id": 2447,
+			"title": "PHYS128: Methods of Materials Characterization",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2416",
+			"layup_id": 2416,
+			"title": "PHYS075: Quantum Computation and Information",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 5,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2455",
+			"layup_id": 2455,
+			"title": "PHYS299: Graduate Research II: Level III",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2452",
+			"layup_id": 2452,
+			"title": "PHYS257: Supervised Undergraduate Teaching",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2423",
+			"layup_id": 2423,
+			"title": "PHYS090: Intermediate Quantum Mechanics",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4326",
+			"layup_id": 4326,
+			"title": "PHYS129: Enterprise Experience Internship",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2443",
+			"layup_id": 2443,
+			"title": "PHYS123: Optics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2448",
+			"layup_id": 2448,
+			"title": "PHYS137: Graduate Research I: Level I",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2419",
+			"layup_id": 2419,
+			"title": "PHYS082: Special Topics Seminar",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5015",
+			"layup_id": 5015,
+			"title": "PHYS091: Intermediate Quantum Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2418",
+			"layup_id": 2418,
+			"title": "PHYS077: Introduction to General Relativity and Gravitation",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2421",
+			"layup_id": 2421,
+			"title": "PHYS087: Undergraduate Research",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2422",
+			"layup_id": 2422,
+			"title": "PHYS087.01: Undergraduate Research",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3023",
+			"layup_id": 3023,
+			"title": "PHYS085: Reading Course",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2417",
+			"layup_id": 2417,
+			"title": "PHYS076: Methods of Experimental Physics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5014",
+			"layup_id": 5014,
+			"title": "PHYS082.01: Question Reality",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2424",
+			"layup_id": 2424,
+			"title": "PHYS092: Physics of the Early Universe",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2428",
+			"layup_id": 2428,
+			"title": "PHYS104: Statistical Mechanics I",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2420",
+			"layup_id": 2420,
+			"title": "PHYS085.01: Reading Course",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4724",
+			"layup_id": 4724,
+			"title": "PHYS082.02: Introductory Mathematical Methods for Physicists",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2426",
+			"layup_id": 2426,
+			"title": "PHYS101: Classical Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2425",
+			"layup_id": 2425,
+			"title": "PHYS100: Mathematical Methods for Physicists",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2427",
+			"layup_id": 2427,
+			"title": "PHYS103: Advanced Quantum Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2431",
+			"layup_id": 2431,
+			"title": "PHYS107: Relativistic Quantum Field Theory",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2432",
+			"layup_id": 2432,
+			"title": "PHYS108: Fluid Mechanics",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2429",
+			"layup_id": 2429,
+			"title": "PHYS105: Electromagnetic Theory I",
+			"department": "PHYS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2430",
+			"layup_id": 2430,
+			"title": "PHYS106: Electromagnetic Theory II",
+			"department": "PHYS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:34:46",
+	"total": 80
+}

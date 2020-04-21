@@ -1,0 +1,3048 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/963",
+			"layup_id": 963,
+			"title": "ENGL003: Literary History III: Literature in the Twentieth and Twenty-First Centuries",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 18,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/962",
+			"layup_id": 962,
+			"title": "ENGL002: Literary History II: Literature from the mid-Seventeenth Century through the Nineteenth Century",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 30,
+			"quality_score": 4,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/961",
+			"layup_id": 961,
+			"title": "ENGL001: Literary History I: Literature up to the mid-Seventeenth Century",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4824",
+			"layup_id": 4824,
+			"title": "ENGL007.51: Shakespeare: Community, Law",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4699",
+			"layup_id": 4699,
+			"title": "ENGL007.48: Law, Literature and Justice",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4700",
+			"layup_id": 4700,
+			"title": "ENGL007.49: Secret History",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4698",
+			"layup_id": 4698,
+			"title": "ENGL007.47: Tales of the Avant-Garde",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3124",
+			"layup_id": 3124,
+			"title": "ENGL007.39: War and Peace",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": -2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3460",
+			"layup_id": 3460,
+			"title": "ENGL007.42: Five Canterbury Tales",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4823",
+			"layup_id": 4823,
+			"title": "ENGL007.50: Writing Wild",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4138",
+			"layup_id": 4138,
+			"title": "ENGL007.46: Belonging, Migration, Exile",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3111",
+			"layup_id": 3111,
+			"title": "ENGL007.11: New American Short Story",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3057",
+			"layup_id": 3057,
+			"title": "ENGL007.04: Literature of the Machine",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": -1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3115",
+			"layup_id": 3115,
+			"title": "ENGL007.41: Irish Identity and West Ire",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3117",
+			"layup_id": 3117,
+			"title": "ENGL007.40: Shakespeare's Non-dramatic",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3461",
+			"layup_id": 3461,
+			"title": "ENGL007.36: Immigr Wmn Wrtng in Amer",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4822",
+			"layup_id": 4822,
+			"title": "ENGL007.37: Writing Into the Silence",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4134",
+			"layup_id": 4134,
+			"title": "ENGL007.16: Investigative Memoir",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4645",
+			"layup_id": 4645,
+			"title": "ENGL099: Honors Course II",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3256",
+			"layup_id": 3256,
+			"title": "ENGL005: Reading with Attitude",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4136",
+			"layup_id": 4136,
+			"title": "ENGL007.44: Reading Jane Austen",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1029",
+			"layup_id": 1029,
+			"title": "ENGL054.11: Poetry and Poetic Theory",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4135",
+			"layup_id": 4135,
+			"title": "ENGL007.43: Race and Popular Music",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3730",
+			"layup_id": 3730,
+			"title": "ENGL007.01: Narrating Slave Rebellion",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3058",
+			"layup_id": 3058,
+			"title": "ENGL007.03: Focus on Hamlet",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/964",
+			"layup_id": 964,
+			"title": "ENGL006: Narrative Journalism: Literature and Practice",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1030",
+			"layup_id": 1030,
+			"title": "ENGL054.13: Digital Game Studies",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3112",
+			"layup_id": 3112,
+			"title": "ENGL007.38: Carribean Lit in English",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1009",
+			"layup_id": 1009,
+			"title": "ENGL052.04: The American Renaissance at Dartmouth",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4825",
+			"layup_id": 4825,
+			"title": "ENGL007.52: Freud \u0026 Culture",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5114",
+			"layup_id": 5114,
+			"title": "ENGL053.25: Ctmpry Native Am Poetry",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"CI",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/987",
+			"layup_id": 987,
+			"title": "ENGL031: Asian American Literature and Culture",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4635",
+			"layup_id": 4635,
+			"title": "ENGL071.03: The Faerie Queene",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1031",
+			"layup_id": 1031,
+			"title": "ENGL054.15: History of the Book",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/988",
+			"layup_id": 988,
+			"title": "ENGL032: Native American Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1023",
+			"layup_id": 1023,
+			"title": "ENGL053.26: From More Fun to Fun Home: A History of the U.S. Comic Book",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3442",
+			"layup_id": 3442,
+			"title": "ENGL052.05: Desire and Difference in 19th Century British Fiction",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5113",
+			"layup_id": 5113,
+			"title": "ENGL007.53: Ecopoetics",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3257",
+			"layup_id": 3257,
+			"title": "ENGL054.16: Literary Classics",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4203",
+			"layup_id": 4203,
+			"title": "ENGL007.02: Toni Morrison",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1024",
+			"layup_id": 1024,
+			"title": "ENGL053.27: The African American 1960s",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/989",
+			"layup_id": 989,
+			"title": "ENGL033: Modern Black American Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1044",
+			"layup_id": 1044,
+			"title": "ENGL071.05: Romance in Medieval England",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3799",
+			"layup_id": 3799,
+			"title": "ENGL052.06: Media \u0026 Monstrosity",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/965",
+			"layup_id": 965,
+			"title": "ENGL007: First-Year Seminars in English",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 204,
+			"quality_score": 39,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3868",
+			"layup_id": 3868,
+			"title": "ENGL054.40: Literary Culture in an Age of Digital Distraction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1000",
+			"layup_id": 1000,
+			"title": "ENGL045: Introduction to Literary Theory",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 8,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4205",
+			"layup_id": 4205,
+			"title": "ENGL053.28: James Baldwin: From the Civil Rights Movement to Black Lives Matter",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"CI",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3122",
+			"layup_id": 3122,
+			"title": "ENGL044: Introduction to Digital Studies",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1045",
+			"layup_id": 1045,
+			"title": "ENGL071.06: Milton",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1010",
+			"layup_id": 1010,
+			"title": "ENGL052.10: Vox Clamantis: Wilderness in 19thC American Literature",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/966",
+			"layup_id": 966,
+			"title": "ENGL010: Anglo-Saxon and Scandinavian Epic and Saga",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 11,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1032",
+			"layup_id": 1032,
+			"title": "ENGL055.01: Modern American Women Poets",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1001",
+			"layup_id": 1001,
+			"title": "ENGL046: Old and New Media",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 17,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4628",
+			"layup_id": 4628,
+			"title": "ENGL053.29: Introduction to African American Environmental Thought: The Black Outdoors",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1046",
+			"layup_id": 1046,
+			"title": "ENGL071.13: Gender and Power in Shakespeare",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/990",
+			"layup_id": 990,
+			"title": "ENGL034: From Anna Christie to Hamilton (and Donald Trump): Modern American Drama",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 27,
+			"quality_score": 9,
+			"layup_score": 12
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4626",
+			"layup_id": 4626,
+			"title": "ENGL052.11: Daniel Webster and the Dartmouth College Case",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/967",
+			"layup_id": 967,
+			"title": "ENGL011: Chaucer: \u0026quot;The Canterbury Tales\u0026quot;",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 12,
+			"quality_score": 2,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1025",
+			"layup_id": 1025,
+			"title": "ENGL053.30: Women Writing Memoir",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W",
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1002",
+			"layup_id": 1002,
+			"title": "ENGL047: A History of the English Language",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"QDS",
+				"W"
+			],
+			"total_reviews": 45,
+			"quality_score": 8,
+			"layup_score": 22
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1047",
+			"layup_id": 1047,
+			"title": "ENGL072.01: The Civil War in Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/991",
+			"layup_id": 991,
+			"title": "ENGL035: American Fiction: 1900 to World War II",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1033",
+			"layup_id": 1033,
+			"title": "ENGL055.02: Machine Readings: Text Analysis in the Information Age",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1011",
+			"layup_id": 1011,
+			"title": "ENGL052.13: The Victorians Through Six Children's Novels",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/968",
+			"layup_id": 968,
+			"title": "ENGL012: Chaucer's \u0026quot;Troilus and Criseyde\u0026quot; and Other Poems",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1003",
+			"layup_id": 1003,
+			"title": "ENGL048: Critical Issues in Postcolonial Studies",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 23,
+			"quality_score": 4,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1026",
+			"layup_id": 1026,
+			"title": "ENGL053.32: Literature and Culture of the Americas",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/992",
+			"layup_id": 992,
+			"title": "ENGL036: Contemporary American Fiction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 11,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3193",
+			"layup_id": 3193,
+			"title": "ENGL055.05: Book Arts Studio Seminar",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1012",
+			"layup_id": 1012,
+			"title": "ENGL052.15: Transatlantic Gothic",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/969",
+			"layup_id": 969,
+			"title": "ENGL013: Medieval English Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1027",
+			"layup_id": 1027,
+			"title": "ENGL053.33: Gender and Sexuality in Asian American Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1004",
+			"layup_id": 1004,
+			"title": "ENGL051.01: Plays, Playing, and Publicity",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3807",
+			"layup_id": 3807,
+			"title": "ENGL052.16: God, Darwin, and the Literary Imagination",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3194",
+			"layup_id": 3194,
+			"title": "ENGL055.06: Reading and Publishing the Literary Magazine",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/970",
+			"layup_id": 970,
+			"title": "ENGL014: Renaissance Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 8,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1005",
+			"layup_id": 1005,
+			"title": "ENGL051.02: Shakespeare's King Lear and Macbeth: Text and Film",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/993",
+			"layup_id": 993,
+			"title": "ENGL037: Contemporary American Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 10,
+			"quality_score": 5,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3816",
+			"layup_id": 3816,
+			"title": "ENGL052.17: Victorian Children's Literature: Fairytale and Fantasy",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 5,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/971",
+			"layup_id": 971,
+			"title": "ENGL015: Shakespeare",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 63,
+			"quality_score": 16,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3969",
+			"layup_id": 3969,
+			"title": "ENGL053.34: The Wire",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3249",
+			"layup_id": 3249,
+			"title": "ENGL055.07: The Arts of War",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4367",
+			"layup_id": 4367,
+			"title": "ENGL051.03: Hamlet \u0026 KingLear:Text\u0026Film;",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4204",
+			"layup_id": 4204,
+			"title": "ENGL052.18: Netflix and the Victorian Serial Novel",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/972",
+			"layup_id": 972,
+			"title": "ENGL016: Renaissance Drama",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 11,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1028",
+			"layup_id": 1028,
+			"title": "ENGL053.35: From Diaspora Practices to Theory",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1048",
+			"layup_id": 1048,
+			"title": "ENGL072.02: Decadence, Degeneration and the Fin de Siecle",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3259",
+			"layup_id": 3259,
+			"title": "ENGL055.08: Neuroscience and the Novel",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3808",
+			"layup_id": 3808,
+			"title": "ENGL072.03: Bohemia: Glamorous Outcasts \u0026 the Nineteenth-Century Novel",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1006",
+			"layup_id": 1006,
+			"title": "ENGL051.13: Gender and Power in Shakespeare",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4137",
+			"layup_id": 4137,
+			"title": "ENGL007.45: The Symptom",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1049",
+			"layup_id": 1049,
+			"title": "ENGL072.05: 1850s America",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1007",
+			"layup_id": 1007,
+			"title": "ENGL052.01: Whitman and Dickinson",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4638",
+			"layup_id": 4638,
+			"title": "ENGL075.02: Climate Fiction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/994",
+			"layup_id": 994,
+			"title": "ENGL038: American and British Poetry: 1900-1960",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 32,
+			"quality_score": 11,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1058",
+			"layup_id": 1058,
+			"title": "ENGL080: Writing and Reading Fiction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 58,
+			"quality_score": 21,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3315",
+			"layup_id": 3315,
+			"title": "ENGL052.02: The Civil War in Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1050",
+			"layup_id": 1050,
+			"title": "ENGL072.09: Ecocriticism",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3550",
+			"layup_id": 3550,
+			"title": "ENGL055.09: Hope? How Feelings Shape American Culture",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1059",
+			"layup_id": 1059,
+			"title": "ENGL081: Writing and Reading Creative Nonfiction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 8,
+			"quality_score": 4,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/995",
+			"layup_id": 995,
+			"title": "ENGL039: Modern British Drama",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 4,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1008",
+			"layup_id": 1008,
+			"title": "ENGL052.03: Dave the Potter: Slavery Between Pots and Poems",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3838",
+			"layup_id": 3838,
+			"title": "ENGL053.36: Game of Thrones: Re-Imagining Medieval History as an Allegory of the Present",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 5,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3876",
+			"layup_id": 3876,
+			"title": "ENGL055.11: Hamilton: The Revolution as a Work of Art",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1060",
+			"layup_id": 1060,
+			"title": "ENGL082: Writing and Reading poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 21,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/996",
+			"layup_id": 996,
+			"title": "ENGL040: British Fiction: 1900 to World War II",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 19,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3785",
+			"layup_id": 3785,
+			"title": "ENGL072.13: The Brontës",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4964",
+			"layup_id": 4964,
+			"title": "ENGL053.43: Race and Modernity: W.E.B. DuBois, James Baldwin, Lorraine Hansberry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5116",
+			"layup_id": 5116,
+			"title": "ENGL053.44: Indians in American Lit",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4206",
+			"layup_id": 4206,
+			"title": "ENGL055.12: Dartmouth Fictions",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1061",
+			"layup_id": 1061,
+			"title": "ENGL083: Intermediate Workshop in Fiction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 4,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/997",
+			"layup_id": 997,
+			"title": "ENGL041: British Fiction: World War II to the Present",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 40,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4307",
+			"layup_id": 4307,
+			"title": "ENGL053.37: Global Comic Strip",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3320",
+			"layup_id": 3320,
+			"title": "ENGL073.01: In the Image: Photography, Writing, and the Documentary Turn",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5179",
+			"layup_id": 5179,
+			"title": "ENGL053: Topics in Course Group III: Literature of the Nineteenth Century",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1062",
+			"layup_id": 1062,
+			"title": "ENGL084: Intermediate Creative Nonfiction",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/998",
+			"layup_id": 998,
+			"title": "ENGL042: Introduction to Postcolonial Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 45,
+			"quality_score": 13,
+			"layup_score": 20
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5181",
+			"layup_id": 5181,
+			"title": "ENGL053.38: Narratives of Un-belonging: Bad Asians, Queer Texts",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4636",
+			"layup_id": 4636,
+			"title": "ENGL073.02: Toni Morrison Senior Seminar",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3151",
+			"layup_id": 3151,
+			"title": "ENGL054.01: Shakespeare Adaptations",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1063",
+			"layup_id": 1063,
+			"title": "ENGL085: Intermediate Workshop in Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 8,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4927",
+			"layup_id": 4927,
+			"title": "ENGL053.39: Haunted Houses in American Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/999",
+			"layup_id": 999,
+			"title": "ENGL043: Introduction to New Media",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4095",
+			"layup_id": 4095,
+			"title": "ENGL073.03: 20th Century Protest Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1034",
+			"layup_id": 1034,
+			"title": "ENGL055.13: South African Literature in English",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3192",
+			"layup_id": 3192,
+			"title": "ENGL054.02: Arts of Laughter: Comedy and Criticism",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3258",
+			"layup_id": 3258,
+			"title": "ENGL086.01: SrWrkshp:CreativeWrt-Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3865",
+			"layup_id": 3865,
+			"title": "ENGL053.40: The Historical Philosophy of W.E.B. Dubois",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1016",
+			"layup_id": 1016,
+			"title": "ENGL053.15: The Bloomsbury Group",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1051",
+			"layup_id": 1051,
+			"title": "ENGL073.05: Global Anglophone Nobel Prize Writers",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1035",
+			"layup_id": 1035,
+			"title": "ENGL055.14: Native American Oral Traditional Literatures",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3444",
+			"layup_id": 3444,
+			"title": "ENGL054.03: Young Adult Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1064",
+			"layup_id": 1064,
+			"title": "ENGL086: Senior Workshop in Creative Writing",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4928",
+			"layup_id": 4928,
+			"title": "ENGL053.41: Black Love \u0026 Its Discontents: Barry Jenkins",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1014",
+			"layup_id": 1014,
+			"title": "ENGL053.04: Telling Stories for Social Change",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1052",
+			"layup_id": 1052,
+			"title": "ENGL073.07: Poetry of Elizabeth Bishop",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4629",
+			"layup_id": 4629,
+			"title": "ENGL054.04: Beautiful, Ugly, Cute, Dumpy: An Introduction to Aesthetics",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3129",
+			"layup_id": 3129,
+			"title": "ENGL087.01: Raising the Dead",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3928",
+			"layup_id": 3928,
+			"title": "ENGL055.15: The Merchant of Venice: The Jew in the Protestant Imagination",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5115",
+			"layup_id": 5115,
+			"title": "ENGL053.42: Postmodern\u0026quot; Britain: Fictions of Pluralism, Dystopia (and Brexit)",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3316",
+			"layup_id": 3316,
+			"title": "ENGL053.05: Writing Dublin: On Saints, Sinners, and Rebels",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3042",
+			"layup_id": 3042,
+			"title": "ENGL087.02: Literary Geniuses",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1053",
+			"layup_id": 1053,
+			"title": "ENGL073.09: United States of Queer",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/980",
+			"layup_id": 980,
+			"title": "ENGL024: Victorian Literature and Culture, 1837-1859",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 83,
+			"quality_score": 21,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5117",
+			"layup_id": 5117,
+			"title": "ENGL054.05: Animal Studies: Theory, Literature, Politics",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1054",
+			"layup_id": 1054,
+			"title": "ENGL073.13: James Joyce",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1066",
+			"layup_id": 1066,
+			"title": "ENGL087.03: Topics in Creative Writing: Remains, Ruin, Repair and Rapture",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1015",
+			"layup_id": 1015,
+			"title": "ENGL053.06: Women's Literature and Technologies of Transmission from the Long Nineteenth Century to the Present",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/974",
+			"layup_id": 974,
+			"title": "ENGL018: Poetry, Prose, and Drama of the English Restoration, 1660-1689",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 27,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4630",
+			"layup_id": 4630,
+			"title": "ENGL055.16: Prehistoric Worlds: Science Fiction and Geological Time",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3731",
+			"layup_id": 3731,
+			"title": "ENGL073.17: Science, Fictn, and Empire",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/977",
+			"layup_id": 977,
+			"title": "ENGL021: Reason and Revolution",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 9,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3402",
+			"layup_id": 3402,
+			"title": "ENGL087.04: Imaginary Countries",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3443",
+			"layup_id": 3443,
+			"title": "ENGL053.07: Black Noir",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/978",
+			"layup_id": 978,
+			"title": "ENGL022: The Rise of the Novel",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 20,
+			"quality_score": 8,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4631",
+			"layup_id": 4631,
+			"title": "ENGL055.17: Disability and Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4637",
+			"layup_id": 4637,
+			"title": "ENGL073.19: Faulkner",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/975",
+			"layup_id": 975,
+			"title": "ENGL019: Writing, Resistance, and (digital) Revolution",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4627",
+			"layup_id": 4627,
+			"title": "ENGL053.08: Weird Fiction and the Limits of the Human",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/979",
+			"layup_id": 979,
+			"title": "ENGL023: Romantic Literature: Aesthetics and Ideology from the French Revolution to Frankenstein",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 24,
+			"quality_score": 7,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3817",
+			"layup_id": 3817,
+			"title": "ENGL087.06: Writing for Television",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1055",
+			"layup_id": 1055,
+			"title": "ENGL073.20: Trench Modernism",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4632",
+			"layup_id": 4632,
+			"title": "ENGL055.18: Research As Picture Books",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3892",
+			"layup_id": 3892,
+			"title": "ENGL053.10: Immigrant Women Writing in America",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3401",
+			"layup_id": 3401,
+			"title": "ENGL063.06: The Undead South: Horror and Haunting in U.S. Southern Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4208",
+			"layup_id": 4208,
+			"title": "ENGL087.10: Engaging Hybridity",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1056",
+			"layup_id": 1056,
+			"title": "ENGL073.28: How We Live Now: Contemporary Hemispheric Fictions",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4369",
+			"layup_id": 4369,
+			"title": "ENGL063.07: Cosmopolitanism and the Fictions of Exchange",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3322",
+			"layup_id": 3322,
+			"title": "ENGL074.03: On Cruelty",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4826",
+			"layup_id": 4826,
+			"title": "ENGL055.19: Maroons to Marley: Jamaica's Role in Worldwide Revolutions from Slavery to the Present Day",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1065",
+			"layup_id": 1065,
+			"title": "ENGL087: Special Topics in Creative Writing",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/976",
+			"layup_id": 976,
+			"title": "ENGL020: Age of Satire",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 29,
+			"quality_score": 8,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3825",
+			"layup_id": 3825,
+			"title": "ENGL074.04: Postcolonial Bildungsroman: Youth and Happiness in the Global Novel",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4139",
+			"layup_id": 4139,
+			"title": "ENGL073.30: 20th Century Protest Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4207",
+			"layup_id": 4207,
+			"title": "ENGL061.01: Chaucer: Dream Poems and Troilus",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1067",
+			"layup_id": 1067,
+			"title": "ENGL089: Creative Writing Project",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4931",
+			"layup_id": 4931,
+			"title": "ENGL074.05: Word-Image Theory",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4368",
+			"layup_id": 4368,
+			"title": "ENGL061.02: Sound, Music, Literature in Medieval England",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3153",
+			"layup_id": 3153,
+			"title": "ENGL074.01: Reading Freud",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1068",
+			"layup_id": 1068,
+			"title": "ENGL090: English Study Abroad I",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1057",
+			"layup_id": 1057,
+			"title": "ENGL074.11: High Theory",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4633",
+			"layup_id": 4633,
+			"title": "ENGL061.11: Reel Imaginary: Early American Literature in Film",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1069",
+			"layup_id": 1069,
+			"title": "ENGL091: English Study Abroad II",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5186",
+			"layup_id": 5186,
+			"title": "ENGL064.06: Animal, Vegetable, Medium: Writing Nonhuman Sentience and Communication",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1071",
+			"layup_id": 1071,
+			"title": "ENGL096: Reading Course",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1040",
+			"layup_id": 1040,
+			"title": "ENGL063.08: Electronic Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3152",
+			"layup_id": 3152,
+			"title": "ENGL062.01: British Fictions of Revolution",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1070",
+			"layup_id": 1070,
+			"title": "ENGL092: English Study Abroad III",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1041",
+			"layup_id": 1041,
+			"title": "ENGL063.28: Rethinking Frost: Robert Frost in a Declining Landscape",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3197",
+			"layup_id": 3197,
+			"title": "ENGL064: Junior Colloquia in Course Group IV",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3317",
+			"layup_id": 3317,
+			"title": "ENGL062.02: The New Emily Dickinson: After the Digital Turn",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1020",
+			"layup_id": 1020,
+			"title": "ENGL053.19: Faulkner",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3824",
+			"layup_id": 3824,
+			"title": "ENGL064.01: Hysteria, Paranoia, Schizophrenia: The Case Study as Literary Genre",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3319",
+			"layup_id": 3319,
+			"title": "ENGL065.01: Walking",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4929",
+			"layup_id": 4929,
+			"title": "ENGL062.03: Nineteenth-Century British Women Writers",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1017",
+			"layup_id": 1017,
+			"title": "ENGL053.16: African Literatures: Masterpieces of Literature from Africa",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3842",
+			"layup_id": 3842,
+			"title": "ENGL064.02: Garden Politics: Literature, Theory, Practice",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4370",
+			"layup_id": 4370,
+			"title": "ENGL065.02: Writing with Algorithms: A Literary Computation Workshop",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1036",
+			"layup_id": 1036,
+			"title": "ENGL062.12: Jane Austen",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1018",
+			"layup_id": 1018,
+			"title": "ENGL053.17: The Graphic Novel",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1042",
+			"layup_id": 1042,
+			"title": "ENGL065.06: The Poetry and Rhetoric of Love, from Petrarch to Social Media",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1072",
+			"layup_id": 1072,
+			"title": "ENGL098: Honors Course I",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4308",
+			"layup_id": 4308,
+			"title": "ENGL064.03: Deconstruction: An Introduction to the Work of Jacques Derrida",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1019",
+			"layup_id": 1019,
+			"title": "ENGL053.18: The Harlem Renaissance",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3198",
+			"layup_id": 3198,
+			"title": "ENGL071.01: Celtic Fringes: Medeival English Literature in Dialogue with Irish, Welsh, and Breton Traditions",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1043",
+			"layup_id": 1043,
+			"title": "ENGL071.02: Ovid in England",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"W",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4634",
+			"layup_id": 4634,
+			"title": "ENGL064.04: Jacques Lacan and Psychoanalytic Thought",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1038",
+			"layup_id": 1038,
+			"title": "ENGL062.22: Atlantic Slavery/Atlantic Freedom",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1037",
+			"layup_id": 1037,
+			"title": "ENGL062.16: Victorian Faces/Facial Politics",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3043",
+			"layup_id": 3043,
+			"title": "ENGL053.22: Science Fiction Studies",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4930",
+			"layup_id": 4930,
+			"title": "ENGL064.05: Cultural Analytics",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3196",
+			"layup_id": 3196,
+			"title": "ENGL063.03: Fictions of Finance: For Love or Money",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1021",
+			"layup_id": 1021,
+			"title": "ENGL053.20: Indian Killers: Murder and Mystery in Native Literature and Film",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3318",
+			"layup_id": 3318,
+			"title": "ENGL063.04: Arts Against Empire: Fictions of Revolution and Solidarity in the Americas",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1022",
+			"layup_id": 1022,
+			"title": "ENGL053.23: Caribbean Lyric and Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3195",
+			"layup_id": 3195,
+			"title": "ENGL063.01: Modern Jewish American Women Writers",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/983",
+			"layup_id": 983,
+			"title": "ENGL027: Tell It Slant: Female, Black, Queer Readings of Early American Poetry",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 14,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/981",
+			"layup_id": 981,
+			"title": "ENGL025: Victorian Literature and Culture, 1860-1901",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3260",
+			"layup_id": 3260,
+			"title": "ENGL063.02: Toni Morrison",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/985",
+			"layup_id": 985,
+			"title": "ENGL029: American Fiction to 1900",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1039",
+			"layup_id": 1039,
+			"title": "ENGL063.05: Nobel Prize Writers",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/982",
+			"layup_id": 982,
+			"title": "ENGL026: Masterpieces of Nineteenth Century British Fiction",
+			"department": "ENGL",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/986",
+			"layup_id": 986,
+			"title": "ENGL030: Early Black American Literature",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 16,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3321",
+			"layup_id": 3321,
+			"title": "ENGL074.02: Understanding Biopolitics",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/984",
+			"layup_id": 984,
+			"title": "ENGL028: Making Americans: Hipsters, Tricksters and Geniuses",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1013",
+			"layup_id": 1013,
+			"title": "ENGL052.21: Popular Fiction and the Culture of Empire",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/973",
+			"layup_id": 973,
+			"title": "ENGL017: Milton",
+			"department": "ENGL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 13,
+			"quality_score": 4,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:30:57",
+	"total": 228
+}

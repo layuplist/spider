@@ -1,0 +1,585 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1980",
+			"layup_id": 1980,
+			"title": "LING087: Honors Thesis",
+			"department": "LING",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4226",
+			"layup_id": 4226,
+			"title": "LING007.05: The Origin of Language",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1956",
+			"layup_id": 1956,
+			"title": "LING001: Introductory Linguistics",
+			"department": "LING",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 214,
+			"quality_score": 113,
+			"layup_score": 29
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3749",
+			"layup_id": 3749,
+			"title": "LING007.01: Dialects",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1958",
+			"layup_id": 1958,
+			"title": "LING008: The Structure of Maori",
+			"department": "LING",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3454",
+			"layup_id": 3454,
+			"title": "LING005: Topics in the Study of Language",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3104",
+			"layup_id": 3104,
+			"title": "LING007.03: Conversational Style",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4388",
+			"layup_id": 4388,
+			"title": "LING011.13: The Language-Music Connection",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1971",
+			"layup_id": 1971,
+			"title": "LING027: Historical Linguistics",
+			"department": "LING",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4850",
+			"layup_id": 4850,
+			"title": "LING007.06: The Indo-Europeans",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1965",
+			"layup_id": 1965,
+			"title": "LING021: Phonology",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 13,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1957",
+			"layup_id": 1957,
+			"title": "LING007: First-Year Seminar in Linguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 31,
+			"quality_score": 7,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1959",
+			"layup_id": 1959,
+			"title": "LING010: Language Acquisition",
+			"department": "LING",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"QDS"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4155",
+			"layup_id": 4155,
+			"title": "LING028: Computational Linguistics",
+			"department": "LING",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4228",
+			"layup_id": 4228,
+			"title": "LING080.02: Seminar: The Word",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1962",
+			"layup_id": 1962,
+			"title": "LING017: Sociolinguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 21,
+			"quality_score": 14,
+			"layup_score": 9
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4097",
+			"layup_id": 4097,
+			"title": "LING011.02: Languages of China",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1967",
+			"layup_id": 1967,
+			"title": "LING023: Semantics and Pragmatics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 18,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3413",
+			"layup_id": 3413,
+			"title": "LING033: Typology",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1976",
+			"layup_id": 1976,
+			"title": "LING080.04: Language and Gender",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1963",
+			"layup_id": 1963,
+			"title": "LING018: History of the English Language",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1972",
+			"layup_id": 1972,
+			"title": "LING035: Field Methods",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 10,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1966",
+			"layup_id": 1966,
+			"title": "LING022: Syntax",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 23,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3247",
+			"layup_id": 3247,
+			"title": "LING011.03: Language Behavior and Verbal Cultures in the Middle East",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1977",
+			"layup_id": 1977,
+			"title": "LING080.05: Advanced Theoretical Issues in Historical Linguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4227",
+			"layup_id": 4227,
+			"title": "LING048: Accelerated Computational Linguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1964",
+			"layup_id": 1964,
+			"title": "LING020: Experimental Phonetics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 9,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3214",
+			"layup_id": 3214,
+			"title": "LING050.04: History of the Romance Languages",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3750",
+			"layup_id": 3750,
+			"title": "LING080.06: Tone",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3806",
+			"layup_id": 3806,
+			"title": "LING050.05: History of Linguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1968",
+			"layup_id": 1968,
+			"title": "LING024: Discourse Analysis",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 6,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1973",
+			"layup_id": 1973,
+			"title": "LING050.01: Computational Linguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1960",
+			"layup_id": 1960,
+			"title": "LING011.06: Language Revitalization",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1970",
+			"layup_id": 1970,
+			"title": "LING026: Morphology",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 7,
+			"quality_score": 3,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4851",
+			"layup_id": 4851,
+			"title": "LING080.07: Advanced Linguistics Seminar: Variation and Dialects",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1974",
+			"layup_id": 1974,
+			"title": "LING054: Foreign Study in Linguistics",
+			"department": "LING",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1969",
+			"layup_id": 1969,
+			"title": "LING025: Typology",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 8,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1978",
+			"layup_id": 1978,
+			"title": "LING085: Independent Study and Research",
+			"department": "LING",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1961",
+			"layup_id": 1961,
+			"title": "LING011.09: The World's Englishes",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3213",
+			"layup_id": 3213,
+			"title": "LING011.10: Language in Africa",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1979",
+			"layup_id": 1979,
+			"title": "LING086: Honors Research",
+			"department": "LING",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3858",
+			"layup_id": 3858,
+			"title": "LING011.12: Language and Cognition",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3805",
+			"layup_id": 3805,
+			"title": "LING011.11: Languages of the World",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1975",
+			"layup_id": 1975,
+			"title": "LING080: Seminar in Linguistics",
+			"department": "LING",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 16,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3478",
+			"layup_id": 3478,
+			"title": "LING005.01: Words",
+			"department": "LING",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:23:29",
+	"total": 45
+}

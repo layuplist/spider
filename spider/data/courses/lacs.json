@@ -1,0 +1,752 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1933",
+			"layup_id": 1933,
+			"title": "LACS099: Honors Thesis II",
+			"department": "LACS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1899",
+			"layup_id": 1899,
+			"title": "LACS004: History, Culture and Society: The Many Faces of Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4849",
+			"layup_id": 4849,
+			"title": "LACS032: Borderlands Art \u0026 Theory",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4522",
+			"layup_id": 4522,
+			"title": "LACS024: Mexican Cinema",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1905",
+			"layup_id": 1905,
+			"title": "LACS030.06: New Latin American Cinema",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1904",
+			"layup_id": 1904,
+			"title": "LACS030.05: Intro to Visual Culture in Latin American",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5132",
+			"layup_id": 5132,
+			"title": "LACS030.08: Race\u0026Gender-Brazilian; Film",
+			"department": "LACS",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1906",
+			"layup_id": 1906,
+			"title": "LACS030.09: Mexicanidad: Constructing and Dismantling Mexican National Identity",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3803",
+			"layup_id": 3803,
+			"title": "LACS036: Maid in America: The Politics of Domestic Labor",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4154",
+			"layup_id": 4154,
+			"title": "LACS038: The Global Caribbean",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1907",
+			"layup_id": 1907,
+			"title": "LACS030.10: Slave Societies, Ancient and Modern: Imperial Rome and Brazil",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1918",
+			"layup_id": 1918,
+			"title": "LACS052: Sex and the State in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1909",
+			"layup_id": 1909,
+			"title": "LACS042: The Aztecs",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1898",
+			"layup_id": 1898,
+			"title": "LACS001: Introduction to Latin America and the Caribbean",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 18,
+			"quality_score": 7,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1902",
+			"layup_id": 1902,
+			"title": "LACS020: The Politics and Ethics of Development in Latin America: The Nicaraguan Context",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1910",
+			"layup_id": 1910,
+			"title": "LACS043: Olmecs, Maya, and Toltecs: Ancient Civilizations of Mesoamerica",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1903",
+			"layup_id": 1903,
+			"title": "LACS023: Testimonial and Truth in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4717",
+			"layup_id": 4717,
+			"title": "LACS007.05: Latinx Stage and Screen",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1919",
+			"layup_id": 1919,
+			"title": "LACS053: Protests and Parties in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1900",
+			"layup_id": 1900,
+			"title": "LACS007: First Year Seminars in Latin American, Latino and Caribbean Studies",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 9,
+			"quality_score": 4,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1927",
+			"layup_id": 1927,
+			"title": "LACS077: Democracy and Accountability in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1911",
+			"layup_id": 1911,
+			"title": "LACS048: Mexican Muralism",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": -2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5131",
+			"layup_id": 5131,
+			"title": "LACS024.30: Latinx Stage \u0026 Screen",
+			"department": "LACS",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1926",
+			"layup_id": 1926,
+			"title": "LACS076: Culture and Identity in Modern Mexico",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4847",
+			"layup_id": 4847,
+			"title": "LACS008: Politics\u0026Culture in Transnational Central America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1928",
+			"layup_id": 1928,
+			"title": "LACS078: Twentieth Century Art from Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5016",
+			"layup_id": 5016,
+			"title": "LACS024.50: Latinx-ploitation",
+			"department": "LACS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5017",
+			"layup_id": 5017,
+			"title": "LACS049: Performeras on the Latin American Stage",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1901",
+			"layup_id": 1901,
+			"title": "LACS010: Pre-Columbian and Colonial America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1929",
+			"layup_id": 1929,
+			"title": "LACS080.02: Identity and Power in the Americas",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3477",
+			"layup_id": 3477,
+			"title": "LACS030.12: Arts Against Empire: Fictions of Revolution and Solidarity in the Americas",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1912",
+			"layup_id": 1912,
+			"title": "LACS050.04: The Cuban Revolution: Origins and Legacies",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1920",
+			"layup_id": 1920,
+			"title": "LACS054: Nationalism and Revolution in the Caribbean",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1923",
+			"layup_id": 1923,
+			"title": "LACS059: Caribbean History 1898 to the present",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1908",
+			"layup_id": 1908,
+			"title": "LACS030.11: Social, Political, and Cultural Trends in Contemporary Brazil",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1914",
+			"layup_id": 1914,
+			"title": "LACS050.08: Commodities, Globalization, and Development in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1915",
+			"layup_id": 1915,
+			"title": "LACS050.09: Revolution, Reform and Reaction: The Cold War in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4387",
+			"layup_id": 4387,
+			"title": "LACS050.16: The Jewish Atlantic",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4848",
+			"layup_id": 4848,
+			"title": "LACS030.13: The Tropical Fantastic: Science Fiction, Fantasy, and Horror in Brazilian Literature and Film",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1916",
+			"layup_id": 1916,
+			"title": "LACS050.10: Health and Disease in Latin American and the Caribbean",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3786",
+			"layup_id": 3786,
+			"title": "LACS050.13: The History of Capitalism in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1917",
+			"layup_id": 1917,
+			"title": "LACS051: Beyond Sex, Drugs, Rock n Roll",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1925",
+			"layup_id": 1925,
+			"title": "LACS066: Caribbean Lyric and Literature",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3095",
+			"layup_id": 3095,
+			"title": "LACS007.04: Democ\u0026Develop in LatAmerica",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 2,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3929",
+			"layup_id": 3929,
+			"title": "LACS050.15: Cuba in the Black Atlantic: Slavery and its Legacies",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3267",
+			"layup_id": 3267,
+			"title": "LACS050.11: Latin America and the U.S.: The Dynamics of Foreign Policy",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3160",
+			"layup_id": 3160,
+			"title": "LACS050.12: Chronicling Mexico City: Journalism and Social Change",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1931",
+			"layup_id": 1931,
+			"title": "LACS089: Independent Study",
+			"department": "LACS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1922",
+			"layup_id": 1922,
+			"title": "LACS058: Slavery and Emancipation in Latin America and the Caribbean",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4524",
+			"layup_id": 4524,
+			"title": "LACS050.17: Land, Belonging, and Social Change in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1913",
+			"layup_id": 1913,
+			"title": "LACS050.07: Latin America's Search for Democracy and Development",
+			"department": "LACS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1932",
+			"layup_id": 1932,
+			"title": "LACS098: Honors Thesis I",
+			"department": "LACS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1921",
+			"layup_id": 1921,
+			"title": "LACS057: From Coca to Cocaine: Drug Economies in Latin America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1930",
+			"layup_id": 1930,
+			"title": "LACS082: Popular Struggle, Political Change and U.S. Intervention in Central America",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1924",
+			"layup_id": 1924,
+			"title": "LACS060: War and Representation in 19th Century Latin American Culture",
+			"department": "LACS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5018",
+			"layup_id": 5018,
+			"title": "LACS083.50: Trading Places: How Chile Passed Argentina on the Road to Development",
+			"department": "LACS",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:19:17",
+	"total": 56
+}

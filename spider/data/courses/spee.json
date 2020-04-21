@@ -1,0 +1,206 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/2897",
+			"layup_id": 2897,
+			"title": "SPEE040: Resistance To Influence: Inoculation Theory-Based Persuasion",
+			"department": "SPEE",
+			"offered": true,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2884",
+			"layup_id": 2884,
+			"title": "SPEE020: Public Speaking",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": 5,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2891",
+			"layup_id": 2891,
+			"title": "SPEE032: Legal Rhetoric",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2892",
+			"layup_id": 2892,
+			"title": "SPEE033: Political Humor Rhetoric: Contemporary Television",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3051",
+			"layup_id": 3051,
+			"title": "SPEE020.02: Public Speaking",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2888",
+			"layup_id": 2888,
+			"title": "SPEE027: Intercultural Communication",
+			"department": "SPEE",
+			"offered": true,
+			"distribs": [
+				"CI",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2889",
+			"layup_id": 2889,
+			"title": "SPEE030: Speechwriting",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3121",
+			"layup_id": 3121,
+			"title": "SPEE020.01: Public Speaking",
+			"department": "SPEE",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 1,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2895",
+			"layup_id": 2895,
+			"title": "SPEE036: Sustainability Rhetoric: Communication Design and Global Discourse of Social Responsibility",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2886",
+			"layup_id": 2886,
+			"title": "SPEE025: Persuasive Public Speaking",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 5,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2894",
+			"layup_id": 2894,
+			"title": "SPEE035: Rhetorics of Race",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2893",
+			"layup_id": 2893,
+			"title": "SPEE034: Image Rhetoric: Image Attack, Image Repair, and Image Promotion",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2890",
+			"layup_id": 2890,
+			"title": "SPEE031: Rhetoric of Social Justice: Public Advocacy and U.S. Social Justice Movements",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2885",
+			"layup_id": 2885,
+			"title": "SPEE020.03: Public Speaking",
+			"department": "SPEE",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2887",
+			"layup_id": 2887,
+			"title": "SPEE026: How New Media Shape Our Lives: Rhetoric, Theory, and Praxis",
+			"department": "SPEE",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2896",
+			"layup_id": 2896,
+			"title": "SPEE037: Health Communication",
+			"department": "SPEE",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:40:10",
+	"total": 16
+}

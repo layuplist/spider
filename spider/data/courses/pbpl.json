@@ -1,0 +1,435 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/2240",
+			"layup_id": 2240,
+			"title": "PBPL007: Leadership in Foreign Policy Decision-making",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2254",
+			"layup_id": 2254,
+			"title": "PBPL051: Leadership in Civil Society",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2239",
+			"layup_id": 2239,
+			"title": "PBPL005: Introduction to Public Policy",
+			"department": "PBPL",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 56,
+			"quality_score": 1,
+			"layup_score": -14
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2270",
+			"layup_id": 2270,
+			"title": "PBPL091: Independent Study in Public Policy",
+			"department": "PBPL",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2247",
+			"layup_id": 2247,
+			"title": "PBPL042: Ethics and Public Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2248",
+			"layup_id": 2248,
+			"title": "PBPL043: Social Entrepreneurship",
+			"department": "PBPL",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2262",
+			"layup_id": 2262,
+			"title": "PBPL082.01: Military Statecraft in International Relations",
+			"department": "PBPL",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2266",
+			"layup_id": 2266,
+			"title": "PBPL082.07: Consumer Debt, Bankruptcy, and Economic Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2267",
+			"layup_id": 2267,
+			"title": "PBPL084.02: Health Economics and Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2249",
+			"layup_id": 2249,
+			"title": "PBPL044: Polling, Public Opinion, and Public Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2241",
+			"layup_id": 2241,
+			"title": "PBPL010: Statistical Analysis for Public Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2258",
+			"layup_id": 2258,
+			"title": "PBPL081.05: Poverty and Public Policy in the United States",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2259",
+			"layup_id": 2259,
+			"title": "PBPL081.07: Secrecy and Lying in Politics, Law and Society",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2263",
+			"layup_id": 2263,
+			"title": "PBPL082.02: Power, Politics and State",
+			"department": "PBPL",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2242",
+			"layup_id": 2242,
+			"title": "PBPL020: Contemporary Issues in American Politics and Public Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2250",
+			"layup_id": 2250,
+			"title": "PBPL045: Introduction to Public Policy Research",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 13,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2260",
+			"layup_id": 2260,
+			"title": "PBPL081.08: Economics of Education Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2264",
+			"layup_id": 2264,
+			"title": "PBPL082.05: International Law and Transnational Policymaking",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2255",
+			"layup_id": 2255,
+			"title": "PBPL052: Leadership and Political Institutions",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3515",
+			"layup_id": 3515,
+			"title": "PBPL046: Policy Implementation",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2243",
+			"layup_id": 2243,
+			"title": "PBPL026: Health Policy and Clinical Practice",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 7,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2268",
+			"layup_id": 2268,
+			"title": "PBPL084.04: Inequality and American Democracy",
+			"department": "PBPL",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2265",
+			"layup_id": 2265,
+			"title": "PBPL082.06: Law, Rights, and Public Policy in Education",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2256",
+			"layup_id": 2256,
+			"title": "PBPL081.02: Lawyers and Public Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2261",
+			"layup_id": 2261,
+			"title": "PBPL081.09: Politics and Markets",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2251",
+			"layup_id": 2251,
+			"title": "PBPL047: Foundations of Leadership",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2257",
+			"layup_id": 2257,
+			"title": "PBPL081.03: Urban Politics and Public Policymaking",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2252",
+			"layup_id": 2252,
+			"title": "PBPL048: Policy Analysis and Local Governance",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2269",
+			"layup_id": 2269,
+			"title": "PBPL085: Topics in Global Policy Leadership",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2253",
+			"layup_id": 2253,
+			"title": "PBPL049: Environmental Policy Research Workshop",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2244",
+			"layup_id": 2244,
+			"title": "PBPL028: Law, Courts, and Judges",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W",
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2245",
+			"layup_id": 2245,
+			"title": "PBPL040: Economics of Public Policymaking",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W"
+			],
+			"total_reviews": 15,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2246",
+			"layup_id": 2246,
+			"title": "PBPL041: Writing and Speaking Public Policy",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 3,
+			"quality_score": 7,
+			"layup_score": 8
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4858",
+			"layup_id": 4858,
+			"title": "PBPL027: Affirmative Action in Higher Education",
+			"department": "PBPL",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 3,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:30:34",
+	"total": 34
+}

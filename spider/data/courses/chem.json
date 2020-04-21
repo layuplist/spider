@@ -1,0 +1,853 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/461",
+			"layup_id": 461,
+			"title": "CHEM040: Physical Chemistry of Biochemical Processes",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4975",
+			"layup_id": 4975,
+			"title": "CHEM700: Responsible and Ethical Conduct of Research",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/477",
+			"layup_id": 477,
+			"title": "CHEM093: Physical Organic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3520",
+			"layup_id": 3520,
+			"title": "CHEM007.01: Science and Society",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 1,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/460",
+			"layup_id": 460,
+			"title": "CHEM010: Honors First-Year General Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 96,
+			"quality_score": 29,
+			"layup_score": -20
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/500",
+			"layup_id": 500,
+			"title": "CHEM151: Physical Organic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/457",
+			"layup_id": 457,
+			"title": "CHEM005: General Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 347,
+			"quality_score": 20,
+			"layup_score": -44
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/499",
+			"layup_id": 499,
+			"title": "CHEM140: Chemistry Research Colloquia",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/459",
+			"layup_id": 459,
+			"title": "CHEM007: First-Year Seminars in Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/469",
+			"layup_id": 469,
+			"title": "CHEM064: Basic Inorganic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 42,
+			"quality_score": 10,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/470",
+			"layup_id": 470,
+			"title": "CHEM067: Physical Biochemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 15,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/489",
+			"layup_id": 489,
+			"title": "CHEM101.04: Chemistry of Macromolecules",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/456",
+			"layup_id": 456,
+			"title": "CHEM002: Quantitative Reasoning in Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/488",
+			"layup_id": 488,
+			"title": "CHEM101.03: Molecular Spectroscopy",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/501",
+			"layup_id": 501,
+			"title": "CHEM152: Advanced Organic Synthesis and Mechanisms",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3070",
+			"layup_id": 3070,
+			"title": "CHEM007.03: What's to Become of Us?",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/462",
+			"layup_id": 462,
+			"title": "CHEM041: Biological Chemistry I",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 36,
+			"quality_score": 7,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/471",
+			"layup_id": 471,
+			"title": "CHEM075: Physical Chemistry I",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/490",
+			"layup_id": 490,
+			"title": "CHEM101.07: Introduction to Materials Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/505",
+			"layup_id": 505,
+			"title": "CHEM161: Topics in Advanced Biophysical Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/511",
+			"layup_id": 511,
+			"title": "CHEM256: Graduate Instruction in Teaching",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/494",
+			"layup_id": 494,
+			"title": "CHEM124: Analytical Chemistry and Inorganic Instrumental Analysis",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/463",
+			"layup_id": 463,
+			"title": "CHEM042: Biological Chemistry II",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5188",
+			"layup_id": 5188,
+			"title": "CHEM095.02: Biomolecular Simulations",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/472",
+			"layup_id": 472,
+			"title": "CHEM076: Physical Chemistry II",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/512",
+			"layup_id": 512,
+			"title": "CHEM257: Supervised Undergraduate Teaching in Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/495",
+			"layup_id": 495,
+			"title": "CHEM130: Advanced Inorganic Chemistry: Organometallic Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/464",
+			"layup_id": 464,
+			"title": "CHEM051: Organic Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 175,
+			"quality_score": 22,
+			"layup_score": -22
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5189",
+			"layup_id": 5189,
+			"title": "CHEM095.03: Biomolecular NMR",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/502",
+			"layup_id": 502,
+			"title": "CHEM153: Chemistry of Natural Products",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/473",
+			"layup_id": 473,
+			"title": "CHEM087: Undergraduate Investigation in Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/458",
+			"layup_id": 458,
+			"title": "CHEM006: General Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 223,
+			"quality_score": 15,
+			"layup_score": -19
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/513",
+			"layup_id": 513,
+			"title": "CHEM260: Graduate Research Colloquium in Organometallic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/465",
+			"layup_id": 465,
+			"title": "CHEM052: Organic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 155,
+			"quality_score": 10,
+			"layup_score": -13
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/479",
+			"layup_id": 479,
+			"title": "CHEM096.01: Quantum Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": -1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/491",
+			"layup_id": 491,
+			"title": "CHEM101.08: Chemical Kinetics",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/503",
+			"layup_id": 503,
+			"title": "CHEM157: Topics in Advanced Organic Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/474",
+			"layup_id": 474,
+			"title": "CHEM090: Advanced Inorganic Chemistry: Organometallic Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/507",
+			"layup_id": 507,
+			"title": "CHEM161.02: Biomolecular Simulations",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/514",
+			"layup_id": 514,
+			"title": "CHEM261: Graduate Research Colloquium in Materials Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/466",
+			"layup_id": 466,
+			"title": "CHEM057: Honors Organic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 49,
+			"quality_score": 9,
+			"layup_score": -5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/480",
+			"layup_id": 480,
+			"title": "CHEM096.02: Statistical Thermodynamics",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/508",
+			"layup_id": 508,
+			"title": "CHEM161.03: Biomolecular NMR",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/485",
+			"layup_id": 485,
+			"title": "CHEM101: Special Topics in Physical Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3721",
+			"layup_id": 3721,
+			"title": "CHEM091.01: Advanced Inorganic Chemistry:Catalysis",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4129",
+			"layup_id": 4129,
+			"title": "CHEM158: Spect Analysis in Org Chem",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/515",
+			"layup_id": 515,
+			"title": "CHEM262: Graduate Research Colloquium in Synthetic Organic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/509",
+			"layup_id": 509,
+			"title": "CHEM161.04: Structure and Dynamics of Biomolecules",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/481",
+			"layup_id": 481,
+			"title": "CHEM096.03: Molecular Spectroscopy",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/492",
+			"layup_id": 492,
+			"title": "CHEM103: Special Topics in Biophysical Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/467",
+			"layup_id": 467,
+			"title": "CHEM058: Honors Organic Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SLA"
+			],
+			"total_reviews": 28,
+			"quality_score": 11,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/475",
+			"layup_id": 475,
+			"title": "CHEM091: Advanced Inorganic Chemistry: Catalysis",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/504",
+			"layup_id": 504,
+			"title": "CHEM159: Chemistry of Heterocyclic Compounds",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/468",
+			"layup_id": 468,
+			"title": "CHEM063: Environmental Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 15,
+			"quality_score": 3,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/510",
+			"layup_id": 510,
+			"title": "CHEM161.05: Protein Crystallography",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/493",
+			"layup_id": 493,
+			"title": "CHEM123: Graduate Toxicology",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/476",
+			"layup_id": 476,
+			"title": "CHEM092: Inorganic Biochemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/482",
+			"layup_id": 482,
+			"title": "CHEM096.04: Chemistry of Macromolecules",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/506",
+			"layup_id": 506,
+			"title": "CHEM161.01: Membrane Biophysics",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/497",
+			"layup_id": 497,
+			"title": "CHEM132: Inorganic Biochemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/498",
+			"layup_id": 498,
+			"title": "CHEM137: Methods of Materials Characterization",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3722",
+			"layup_id": 3722,
+			"title": "CHEM161.06: Enzymology",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/518",
+			"layup_id": 518,
+			"title": "CHEM297: Graduate Investigation in Chemistry A",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/516",
+			"layup_id": 516,
+			"title": "CHEM263: Graduate Research Colloquium in Bioinorganic Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/519",
+			"layup_id": 519,
+			"title": "CHEM298: Graduate Investigation in Chemistry B",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/483",
+			"layup_id": 483,
+			"title": "CHEM096.07: Introduction to Materials Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/478",
+			"layup_id": 478,
+			"title": "CHEM096: Special Topics in Physical Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/517",
+			"layup_id": 517,
+			"title": "CHEM264: Graduate Research Colloquium in Biophysical Chemistry",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/486",
+			"layup_id": 486,
+			"title": "CHEM101.01: Quantum Chemistry",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/520",
+			"layup_id": 520,
+			"title": "CHEM299: Graduate Investigation in Chemistry C",
+			"department": "CHEM",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/496",
+			"layup_id": 496,
+			"title": "CHEM131: Advanced Inorganic Chemistry: Catalysis",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/487",
+			"layup_id": 487,
+			"title": "CHEM101.02: Statistical Thermodynamics",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/484",
+			"layup_id": 484,
+			"title": "CHEM096.08: Chemical Kinetics",
+			"department": "CHEM",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:22:48",
+	"total": 73
+}

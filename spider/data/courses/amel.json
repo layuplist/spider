@@ -1,0 +1,97 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/3024",
+			"layup_id": 3024,
+			"title": "AMEL087: Honors Thesis",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3516",
+			"layup_id": 3516,
+			"title": "AMEL007.01: Jerusalem: Vision \u0026 Reality",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4121",
+			"layup_id": 4121,
+			"title": "AMEL007.05: Arab Revolutions",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3379",
+			"layup_id": 3379,
+			"title": "AMEL007: First-Year Seminars in Asian and Middle Eastern Languages and Literatures",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3248",
+			"layup_id": 3248,
+			"title": "AMEL017: Discourse, Culture, and Identity in Asia and the Middle East",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3380",
+			"layup_id": 3380,
+			"title": "AMEL018: Language, Conflict and Nation-Building in Asia and the Middle East",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3026",
+			"layup_id": 3026,
+			"title": "AMEL085: Independent Research",
+			"department": "AMEL",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:10:43",
+	"total": 7
+}

@@ -1,0 +1,1736 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/4894",
+			"layup_id": 4894,
+			"title": "COSC025.02: Intro to UI/UX Design II",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4350",
+			"layup_id": 4350,
+			"title": "COSC029.04: Impact Design",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4618",
+			"layup_id": 4618,
+			"title": "COSC021: Foundations of Digital Design",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/680",
+			"layup_id": 680,
+			"title": "COSC001: Introduction to Programming and Computation",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 183,
+			"quality_score": 373,
+			"layup_score": -72
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/687",
+			"layup_id": 687,
+			"title": "COSC027: Projects in Digital Arts",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 13,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/681",
+			"layup_id": 681,
+			"title": "COSC002: Programming for Interactive Audio-Visual Arts",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3280",
+			"layup_id": 3280,
+			"title": "COSC029.01: Foundations: Digital Design",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4977",
+			"layup_id": 4977,
+			"title": "COSC700: Responsible and Ethical Conduct of Research",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3180",
+			"layup_id": 3180,
+			"title": "COSC029.03: Adv 3d Animation",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/688",
+			"layup_id": 688,
+			"title": "COSC028: Advanced Projects in Digital Arts",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/682",
+			"layup_id": 682,
+			"title": "COSC010: Problem Solving via Object-Oriented Programming",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 25,
+			"quality_score": 57,
+			"layup_score": -43
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4815",
+			"layup_id": 4815,
+			"title": "COSC029.22: Augmented and Virtual Reality Design",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/683",
+			"layup_id": 683,
+			"title": "COSC016: Introduction to Computational Neuroscience",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"SCI"
+			],
+			"total_reviews": 6,
+			"quality_score": 5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/686",
+			"layup_id": 686,
+			"title": "COSC024: Computer Animation: The State of the Art",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 10,
+			"quality_score": 4,
+			"layup_score": -4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3309",
+			"layup_id": 3309,
+			"title": "COSC011: Foundations of Applied Computer Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 5,
+			"quality_score": -6,
+			"layup_score": -8
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/689",
+			"layup_id": 689,
+			"title": "COSC029: Topics in Digital Arts",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4814",
+			"layup_id": 4814,
+			"title": "COSC025.01: Intro to UI/UX Design I",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 4,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/684",
+			"layup_id": 684,
+			"title": "COSC020: Motion Study: Using Motion Analysis for Science, Art and Medicine",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/731",
+			"layup_id": 731,
+			"title": "COSC089.15: Computational Aspects of Digital Photography",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3512",
+			"layup_id": 3512,
+			"title": "COSC200: Current Topics in Computer Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/685",
+			"layup_id": 685,
+			"title": "COSC022: 3D Digital Modeling",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 8,
+			"quality_score": 9,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3728",
+			"layup_id": 3728,
+			"title": "COSC089.16: Advanced Topics in Deep Learning",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/741",
+			"layup_id": 741,
+			"title": "COSC169: Topics in Computer Systems",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 3,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/753",
+			"layup_id": 753,
+			"title": "COSC210: Computer Science Colloquium",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/743",
+			"layup_id": 743,
+			"title": "COSC174: Machine Learning and Statistical Data Analysis",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4356",
+			"layup_id": 4356,
+			"title": "COSC169.01: Mobile Health",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/754",
+			"layup_id": 754,
+			"title": "COSC219: Special Topics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/744",
+			"layup_id": 744,
+			"title": "COSC175: Introduction to Bioinformatics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3958",
+			"layup_id": 3958,
+			"title": "COSC176: Artificial Intelligence",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/755",
+			"layup_id": 755,
+			"title": "COSC231: Advanced Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/691",
+			"layup_id": 691,
+			"title": "COSC031: Algorithms",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 27,
+			"quality_score": 11,
+			"layup_score": -17
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/745",
+			"layup_id": 745,
+			"title": "COSC177: Computer Graphics",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/756",
+			"layup_id": 756,
+			"title": "COSC251: Computer Architecture",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/746",
+			"layup_id": 746,
+			"title": "COSC178: Deep Learning",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/692",
+			"layup_id": 692,
+			"title": "COSC035: Data Stream Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/757",
+			"layup_id": 757,
+			"title": "COSC258: Advanced Operating Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4357",
+			"layup_id": 4357,
+			"title": "COSC181: Special Topics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/758",
+			"layup_id": 758,
+			"title": "COSC259: Programming Languages",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/747",
+			"layup_id": 747,
+			"title": "COSC183: Computer Vision",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4080",
+			"layup_id": 4080,
+			"title": "COSC270: Numerical and Computational Tools for Applied Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/748",
+			"layup_id": 748,
+			"title": "COSC184: Mathematical Optimization and Modeling",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/693",
+			"layup_id": 693,
+			"title": "COSC039: Theory of Computation",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 14,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/749",
+			"layup_id": 749,
+			"title": "COSC186: Computational Structural Biology",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/694",
+			"layup_id": 694,
+			"title": "COSC040: Computational Complexity",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/750",
+			"layup_id": 750,
+			"title": "COSC187: Rendering Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3913",
+			"layup_id": 3913,
+			"title": "COSC089.17: Health Informatics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3820",
+			"layup_id": 3820,
+			"title": "COSC069.10: Basics of Reverse Engineering",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3059",
+			"layup_id": 3059,
+			"title": "COSC049.01: Topics:Algorithm\u0026Complexity",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/751",
+			"layup_id": 751,
+			"title": "COSC189: Topics in Applied Computer Science",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/742",
+			"layup_id": 742,
+			"title": "COSC170: Numerical and Computational Tools for Applied Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3133",
+			"layup_id": 3133,
+			"title": "COSC049.02: Topics-Probability Theory",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/752",
+			"layup_id": 752,
+			"title": "COSC191: Writing, Presenting, and Evaluating Technical Papers in Computer Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/690",
+			"layup_id": 690,
+			"title": "COSC030: Discrete Mathematics in Computer Science",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 39,
+			"quality_score": 9,
+			"layup_score": -34
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/762",
+			"layup_id": 762,
+			"title": "COSC295: Experiential Learning in Graduate Computer Science",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4741",
+			"layup_id": 4741,
+			"title": "COSC089.18: Computational Methods for Physical Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/702",
+			"layup_id": 702,
+			"title": "COSC058: Operating Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 21,
+			"quality_score": 0,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/759",
+			"layup_id": 759,
+			"title": "COSC271: Numerical Linear Algebra (Formerly COSC 240)",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3441",
+			"layup_id": 3441,
+			"title": "COSC049.03: Lower Bounds in Computer Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/695",
+			"layup_id": 695,
+			"title": "COSC049.04: Concurrent Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4742",
+			"layup_id": 4742,
+			"title": "COSC089.19: Machine Learning for Robotics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/703",
+			"layup_id": 703,
+			"title": "COSC059: Principles of Programming Languages",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 8,
+			"quality_score": 0,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/763",
+			"layup_id": 763,
+			"title": "COSC296: Supervised Undergraduate Teaching",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3521",
+			"layup_id": 3521,
+			"title": "COSC049.05: Parallel Computing",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4817",
+			"layup_id": 4817,
+			"title": "COSC089.20: Data Science for Health",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3727",
+			"layup_id": 3727,
+			"title": "COSC049.06: Approximation Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/760",
+			"layup_id": 760,
+			"title": "COSC276: Advanced Artificial Intelligence",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4351",
+			"layup_id": 4351,
+			"title": "COSC049.07: 21st Century Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/704",
+			"layup_id": 704,
+			"title": "COSC060: Computer Networks",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 11,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/696",
+			"layup_id": 696,
+			"title": "COSC049: Topics in Algorithms and Complexity",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 14,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4352",
+			"layup_id": 4352,
+			"title": "COSC062: Applied Cryptography",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4876",
+			"layup_id": 4876,
+			"title": "COSC089.21: Data Mining and Knowledge Discovery",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/697",
+			"layup_id": 697,
+			"title": "COSC050: Software Design and Implementation",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 33,
+			"quality_score": 19,
+			"layup_score": -15
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/706",
+			"layup_id": 706,
+			"title": "COSC063: Programming Parallel Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/761",
+			"layup_id": 761,
+			"title": "COSC294: Reading Course",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/707",
+			"layup_id": 707,
+			"title": "COSC065: Smartphone Programming",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 1,
+			"quality_score": -5,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/698",
+			"layup_id": 698,
+			"title": "COSC051: Computer Architecture",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 16,
+			"quality_score": 3,
+			"layup_score": -8
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3149",
+			"layup_id": 3149,
+			"title": "COSC052: Full-Stack Web Development",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 3,
+			"quality_score": 11,
+			"layup_score": -5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/699",
+			"layup_id": 699,
+			"title": "COSC055: Security and Privacy",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 4,
+			"quality_score": 3,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4816",
+			"layup_id": 4816,
+			"title": "COSC069.13: Multirobot Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/765",
+			"layup_id": 765,
+			"title": "COSC298: Thesis Research",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/700",
+			"layup_id": 700,
+			"title": "COSC056: Digital Electronics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 14,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/764",
+			"layup_id": 764,
+			"title": "COSC297: Graduate Research",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4818",
+			"layup_id": 4818,
+			"title": "COSC089.22: Augmented and Virtual Reality Development",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4353",
+			"layup_id": 4353,
+			"title": "COSC069.11: Mobile X",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5108",
+			"layup_id": 5108,
+			"title": "COSC069.14: Functional Prog in Haskell",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/766",
+			"layup_id": 766,
+			"title": "COSC299: Full-Time Thesis Research",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5109",
+			"layup_id": 5109,
+			"title": "COSC069.15: Robotics Perception Systems",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/711",
+			"layup_id": 711,
+			"title": "COSC069: Topics in Computer Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/701",
+			"layup_id": 701,
+			"title": "COSC057: Compilers",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/709",
+			"layup_id": 709,
+			"title": "COSC069.08: All Things Wireless",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3150",
+			"layup_id": 3150,
+			"title": "COSC067: Introduction to Human-Computer Interaction",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/734",
+			"layup_id": 734,
+			"title": "COSC098: Senior Design and Implementation Project",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/710",
+			"layup_id": 710,
+			"title": "COSC069.09: Mobile Sensing",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4750",
+			"layup_id": 4750,
+			"title": "COSC098.01: Senior Design and Implementation Project I",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/708",
+			"layup_id": 708,
+			"title": "COSC069.07: Risks of the Internet of Things to Society (RIOTS)",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4751",
+			"layup_id": 4751,
+			"title": "COSC098.02: Senior Design and Implementation Project II",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/735",
+			"layup_id": 735,
+			"title": "COSC099: Honors Thesis Research",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 9,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4304",
+			"layup_id": 4304,
+			"title": "COSC099.01: Thesis Research I",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/733",
+			"layup_id": 733,
+			"title": "COSC097: Thesis Reseach",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4305",
+			"layup_id": 4305,
+			"title": "COSC099.02: Thesis Research II",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5111",
+			"layup_id": 5111,
+			"title": "COSC089.24: Logic and Artificial Intell",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4533",
+			"layup_id": 4533,
+			"title": "COSC121: Foundations of Digital Design",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3729",
+			"layup_id": 3729,
+			"title": "COSC127: Projects in Digital Arts",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5110",
+			"layup_id": 5110,
+			"title": "COSC089.23: Network Science \u0026 Compl Sys",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5025",
+			"layup_id": 5025,
+			"title": "COSC070.01: Foundations of Applied Computer Science",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/730",
+			"layup_id": 730,
+			"title": "COSC089: Topics in Applied Computer Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/732",
+			"layup_id": 732,
+			"title": "COSC094: Reading Course",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5024",
+			"layup_id": 5024,
+			"title": "COSC066: Game Development Principles Applied In Educational/Serious Games",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/705",
+			"layup_id": 705,
+			"title": "COSC061: Database Systems",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 5,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4355",
+			"layup_id": 4355,
+			"title": "COSC162: Applied Cryptography",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4619",
+			"layup_id": 4619,
+			"title": "COSC091: Writing, Presenting, and Evaluating Technical Papers in Computer Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3509",
+			"layup_id": 3509,
+			"title": "COSC122: 3D Digital Modeling",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/713",
+			"layup_id": 713,
+			"title": "COSC071: Numerical Methods in Computation",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 10,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3510",
+			"layup_id": 3510,
+			"title": "COSC124: Computer Animation: The State of the Art",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4198",
+			"layup_id": 4198,
+			"title": "COSC072: Accelerated Computational Linguistics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/714",
+			"layup_id": 714,
+			"title": "COSC073: Computational Photography",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/736",
+			"layup_id": 736,
+			"title": "COSC129: Topics in Digital Arts",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/715",
+			"layup_id": 715,
+			"title": "COSC074: Machine Learning and Statistical Data Analysis",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"QDS"
+			],
+			"total_reviews": 3,
+			"quality_score": 3,
+			"layup_score": 4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/737",
+			"layup_id": 737,
+			"title": "COSC135: Data Stream Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/716",
+			"layup_id": 716,
+			"title": "COSC075: Introduction to Bioinformatics",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 5,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/738",
+			"layup_id": 738,
+			"title": "COSC140: Computational Complexity",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/717",
+			"layup_id": 717,
+			"title": "COSC076: Artificial Intelligence",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 3,
+			"quality_score": 7,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4354",
+			"layup_id": 4354,
+			"title": "COSC149.09: Topics-Probability Theory",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/718",
+			"layup_id": 718,
+			"title": "COSC077: Computer Graphics",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 3,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/739",
+			"layup_id": 739,
+			"title": "COSC149: Topics in Algorithms and Complexity",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/719",
+			"layup_id": 719,
+			"title": "COSC078: Deep Learning",
+			"department": "COSC",
+			"offered": true,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": -3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/740",
+			"layup_id": 740,
+			"title": "COSC165: Smartphone Programming",
+			"department": "COSC",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/720",
+			"layup_id": 720,
+			"title": "COSC081: Principles of Robot Design and Programming",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 4,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3511",
+			"layup_id": 3511,
+			"title": "COSC167: Human-Computer Interaction",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/721",
+			"layup_id": 721,
+			"title": "COSC083: Computer Vision",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/722",
+			"layup_id": 722,
+			"title": "COSC084: Mathematical Optimization and Modeling",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/723",
+			"layup_id": 723,
+			"title": "COSC086: Computational Structural Biology",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/724",
+			"layup_id": 724,
+			"title": "COSC087: Rendering Algorithms",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": -2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3957",
+			"layup_id": 3957,
+			"title": "COSC089.02: Computational Struct Biol",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3076",
+			"layup_id": 3076,
+			"title": "COSC089.05: Computational Immunology",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3132",
+			"layup_id": 3132,
+			"title": "COSC089.07: Computational Fabrication",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/725",
+			"layup_id": 725,
+			"title": "COSC089.08: Introduction to Human-Computer Interaction",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/726",
+			"layup_id": 726,
+			"title": "COSC089.09: Visual Recognition",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/727",
+			"layup_id": 727,
+			"title": "COSC089.10: Datascapes - Objective and Subjective Cinematic Interpretations of Data",
+			"department": "COSC",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/728",
+			"layup_id": 728,
+			"title": "COSC089.11: Cognitive Computing with Watson",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/729",
+			"layup_id": 729,
+			"title": "COSC089.12: Advanced Topics in Machine Learning",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3279",
+			"layup_id": 3279,
+			"title": "COSC089.13: Robot Motion Planning",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3310",
+			"layup_id": 3310,
+			"title": "COSC089.14: Research Topics in Human-Computer Interaction",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/712",
+			"layup_id": 712,
+			"title": "COSC070: Numerical and Computational Tools for Applied Science",
+			"department": "COSC",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:13:01",
+	"total": 144
+}

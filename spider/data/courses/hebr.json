@@ -1,0 +1,225 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/1653",
+			"layup_id": 1653,
+			"title": "HEBR052: Readings in Biblical Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1648",
+			"layup_id": 1648,
+			"title": "HEBR023: Intermediate Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1659",
+			"layup_id": 1659,
+			"title": "HEBR081: Topics in Hebrew Literature and Culture",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1644",
+			"layup_id": 1644,
+			"title": "HEBR003: First-Year Courses in Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1651",
+			"layup_id": 1651,
+			"title": "HEBR033: Advanced Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1642",
+			"layup_id": 1642,
+			"title": "HEBR001: First-Year Courses in Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1643",
+			"layup_id": 1643,
+			"title": "HEBR002: First-Year Courses in Modern Hebrew",
+			"department": "HEBR",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 6,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1652",
+			"layup_id": 1652,
+			"title": "HEBR051: The Hebrew of the Bible",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1654",
+			"layup_id": 1654,
+			"title": "HEBR059: Independent Advanced Study in Hebrew Language and Literature",
+			"department": "HEBR",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1656",
+			"layup_id": 1656,
+			"title": "HEBR062.01: Midrash: How the Rabbis Interpreted the Bible",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1647",
+			"layup_id": 1647,
+			"title": "HEBR022: Intermediate Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1645",
+			"layup_id": 1645,
+			"title": "HEBR010: Introduction to Hebraic and Israeli Culture",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1658",
+			"layup_id": 1658,
+			"title": "HEBR063.02: Songs of the Jewish People",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1655",
+			"layup_id": 1655,
+			"title": "HEBR061.01: Film, Fiction, and the Arab-Israeli Conflict",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1646",
+			"layup_id": 1646,
+			"title": "HEBR021: Intermediate Modern Hebrew",
+			"department": "HEBR",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1649",
+			"layup_id": 1649,
+			"title": "HEBR031: Advanced Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1657",
+			"layup_id": 1657,
+			"title": "HEBR063.01: From Genesis to Seinfeld: Jewish Humor and its Roots",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/1650",
+			"layup_id": 1650,
+			"title": "HEBR032: Advanced Modern Hebrew",
+			"department": "HEBR",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:40:02",
+	"total": 18
+}

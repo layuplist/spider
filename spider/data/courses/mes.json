@@ -1,0 +1,746 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/4392",
+			"layup_id": 4392,
+			"title": "MES003.02: Archaeology of the Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW",
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5139",
+			"layup_id": 5139,
+			"title": "MES088: Senior Honors Thesis part 1",
+			"department": "MES",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5135",
+			"layup_id": 5135,
+			"title": "MES007.03: Jerusalem: Vision and Reality",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5134",
+			"layup_id": 5134,
+			"title": "MES001: Intro to Mid East Studies",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4450",
+			"layup_id": 4450,
+			"title": "MES005.02: Introduction to Hebraic and Israeli Culture",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4393",
+			"layup_id": 4393,
+			"title": "MES008.01: Introduction to Middle East Politics",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 2,
+			"quality_score": 5,
+			"layup_score": -4
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4391",
+			"layup_id": 4391,
+			"title": "MES002.02: Introduction to the History of the Islamic Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4719",
+			"layup_id": 4719,
+			"title": "MES006.02: Introduction to Islam",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5162",
+			"layup_id": 5162,
+			"title": "MES004.02: History of Technology in the Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4431",
+			"layup_id": 4431,
+			"title": "MES001.01: Introduction to Middle Eastern Studies",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4448",
+			"layup_id": 4448,
+			"title": "MES002.01: The Making of the Modern Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5136",
+			"layup_id": 5136,
+			"title": "MES009.01: Islam \u0026 Medicine",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4451",
+			"layup_id": 4451,
+			"title": "MES007.01: Arab Revolutions: Dependency, Despotism and the Struggle for Democracy",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 5,
+			"layup_score": -2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4446",
+			"layup_id": 4446,
+			"title": "MES017.10: Topics in the Study of Islam",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4449",
+			"layup_id": 4449,
+			"title": "MES004.01: Energy and Society in the Middle East and North Africa",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4442",
+			"layup_id": 4442,
+			"title": "MES016.31: Palestinian Literature and Cinema",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4445",
+			"layup_id": 4445,
+			"title": "MES016.36: Rogues, Riddlers, Lovers, Liars: Love and Death in the Mediterranean",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5161",
+			"layup_id": 5161,
+			"title": "MES017.14: Jews and Arabs in Israel-Palestine: Past and Present",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4443",
+			"layup_id": 4443,
+			"title": "MES016.32: Themes in Arabic Literature and Culture",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4322",
+			"layup_id": 4322,
+			"title": "MES016.11: From Genesis to Seinfeld: Jewish Humor and its Roots",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5160",
+			"layup_id": 5160,
+			"title": "MES016.38: Arabic Prison Writing",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4323",
+			"layup_id": 4323,
+			"title": "MES016.12: Language, Politics and Power in the Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4444",
+			"layup_id": 4444,
+			"title": "MES016.35: Modern Arabic Literature in Translation: Narrating Tradition, Change and Identity",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5158",
+			"layup_id": 5158,
+			"title": "MES012.12: Cold War Arab Culture",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4452",
+			"layup_id": 4452,
+			"title": "MES081.01: Arab Theatre",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4944",
+			"layup_id": 4944,
+			"title": "MES017.15: The Middle East in the United States: Jews and Arabs in American Society",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4324",
+			"layup_id": 4324,
+			"title": "MES017.09: Modern Islam",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4721",
+			"layup_id": 4721,
+			"title": "MES015.01: The Craft of Fiction: A Masterclass with Alaa Al Aswany",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4440",
+			"layup_id": 4440,
+			"title": "MES016.22: Arabic as a Cultural System",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4434",
+			"layup_id": 4434,
+			"title": "MES012.05: Arab Political Thought",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4720",
+			"layup_id": 4720,
+			"title": "MES012.06: Dictatorship and Dissent: the Middle East in a Global Context",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5138",
+			"layup_id": 5138,
+			"title": "MES017.17: Arab Jewish Culture",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4453",
+			"layup_id": 4453,
+			"title": "MES081.02: The New Arabic Novel",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5157",
+			"layup_id": 5157,
+			"title": "MES012.02: Modern Iraq: Society, Politics, and Literature",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4394",
+			"layup_id": 4394,
+			"title": "MES012.03: Egyptian Culture, Society, and Politics",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"W",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4441",
+			"layup_id": 4441,
+			"title": "MES016.23: Discovering an Islamic City",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4904",
+			"layup_id": 4904,
+			"title": "MES012.07: The Sociology of International Development",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4454",
+			"layup_id": 4454,
+			"title": "MES081.03: Images of the West in the Arabic Novel",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4447",
+			"layup_id": 4447,
+			"title": "MES019.03: Arab Feminisms",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"LIT"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4432",
+			"layup_id": 4432,
+			"title": "MES010.10: Soundscapes of the Middle East",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"NW",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4433",
+			"layup_id": 4433,
+			"title": "MES012.04: America and the Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4905",
+			"layup_id": 4905,
+			"title": "MES012.08: Theories of Democratization and the Case of Iran",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4907",
+			"layup_id": 4907,
+			"title": "MES019.04: Gender and The Modern Middle East and North Africa",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5137",
+			"layup_id": 5137,
+			"title": "MES016.30: Modern Arabic Fiction",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4395",
+			"layup_id": 4395,
+			"title": "MES085: Independent Research",
+			"department": "MES",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4853",
+			"layup_id": 4853,
+			"title": "MES015.08: The Art of the Novel: A Masterclass with Hoda Barakat",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4396",
+			"layup_id": 4396,
+			"title": "MES087: Honors Thesis",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4436",
+			"layup_id": 4436,
+			"title": "MES016.05: Introduction to Arabic Culture",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4906",
+			"layup_id": 4906,
+			"title": "MES012.09: Politics of Israel and Palestine",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"SOC",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4438",
+			"layup_id": 4438,
+			"title": "MES016.07: The Arabian Nights East and West",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 4,
+			"quality_score": 5,
+			"layup_score": 29
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4321",
+			"layup_id": 4321,
+			"title": "MES016.10: Special Topics in Arabic Studies",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4439",
+			"layup_id": 4439,
+			"title": "MES016.08: Women and War in Modern Arabic Literature and Film",
+			"department": "MES",
+			"offered": true,
+			"distribs": [
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4437",
+			"layup_id": 4437,
+			"title": "MES016.06: Arab Cultures in the Americas",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5159",
+			"layup_id": 5159,
+			"title": "MES015.10: Film, Fiction and the Arab-Israeli Conflict",
+			"department": "MES",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4854",
+			"layup_id": 4854,
+			"title": "MES015.09: Language and Rebellion: Arabic Literature in a Comparative Context",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4435",
+			"layup_id": 4435,
+			"title": "MES016.03: Language Behavior and Verbal Cultures in the Middle East",
+			"department": "MES",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		}
+	],
+	"updated": "2020-02-11 18:26:30",
+	"total": 56
+}

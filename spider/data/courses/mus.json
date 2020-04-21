@@ -1,0 +1,1916 @@
+{
+	"courses": [
+		{
+			"layup_url": "https://www.layuplist.com/course/2117",
+			"layup_id": 2117,
+			"title": "MUS002: The Music of Today",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 48,
+			"quality_score": 3,
+			"layup_score": 22
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2116",
+			"layup_id": 2116,
+			"title": "MUS001: Beginning Music Theory",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 23,
+			"quality_score": 15,
+			"layup_score": 17
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2121",
+			"layup_id": 2121,
+			"title": "MUS005.02: History of Jazz since 1959",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4945",
+			"layup_id": 4945,
+			"title": "MUS003.04: American Music: Music and Metaphor",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3340",
+			"layup_id": 3340,
+			"title": "MUS003.01: African-American Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2120",
+			"layup_id": 2120,
+			"title": "MUS005.01: History of Jazz to 1965",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2119",
+			"layup_id": 2119,
+			"title": "MUS004: Global Sounds",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 26,
+			"quality_score": 15,
+			"layup_score": 18
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3225",
+			"layup_id": 3225,
+			"title": "MUS050.23: Contemporary Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4230",
+			"layup_id": 4230,
+			"title": "MUS003.02: American Music: Covers, Theft, and Musical Borrowing",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 3,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4908",
+			"layup_id": 4908,
+			"title": "MUS003.03: American Music: Roots and Revolutionaries",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4665",
+			"layup_id": 4665,
+			"title": "MUS059.32: Dartmouth College Gospel Choir",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2142",
+			"layup_id": 2142,
+			"title": "MUS026: Electronic Music Synthesis",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3270",
+			"layup_id": 3270,
+			"title": "MUS016.02: Music and Media in Everyday Life",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 5,
+			"layup_score": 6
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4983",
+			"layup_id": 4983,
+			"title": "MUS700: Responsible and Ethical Conduct of Research",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2118",
+			"layup_id": 2118,
+			"title": "MUS003: American Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 68,
+			"quality_score": 7,
+			"layup_score": 7
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2143",
+			"layup_id": 2143,
+			"title": "MUS027: Sonic Spectrum",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4397",
+			"layup_id": 4397,
+			"title": "MUS017.06: The Language-Music Connection",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"NW",
+				"INT",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3226",
+			"layup_id": 3226,
+			"title": "MUS050.31: Jazz Improvisation",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2137",
+			"layup_id": 2137,
+			"title": "MUS020: Introduction to Music Theory",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 26,
+			"quality_score": 12,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2122",
+			"layup_id": 2122,
+			"title": "MUS006: Masterpieces of Western Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 19,
+			"quality_score": 4,
+			"layup_score": 5
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2138",
+			"layup_id": 2138,
+			"title": "MUS021: Melody and Rhythm",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 7,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4666",
+			"layup_id": 4666,
+			"title": "MUS059.33: Dartmouth College Gospel Choir",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2144",
+			"layup_id": 2144,
+			"title": "MUS028: Sonic Space and Form",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2168",
+			"layup_id": 2168,
+			"title": "MUS055.03: Brass Individual Instruction: Trumpet, French Horn, Trombone, Tuba",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5096",
+			"layup_id": 5096,
+			"title": "MUS016.03: Water In the Lake: Real Events for the Imagination",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2169",
+			"layup_id": 2169,
+			"title": "MUS056.01: String Individual Instruction: Violin, Viola, Cello, Bass Viol, Electric Bass, Classical and Electrical Guitar",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3041",
+			"layup_id": 3041,
+			"title": "MUS007.02: Music-Neuroscience-Ethics",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TMV"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2134",
+			"layup_id": 2134,
+			"title": "MUS017: Interdisciplinary Studies",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2139",
+			"layup_id": 2139,
+			"title": "MUS022: Harmony and Rhythm",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 6,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3227",
+			"layup_id": 3227,
+			"title": "MUS050.32: Jazz Improvisation",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2145",
+			"layup_id": 2145,
+			"title": "MUS030: Composition Seminar",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2170",
+			"layup_id": 2170,
+			"title": "MUS056.02: String Individual Instruction: Violin, Viola, Cello, Bass Viol, Electric Bass, Classical and Electrical Guitar",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2132",
+			"layup_id": 2132,
+			"title": "MUS016: Music and Image",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3469",
+			"layup_id": 3469,
+			"title": "MUS007.05: Video Game Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3218",
+			"layup_id": 3218,
+			"title": "MUS018.01: Pop Music: Past, Present, Future",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2140",
+			"layup_id": 2140,
+			"title": "MUS023: Timbre and Form",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3228",
+			"layup_id": 3228,
+			"title": "MUS050.33: Jazz Improvisation",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2146",
+			"layup_id": 2146,
+			"title": "MUS032: Improvisation",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 5,
+			"quality_score": 7,
+			"layup_score": 3
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4402",
+			"layup_id": 4402,
+			"title": "MUS059.41: Handel Society of Dartmouth College",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2135",
+			"layup_id": 2135,
+			"title": "MUS017.01: Sonic Landscapes",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5002",
+			"layup_id": 5002,
+			"title": "MUS050.41: Opera Lab I",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2141",
+			"layup_id": 2141,
+			"title": "MUS025: Introduction to Sonic Arts",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3217",
+			"layup_id": 3217,
+			"title": "MUS018: Topics in Popular Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2147",
+			"layup_id": 2147,
+			"title": "MUS033: Theories of Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 7,
+			"quality_score": 3,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2171",
+			"layup_id": 2171,
+			"title": "MUS056.03: String Individual Instruction: Violin, Viola, Cello, Bass Viol, Electric Bass, Classical and Electrical Guitar",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4722",
+			"layup_id": 4722,
+			"title": "MUS007.06: The Power of Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/5140",
+			"layup_id": 5140,
+			"title": "MUS050.42: Opera Lab II",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"W",
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2161",
+			"layup_id": 2161,
+			"title": "MUS053.02: Keyboard Individual Instruction: Classical and Jazz Piano and Organ",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4667",
+			"layup_id": 4667,
+			"title": "MUS059.42: Handel Society of Dartmouth College",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3341",
+			"layup_id": 3341,
+			"title": "MUS045.06: Music from the Lands of the Silk Road",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3271",
+			"layup_id": 3271,
+			"title": "MUS045.05: Polyphony",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2123",
+			"layup_id": 2123,
+			"title": "MUS007: First-Year Seminar",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 15,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2162",
+			"layup_id": 2162,
+			"title": "MUS053.03: Keyboard Individual Instruction: Classical and Jazz Piano and Organ",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2172",
+			"layup_id": 2172,
+			"title": "MUS057.01: Voice Individual Instruction",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4668",
+			"layup_id": 4668,
+			"title": "MUS059.43: Handel Society of Dartmouth College",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3342",
+			"layup_id": 3342,
+			"title": "MUS045.07: Afropop!",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2148",
+			"layup_id": 2148,
+			"title": "MUS034: Sound Art Practice",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TAS",
+				"W"
+			],
+			"total_reviews": 12,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2163",
+			"layup_id": 2163,
+			"title": "MUS054.01: Woodwind Individual Instruction: Flute, Oboe, Clarinet, Bassoon, Saxophone",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2173",
+			"layup_id": 2173,
+			"title": "MUS057.02: Voice Individual Instruction",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2124",
+			"layup_id": 2124,
+			"title": "MUS008: Programming for Interactive Audio-Visual Art",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TLA"
+			],
+			"total_reviews": 11,
+			"quality_score": 6,
+			"layup_score": 20
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4879",
+			"layup_id": 4879,
+			"title": "MUS035: The Jazz Language",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3888",
+			"layup_id": 3888,
+			"title": "MUS045.08: Cities, Subjects \u0026 Sonic Africa",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2164",
+			"layup_id": 2164,
+			"title": "MUS054.02: Woodwind Individual Instruction: Flute, Oboe, Clarinet, Bassoon, Saxophone",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2136",
+			"layup_id": 2136,
+			"title": "MUS017.02: Music and Dance of North India",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2125",
+			"layup_id": 2125,
+			"title": "MUS010: Lives and Works of the Great Composers",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 18,
+			"quality_score": 7,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2174",
+			"layup_id": 2174,
+			"title": "MUS057.03: Voice Individual Instruction",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3269",
+			"layup_id": 3269,
+			"title": "MUS040.02: Nineteenth-century Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4231",
+			"layup_id": 4231,
+			"title": "MUS045.09: Music and the Racial Imagination",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4403",
+			"layup_id": 4403,
+			"title": "MUS059.51: Dartmouth Symphony Orchestra",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2165",
+			"layup_id": 2165,
+			"title": "MUS054.03: Woodwind Individual Instruction: Flute, Oboe, Clarinet, Bassoon, Saxophone",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2126",
+			"layup_id": 2126,
+			"title": "MUS011: Introduction to Opera",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 2,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3216",
+			"layup_id": 3216,
+			"title": "MUS017.03: Audio-Vision: Film, Music, and Sound",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2175",
+			"layup_id": 2175,
+			"title": "MUS058.01: Percussion Individual Instruction",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2149",
+			"layup_id": 2149,
+			"title": "MUS040.04: Music and Social Identity",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2154",
+			"layup_id": 2154,
+			"title": "MUS050: Performance Laboratories",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 2,
+			"quality_score": 1,
+			"layup_score": 6
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2152",
+			"layup_id": 2152,
+			"title": "MUS045: Topics in World Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 6
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2166",
+			"layup_id": 2166,
+			"title": "MUS055.01: Brass Individual Instruction: Trumpet, French Horn, Trombone, Tuba",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4669",
+			"layup_id": 4669,
+			"title": "MUS059.52: Dartmouth Symphony Orchestra",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3903",
+			"layup_id": 3903,
+			"title": "MUS017.04: The Art, Science, and Symbolism of Musical Instruments",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2127",
+			"layup_id": 2127,
+			"title": "MUS012: Music, Ceremony, Ritual, and Sacred Chant",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4723",
+			"layup_id": 4723,
+			"title": "MUS040.05: Topics in Music History: Russian Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2176",
+			"layup_id": 2176,
+			"title": "MUS058.02: Percussion Individual Instruction",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2158",
+			"layup_id": 2158,
+			"title": "MUS051: Oral Tradition Musicianship",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 14,
+			"quality_score": 36,
+			"layup_score": 145
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4946",
+			"layup_id": 4946,
+			"title": "MUS046: Video Games and the Meaning of Life",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TMV",
+				"CI"
+			],
+			"total_reviews": 5,
+			"quality_score": 13,
+			"layup_score": 11
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4670",
+			"layup_id": 4670,
+			"title": "MUS059.53: Dartmouth Symphony Orchestra",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2167",
+			"layup_id": 2167,
+			"title": "MUS055.02: Brass Individual Instruction: Trumpet, French Horn, Trombone, Tuba",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3979",
+			"layup_id": 3979,
+			"title": "MUS040: Topics in Music History",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2128",
+			"layup_id": 2128,
+			"title": "MUS013: Literature and Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"LIT",
+				"W"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2177",
+			"layup_id": 2177,
+			"title": "MUS058.03: Percussion Individual Instruction",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3877",
+			"layup_id": 3877,
+			"title": "MUS017.05: The Poetics and Politics of Sounds and Words",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"INT",
+				"SOC"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4404",
+			"layup_id": 4404,
+			"title": "MUS059.61: Dartmouth College Wind Ensemble",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3923",
+			"layup_id": 3923,
+			"title": "MUS052.01: Conducting and Artistic Direction",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2151",
+			"layup_id": 2151,
+			"title": "MUS044: Music in the Twentieth Century",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4399",
+			"layup_id": 4399,
+			"title": "MUS059.11: Barbary Coast Jazz Ensemble",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4673",
+			"layup_id": 4673,
+			"title": "MUS043: From Beethoven to Now (Modern Classical Music)",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 2,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3215",
+			"layup_id": 3215,
+			"title": "MUS014.01: Music, Mind, Invention",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TAS"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2155",
+			"layup_id": 2155,
+			"title": "MUS050.01: Chamber Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4671",
+			"layup_id": 4671,
+			"title": "MUS059.62: Dartmouth College Wind Ensemble",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2160",
+			"layup_id": 2160,
+			"title": "MUS053.01: Keyboard Individual Instruction: Classical and Jazz Piano and Organ",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 1,
+			"layup_score": -1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4661",
+			"layup_id": 4661,
+			"title": "MUS059.12: Barbary Coast Jazz Ensemble",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4157",
+			"layup_id": 4157,
+			"title": "MUS041.01: Debussy the Innovator",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2153",
+			"layup_id": 2153,
+			"title": "MUS045.03: The Music of Central Asia",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"NW"
+			],
+			"total_reviews": 1,
+			"quality_score": 1,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2129",
+			"layup_id": 2129,
+			"title": "MUS014.02: Datascapes: Objective and Subjective Cinematic Interpretations of Data",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2159",
+			"layup_id": 2159,
+			"title": "MUS052: Conducting",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2156",
+			"layup_id": 2156,
+			"title": "MUS050.02: Contemporary Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4663",
+			"layup_id": 4663,
+			"title": "MUS059.22: Dartmouth College Glee Club",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4672",
+			"layup_id": 4672,
+			"title": "MUS059.63: Dartmouth College Wind Ensemble",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4664",
+			"layup_id": 4664,
+			"title": "MUS059.23: Dartmouth College Glee Club",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2150",
+			"layup_id": 2150,
+			"title": "MUS041: Musical Innovators",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3252",
+			"layup_id": 3252,
+			"title": "MUS014.03: Electronics for Musicians",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"TAS",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3219",
+			"layup_id": 3219,
+			"title": "MUS045.04: Music and Social Justice",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"CI"
+			],
+			"total_reviews": 1,
+			"quality_score": 2,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3222",
+			"layup_id": 3222,
+			"title": "MUS050.13: Chamber Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2157",
+			"layup_id": 2157,
+			"title": "MUS050.03: Jazz Improvisation",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4662",
+			"layup_id": 4662,
+			"title": "MUS059.13: Barbary Coast Jazz Ensemble",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4401",
+			"layup_id": 4401,
+			"title": "MUS059.31: Dartmouth College Gospel Choir",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4660",
+			"layup_id": 4660,
+			"title": "MUS059: Ensemble Performance and Leadership",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2130",
+			"layup_id": 2130,
+			"title": "MUS014: Music and Science",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2131",
+			"layup_id": 2131,
+			"title": "MUS015: Music and Mathematics",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3223",
+			"layup_id": 3223,
+			"title": "MUS050.21: Contemporary Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4400",
+			"layup_id": 4400,
+			"title": "MUS059.21: Dartmouth College Glee Club",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3220",
+			"layup_id": 3220,
+			"title": "MUS050.11: Chamber Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2178",
+			"layup_id": 2178,
+			"title": "MUS060: Studies in Musical Performance: Keyboard",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 2
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3221",
+			"layup_id": 3221,
+			"title": "MUS050.12: Chamber Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2133",
+			"layup_id": 2133,
+			"title": "MUS016.01: Visual Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/3224",
+			"layup_id": 3224,
+			"title": "MUS050.22: Contemporary Music",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2190",
+			"layup_id": 2190,
+			"title": "MUS086: Other Special Studies",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2184",
+			"layup_id": 2184,
+			"title": "MUS070: Perspectives in Music Performance",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 3,
+			"quality_score": 4,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2187",
+			"layup_id": 2187,
+			"title": "MUS082: Special Study in History, Musicology, Ethnomusicology",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2191",
+			"layup_id": 2191,
+			"title": "MUS087: Special Studies in Music Abroad (Individual Instruction on Music FSP)",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2195",
+			"layup_id": 2195,
+			"title": "MUS103: Sound Analysis, Synthesis, and Digital Signal Processing",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2185",
+			"layup_id": 2185,
+			"title": "MUS071: The History of Music in England",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2188",
+			"layup_id": 2188,
+			"title": "MUS083: Special Study in Composition and Theory",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2186",
+			"layup_id": 2186,
+			"title": "MUS074: The History of Music in Central Europe",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2196",
+			"layup_id": 2196,
+			"title": "MUS104: Computer Music Composition",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4659",
+			"layup_id": 4659,
+			"title": "MUS099: Proseminar",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2193",
+			"layup_id": 2193,
+			"title": "MUS101: Topics in the Repertoire of Electro-Acoustic and Computer Music",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2179",
+			"layup_id": 2179,
+			"title": "MUS061: Studies in Musical Performance: Woodwinds",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2181",
+			"layup_id": 2181,
+			"title": "MUS063: Studies in Musical Performance: Strings",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2189",
+			"layup_id": 2189,
+			"title": "MUS084: Special Study in Performance",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/4398",
+			"layup_id": 4398,
+			"title": "MUS042: From Plato to Mozart (Early Classical Music)",
+			"department": "MUS",
+			"offered": false,
+			"distribs": [
+				"ART",
+				"W"
+			],
+			"total_reviews": 0,
+			"quality_score": 3,
+			"layup_score": 0
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2199",
+			"layup_id": 2199,
+			"title": "MUS138: Directed Research II",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2198",
+			"layup_id": 2198,
+			"title": "MUS137: Directed Research I",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2180",
+			"layup_id": 2180,
+			"title": "MUS062: Studies in Musical Performance: Brass",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2182",
+			"layup_id": 2182,
+			"title": "MUS064: Studies in Musical Performance: Voice",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2194",
+			"layup_id": 2194,
+			"title": "MUS102: Music, Mind, Invention",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2197",
+			"layup_id": 2197,
+			"title": "MUS105: Musical Systems",
+			"department": "MUS",
+			"offered": false,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2183",
+			"layup_id": 2183,
+			"title": "MUS065: Studies in Musical Performance: Percussion",
+			"department": "MUS",
+			"offered": true,
+			"distribs": [
+				"ART"
+			],
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2200",
+			"layup_id": 2200,
+			"title": "MUS139: Directed Research III",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		},
+		{
+			"layup_url": "https://www.layuplist.com/course/2192",
+			"layup_id": 2192,
+			"title": "MUS088: Honors",
+			"department": "MUS",
+			"offered": true,
+			"distribs": null,
+			"total_reviews": 0,
+			"quality_score": 0,
+			"layup_score": 1
+		}
+	],
+	"updated": "2020-02-11 18:27:41",
+	"total": 149
+}
