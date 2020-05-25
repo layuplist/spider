@@ -32,7 +32,7 @@ const timetableConfig = {
         'Content-Type': 'application/x-www-form-urlencoded',
     },
 };
-
+w
 const fetch = () => {
     return axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig)
         .then((res) => {
