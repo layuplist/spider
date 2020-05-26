@@ -3,6 +3,7 @@ import http from 'isomorphic-git/http/node';
 import fs from 'fs';
 import dotenv from 'dotenv';
 import rimraf from 'rimraf';
+import { version } from 'os';
 
 dotenv.config();
 
@@ -34,17 +35,35 @@ const loadCurrent = async () => {
     }
 }
 
-const update = async (target, source, msg) => {
+const update = async (target, sourceType, hash, msg) => {
     try {
         // move update local file with new
-        fs.copyFileSync(source, `${LOCAL_DIR}/${target}`);
-        console.log('copied files')
+        fs.copyFileSync(`/tmp/${sourceType}_${hash}.json`, `${LOCAL_DIR}/${target}`);
+
+        // update versions
+        let versions = JSON.parse(fs.readFileSync(`${LOCAL_DIR}/versions.json`));
+        versions.archive.timetable.push({
+            timestamp: versions.current.timetable.timestamp,
+            hash: versions.current.timetable.hash,
+        });
+        versions.current.timetable = {
+            timestamp: new Date().toISOString(),
+            hash,
+        };
+        fs.writeFileSync(`${LOCAL_DIR}/versions.json`, JSON.stringify(versions, null, 2));
+
         await git.add({
             fs,
             dir: LOCAL_DIR,
             filepath: target,
         });
-        console.log('added to git')
+
+        await git.add({
+            fs,
+            dir: LOCAL_DIR,
+            filepath: 'versions.json',
+        });
+
         await git.commit({
             fs,
             dir: LOCAL_DIR,
@@ -54,7 +73,7 @@ const update = async (target, source, msg) => {
             },
             message: msg,
         });
-        console.log('committed')
+
         await git.push({
             fs,
             http,
@@ -65,7 +84,7 @@ const update = async (target, source, msg) => {
                 username: process.env.GH_TOKEN,
             }),
         });
-        console.log('pushed')
+
         return true;
     }
     catch (err) {

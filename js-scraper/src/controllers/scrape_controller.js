@@ -11,7 +11,7 @@ const scrape = (req, res) => {
             const courseData = Timetable.parseCourses(data);
 
             // write timetable
-            fs.writeFileSync(`/tmp/timetable_${hash}.json`, JSON.stringify(courseData));
+            fs.writeFileSync(`/tmp/timetable_${hash}.json`, JSON.stringify(courseData, null, 2));
 
             // load current data
             Data.loadCurrent().then(success => {
@@ -30,7 +30,8 @@ const scrape = (req, res) => {
                         // commit and push new timetable data
                         Data.update(
                             'current/timetable.json',
-                            `/tmp/timetable_${hash}.json`,
+                            'timetable',
+                            hash,
                             `timetable changed ${new Date().toISOString()}`
                         ).then(success => {
                             if (success) {
@@ -45,7 +46,7 @@ const scrape = (req, res) => {
                         })
                     } else {
                         return res.json({
-                            msg: 'No changed detected in Timetable.',
+                            msg: 'No changes detected in Timetable.',
                         });
                     }
                 }
