@@ -32,16 +32,16 @@ const timetableConfig = {
         'Content-Type': 'application/x-www-form-urlencoded',
     },
 };
-w
+
 const fetch = () => {
     return axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig)
         .then((res) => {
             // generate hash
-            let hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'));
+            let hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
             // return hash & data
             return {
-                hash: hash.toString(), 
+                hash: hash,
                 data: res.data,
             };
         })
