@@ -8,7 +8,7 @@ const scrapeRouter = Router();
  * @apiName Scrape Full
  * @apiGroup Scrape
  *
- * @apiSuccess {Object} test output of scrape script
+ * @apiSuccess { msg } success/failure msg
  */
 scrapeRouter.get('/', ScrapeController.scrape);
 

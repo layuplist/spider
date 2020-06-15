@@ -101,9 +101,7 @@ const update = async (target, sourceType, hash, msg) => {
   }
 };
 
-const Data = {
+export {
   loadCurrent,
   update,
 };
-
-export default Data;
