@@ -4,7 +4,7 @@ import cors from 'cors';
 import path from 'path';
 import morgan from 'morgan';
 
-import { statusRouter, scrapeRouter } from './routes';
+import scrapeRouter from './routes';
 
 // initialize
 const app = express();
@@ -31,7 +31,6 @@ app.use(bodyParser.json());
 // additional init stuff should go before hitting the routing
 
 // default index route
-app.use('/status', statusRouter);
 app.use('/scrape', scrapeRouter);
 
 // START THE SERVER
