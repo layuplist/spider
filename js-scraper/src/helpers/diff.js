@@ -53,7 +53,7 @@ const compare = (a, b) => {
 export const getItemById = (id, items) => {
   return (
     items.filter((item) => {
-      return item.Id === id;
+      return item.CRN === id;
     })[0]
   );
 };
@@ -65,8 +65,8 @@ export const getItemById = (id, items) => {
  * @param {*} next next array of objects
  */
 export const diff = (curr, next) => {
-  const currIds = new Set(curr.map((item) => { return item.Id; }));
-  const nextIds = new Set(next.map((item) => { return item.Id; }));
+  const currIds = new Set(curr.map((item) => { return item.CRN; }));
+  const nextIds = new Set(next.map((item) => { return item.CRN; }));
 
   const added = new Set([...nextIds].filter((id) => {
     return !currIds.has(id);

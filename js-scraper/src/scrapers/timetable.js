@@ -74,16 +74,28 @@ const timetableParse = (source) => {
 
   // get timetable headers
   const headers = [];
-  keys.find('th').each((_i, el) => {
-    headers.push(data(this).text());
+  keys.find('th').each((_i, headerEl) => {
+    headers.push(data(headerEl).text());
   });
 
   // get courses
   const courses = [];
-  rows.each((courseIndex) => {
+  rows.each((courseIndex, courseEl) => {
     courses[courseIndex] = {};
-    data(this).find('td').each((columnIndex) => {
-      courses[courseIndex][headers[columnIndex]] = data(this).text();
+
+    // get properties
+    data(courseEl).find('td').each((columnIndex, columnEl) => {
+      // check for course link (special field)
+      if (headers[columnIndex] === 'Title') {
+        [, courses[courseIndex].ORC] = data(columnEl).find('a').first().attr('href')
+          .split('\'');
+        courses[courseIndex].Title = data(columnEl).text().trim();
+      } else {
+        const value = data(columnEl).text().trim();
+        courses[courseIndex][headers[columnIndex]] = (
+          value.length === 0 ? null : value
+        );
+      }
     });
   });
 

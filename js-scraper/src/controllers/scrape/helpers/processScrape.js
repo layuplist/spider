@@ -8,7 +8,7 @@ import {
   loadCurrent,
   update,
 } from '../../../helpers/data';
-import diff from '../../../helpers/diff';
+import { diff } from '../../../helpers/diff';
 
 /**
  * Returns appropriate fetch and parse methods for data type
@@ -81,6 +81,7 @@ export default async function processScrape(type) {
 
   // ! temp debug
   console.log(changes);
+  console.log(changes.changed);
 
   // update repo
   if (!await update(

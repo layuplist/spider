@@ -4,7 +4,7 @@ const scrape = (req, res) => {
   processScrape('timetable')
     .then((response) => {
       res.status(
-        response.status === 1 ? 500 : 200,
+        response.status === -1 ? 500 : 200,
       ).json(
         {
           msg: response.msg,
