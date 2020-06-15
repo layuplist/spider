@@ -1,7 +1,20 @@
-# starter express app template
+# D-Planner Scraper
 
-* node with babel
-* expressjs
-* airbnb eslint rules
+Scrapes various sites for Dartmouth class data, commits to [d-planner/data](https://github.com/D-Planner/data).
 
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
+## Stack
+
+- express
+- cheerio
+- isomorphic-git
+
+## Architecture
+
+```
+src/
+├── controllers/                         # interpret requests and manage high-level processes
+├── scrapers/                            # retrieve and parse site data
+├── helpers/                             # general helpers (i.e. git integration)
+└── routes/                              # map routes to controllers
+```
+
