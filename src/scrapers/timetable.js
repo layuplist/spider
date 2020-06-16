@@ -43,7 +43,7 @@ const timetableFetch = () => {
   return axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig)
     .then((res) => {
       // generate hash
-      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('D-PLANNER'), 'hex');
 
       // return hash & data
       return {
@@ -87,7 +87,7 @@ const timetableParse = (source) => {
     data(courseEl).find('td').each((columnIndex, columnEl) => {
       // check for course link (special field)
       if (headers[columnIndex] === 'Title') {
-        [, courses[courseIndex].ORC] = data(columnEl).find('a').first().attr('href')
+        [, courses[courseIndex].Description] = data(columnEl).find('a').first().attr('href')
           .split('\'');
         courses[courseIndex].Title = data(columnEl).text().trim();
       } else {
