@@ -37,8 +37,7 @@ const courseRegex = /^[A-Z]+\s[0-9]+(.[0-9]+)?$/;
 
 // * fetch
 
-const childrenFetch = (url = orcChildrenURL(orcSchoolURL(false))) => {
-  console.log(`fetching ${url}`);
+const genericFetch = (url) => {
   return axios.get(url)
     .then((res) => {
       return res.data;
@@ -52,11 +51,11 @@ const childrenFetch = (url = orcChildrenURL(orcSchoolURL(false))) => {
     });
 };
 
-const departmentFetch = () => {
-  // TODO
+const childrenFetch = (url = orcSchoolURL(false)) => {
+  return genericFetch(orcChildrenURL(url));
 };
 
-const courseFetch = () => {
+const departmentFetch = () => {
   // TODO
 };
 
@@ -77,14 +76,12 @@ const childrenScrape = (source) => {
       hasChildren: data(childEl).hasClass('hasChildren'),
       isCourse: Boolean(courseMatch),
     };
-
-    console.log(children[childIndex]);
   });
 
   return children;
 };
 
-async function fullCourseURLScrape(source, courses = []) {
+async function fullCoursesURLScrape(source, courses = []) {
   const children = childrenScrape(source);
   const promises = [];
 
@@ -93,9 +90,9 @@ async function fullCourseURLScrape(source, courses = []) {
 
     if (child.hasChildren) {
       promises.push(new Promise((resolve, reject) => {
-        childrenFetch(orcChildrenURL(`${rootURL}${child.url}`))
+        childrenFetch(`${rootURL}${child.url}`)
           .then((newSource) => {
-            fullCourseURLScrape(newSource, courses)
+            fullCoursesURLScrape(newSource, courses)
               .then((newCourses) => {
                 courses.concat(newCourses);
 
@@ -117,24 +114,79 @@ async function fullCourseURLScrape(source, courses = []) {
       courses.push({
         subj,
         num,
-        url: child.url,
+        url: `${rootURL}${child.url}`,
       });
     }
   }
 
   await Promise.all(promises);
 
-  return courses.map((course) => {
-    return {
-      ...course,
-      url: `${rootURL}${course.url}`,
-    };
-  });
+  return courses;
 }
 
-const fullCourseScrape = (source) => {
-  // TODO
+const courseScrape = (source) => {
+  const data = cheerio.load(source);
+  const body = data('div[id=rightpanel] > div[id=main]');
+
+  const title = body.find('h1').first();
+  const description = body.find('div[class=desc]').first();
+  const instructor = body.find('div[id=instructor]').first().eq(1);
+  const offered = body.find('div[id=offered]').first().eq(1);
+  const sections = body.find('h3');
+
+  const course = {};
+
+  if (title) {
+    course.title = title.text().trim();
+  }
+
+  if (description) {
+    course.description = description.text().trim();
+  }
+
+  if (instructor) {
+    course.instructor = instructor.text().trim();
+  }
+
+  if (offered) {
+    course.offered = offered.text().trim();
+  }
+
+  console.log(sections.length);
+  sections.each((sectionIndex, sectionEl) => {
+    console.log(data(sectionEl).nextUntil('h3, div').text());
+  });
+
+  console.log(course);
+
+  return course;
 };
+
+async function fullCoursesScrape(coursesBasic, coursesFull = []) {
+  const promises = [];
+
+  for (let i = 0; i < coursesBasic.length; i += 1) {
+    const { subj, num, url } = coursesBasic[i];
+
+    promises.push(new Promise((resolve, reject) => {
+      genericFetch(url)
+        .then((courseRaw) => {
+          coursesFull[`${subj} ${num}`] = courseScrape(courseRaw);
+
+          resolve();
+        })
+        .catch((err) => {
+          console.log(url);
+          console.log(err);
+          reject(err);
+        });
+    }));
+  }
+
+  await Promise.all(promises);
+
+  return coursesFull;
+}
 
 // * supplement scrape (new courses only)
 
@@ -196,7 +248,8 @@ const supplementURLScrape = (source) => {
 
 export {
   childrenFetch,
-  fullCourseURLScrape,
+  fullCoursesURLScrape,
+  fullCoursesScrape,
   supplementURLFetch,
   supplementURLScrape,
 };

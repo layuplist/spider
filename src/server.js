@@ -8,7 +8,8 @@ import scrapeRouter from './routes';
 
 import {
   childrenFetch,
-  fullCourseURLScrape,
+  fullCoursesURLScrape,
+  fullCoursesScrape,
 } from './scrapers/orc';
 
 // initialize
@@ -37,7 +38,16 @@ app.use(bodyParser.json());
 
 // default index route
 app.use('/scrape', scrapeRouter);
-app.use('/orc', (req, res) => { childrenFetch().then((source) => { fullCourseURLScrape(source).then((courses) => res.json(courses)); }); });
+app.use('/orc', (req, res) => {
+  childrenFetch().then((source) => {
+    fullCoursesURLScrape(source)
+      .then((courses) => {
+        console.log(`found ${courses.length} courses.`);
+
+        fullCoursesScrape(courses);
+      });
+  });
+});
 
 // START THE SERVER
 // =============================================================================
