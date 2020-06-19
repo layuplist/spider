@@ -43,11 +43,7 @@ const genericFetch = (url) => {
       return res.data;
     })
     .catch((err) => {
-      if (err.response.status === 404) {
-        return null;
-      } else {
-        return err;
-      }
+      throw err;
     });
 };
 
@@ -152,9 +148,34 @@ const courseScrape = (source) => {
     course.offered = offered.text().trim();
   }
 
-  console.log(sections.length);
-  sections.each((sectionIndex, sectionEl) => {
-    console.log(data(sectionEl).nextUntil('h3, div').text());
+  sections.each((_sectionIndex, sectionEl) => {
+    const sectionName = data(sectionEl).text().trim();
+    let sectionData = String();
+
+    // read data up till next section
+    let currEl = sectionEl;
+    while (currEl.nextSibling && !data(currEl.nextSibling).is('h3, div')) {
+      currEl = currEl.nextSibling;
+      sectionData += currEl.data;
+    }
+
+    // add prop
+    switch (sectionName) {
+      case 'Instructor':
+        course.instructor = sectionData;
+        break;
+      case 'Cross Listed Courses':
+        course.xlist = sectionData;
+        break;
+      case 'Distributive and/or World Culture':
+        course.distrib = sectionData;
+        break;
+      case 'Offered':
+        course.offered = sectionData;
+        break;
+      default:
+        break;
+    }
   });
 
   console.log(course);
@@ -176,8 +197,8 @@ async function fullCoursesScrape(coursesBasic, coursesFull = []) {
           resolve();
         })
         .catch((err) => {
-          console.log(url);
-          console.log(err);
+          console.log(`Failed to fetch ${url}`);
+          console.log(err.stack);
           reject(err);
         });
     }));
