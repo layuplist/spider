@@ -14,6 +14,7 @@ const timetableParams = {
   distribs: 'no_value',
   distribs_i: 'no_value',
   distribs_wc: 'no_value',
+  deliverymodes: 'no_value',
   pmode: 'public',
   term: '',
   levl: '',
@@ -26,11 +27,10 @@ const timetableParams = {
   searchtype: 'Subject Area(s)',
   termradio: 'allterms',
   terms: 'no_value',
+  deliveryradio: 'selectdelivery',
   subjectradio: 'allsubjects',
   hoursradio: 'allhours',
   sortorder: 'dept',
-  deliveryradio: 'selectdelivery',
-  deliverymodes: 'no_value',
 };
 
 const timetableConfig = {
@@ -39,31 +39,20 @@ const timetableConfig = {
   },
 };
 
+// eslint-disable-next-line no-useless-escape
+const titleRegex = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(\(.*\))?$/i;
+
 // * fetch raw data
 
-const timetableFetch = () => {
-  return axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig)
-    .then((res) => {
-      // generate hash
-      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+const timetableFetch = async () => {
+  const res = await axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig);
+  // generate hash
+  const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
-      // return hash & data
-      return {
-        hash,
-        data: res.data,
-      };
-    })
-    .catch((err) => {
-      const errMsg = `Error fetching timetable: ${err}`;
-
-      // log error
-      console.log(errMsg);
-
-      // return error msg
-      return {
-        msg: errMsg,
-      };
-    });
+  return {
+    hash,
+    data: res.data,
+  };
 };
 
 // * parse data
@@ -88,10 +77,17 @@ const timetableParse = (source) => {
     // get properties
     data(courseEl).find('td').each((columnIndex, columnEl) => {
       // check for course link (special field)
-      if (headers[columnIndex] === 'Title') {
+      if (headers[columnIndex] === 'Title and Delivery Mode') {
+        // get desc link
         [, courses[courseIndex].Description] = data(columnEl).find('a').first().attr('href')
           .split('\'');
-        courses[courseIndex].Title = data(columnEl).text().trim();
+
+        // parse title
+        const [, courseTitle, courseDeliveryMode, courseTitleAddendum] = titleRegex.exec(data(columnEl).text().trim());
+
+        // set props
+        courses[courseIndex].Title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
+        courses[courseIndex].DeliveryMode = courseDeliveryMode;
       } else {
         const value = data(columnEl).text().trim();
         courses[courseIndex][headers[columnIndex]] = (

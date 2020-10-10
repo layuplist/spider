@@ -178,33 +178,62 @@ const courseScrape = (source) => {
     }
   });
 
-  console.log(course);
-
   return course;
 };
 
 async function fullCoursesScrape(coursesBasic, coursesFull = []) {
-  const promises = [];
+  let promises = [];
+  const status = coursesBasic.reduce((accum, course) => {
+    accum[course.url] = {
+      course,
+      attempts: 0,
+      success: false,
+    };
 
-  for (let i = 0; i < coursesBasic.length; i += 1) {
-    const { subj, num, url } = coursesBasic[i];
+    return accum;
+  });
 
-    promises.push(new Promise((resolve, reject) => {
+  const createPromise = ({ subj, num, url }) => {
+    status[url].attempts += 1;
+
+    promises.push(new Promise((resolve) => {
       genericFetch(url)
         .then((courseRaw) => {
           coursesFull[`${subj} ${num}`] = courseScrape(courseRaw);
 
+          status[url].success = true;
+          console.log('Success!', Object.values(status).filter((s) => { return s.success; }).length);
           resolve();
         })
         .catch((err) => {
-          console.log(`Failed to fetch ${url}`);
-          console.log(err.stack);
-          reject(err);
+          console.log(`Failed to load ${url} (attempt ${status[url].attempts}): ${err}`);
+
+          resolve();
         });
     }));
+  };
+
+  coursesBasic.forEach((course) => {
+    status[course.url] = {
+      attempts: 0,
+      result: false,
+    };
+    createPromise(course);
+  });
+
+  let pending = coursesBasic;
+
+  while (pending.length > 0) {
+    pending.forEach((course) => { createPromise(course); });
+
+    // eslint-disable-next-line no-await-in-loop
+    await Promise.all(promises);
+
+    promises = [];
+    pending = Object.values(status).filter((s) => { return s.success && s.attempts < 3; }).map((s) => { return s.course; });
   }
 
-  await Promise.all(promises);
+  console.log(`${Object.values(status).filter((s) => { return s.success; }).length} completed of ${coursesBasic.length}`);
 
   return coursesFull;
 }
