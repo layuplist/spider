@@ -40,7 +40,7 @@ const scrape = async (req, res) => {
 
   // check for changes, return early if none
   if (versions.current[type].hash === hash) {
-    // return res.send({ msg: `No changes detected for ${type}` });
+    return res.send({ msg: `No changes detected for ${type}` });
   }
 
   // parse raw data and write to local
