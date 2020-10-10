@@ -29,6 +29,8 @@ const timetableParams = {
   subjectradio: 'allsubjects',
   hoursradio: 'allhours',
   sortorder: 'dept',
+  deliveryradio: 'selectdelivery',
+  deliverymodes: 'no_value',
 };
 
 const timetableConfig = {
@@ -43,7 +45,7 @@ const timetableFetch = () => {
   return axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig)
     .then((res) => {
       // generate hash
-      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('D-PLANNER'), 'hex');
+      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
       // return hash & data
       return {

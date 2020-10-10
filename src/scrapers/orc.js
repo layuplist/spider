@@ -51,9 +51,9 @@ const childrenFetch = (url = orcSchoolURL(false)) => {
   return genericFetch(orcChildrenURL(url));
 };
 
-const departmentFetch = () => {
-  // TODO
-};
+// const departmentFetch = () => {
+//   // TODO
+// };
 
 // * scrape
 
@@ -217,7 +217,7 @@ const supplementURLFetch = (year) => {
   return axios.post(orcSupplementURL(year))
     .then((res) => {
       // generate hash
-      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('D-PLANNER'), 'hex');
+      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
       // return hash * data
       return {

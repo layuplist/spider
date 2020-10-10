@@ -44,20 +44,23 @@ export default async function processScrape(type) {
   const { hash, data } = await fetch();
 
   // load most recent data from repo
-  if (!await loadCurrent()) {
-    return {
-      status: -1,
-      msg: 'Failed to load repo',
-    };
-  }
+  await loadCurrent()
+    .catch((err) => {
+      console.error(err.stack);
+
+      return {
+        status: -1,
+        msg: 'Failed to load repo',
+      };
+    });
 
   // load versions file
   const versions = JSON.parse(
     fs.readFileSync('/tmp/data/versions.json'),
   );
-
+  console.log(versions.current[type], hash);
   // check for changes, return early if none
-  if (versions.current[type].hash !== hash) {
+  if (versions.current[type].hash === hash) {
     return {
       status: 0,
       msg: `No changes detected for ${type}`,
@@ -84,17 +87,20 @@ export default async function processScrape(type) {
   console.log(changes.changed);
 
   // update repo
-  if (!await update(
+  await update(
     `current/${type}.json`,
     type,
     hash,
     `update in ${type} (${new Date().toISOString()})`,
-  )) {
-    return {
-      status: -1,
-      msg: 'Failed to update repo',
-    };
-  }
+  )
+    .catch((err) => {
+      console.error(err.stack);
+
+      return {
+        status: -1,
+        msg: 'Failed to update repo',
+      };
+    });
 
   return {
     status: 1,
