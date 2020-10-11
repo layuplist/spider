@@ -153,7 +153,7 @@ const crawlURLs = async (source, courses = []) => {
 };
 
 const fetchCourses = async (courses, write) => {
-  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 500)
+  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
     .map(async (c) => {
       c.data = parseCourse(
         (await axios.get(c.url, { timeout: 3500 })
@@ -163,6 +163,7 @@ const fetchCourses = async (courses, write) => {
         ).data,
       );
       c.success = true;
+      console.log(`Successfully fetched ${c.subj} ${c.num}`);
     }));
 
   const remaining = courses.filter((c) => { return !c.success; });
