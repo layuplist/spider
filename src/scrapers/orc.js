@@ -159,9 +159,12 @@ const fetchCourses = async (courses, res) => {
         .catch((err) => {
           console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
         });
-      c.data = parseCourse(data);
-      c.success = true;
-      console.log(`Successfully fetched ${c.subj} ${c.num}`);
+
+      if (data) {
+        c.data = parseCourse(data);
+        c.success = true;
+        console.log(`Successfully fetched ${c.subj} ${c.num}`);
+      }
     }));
 
   const remaining = courses.filter((c) => { return !c.success; });
