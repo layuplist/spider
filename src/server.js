@@ -42,7 +42,7 @@ app.use('/orc', (_req, res) => {
     res.send(parseAll(courses));
   })
     .catch((err) => {
-      console.error(err.message);
+      console.error(err);
     });
 });
 
