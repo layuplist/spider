@@ -37,11 +37,11 @@ const update = async (target, sourceType, hash, msg) => {
 
   // update versions file
   const versions = JSON.parse(fs.readFileSync(`${LOCAL_DIR}/versions.json`));
-  versions.archive.timetable.push({
-    timestamp: versions.current.timetable.timestamp,
-    hash: versions.current.timetable.hash,
+  versions.archive[sourceType].push({
+    timestamp: versions.current[sourceType]?.timestamp,
+    hash: versions.current[sourceType]?.hash,
   });
-  versions.current.timetable = {
+  versions.current[sourceType] = {
     timestamp: new Date().toISOString(),
     hash,
   };

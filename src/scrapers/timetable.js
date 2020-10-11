@@ -48,7 +48,6 @@ const titleRegex = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(
 
 const timetableFetch = async () => {
   const res = await axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig);
-  // generate hash
   const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
   return {

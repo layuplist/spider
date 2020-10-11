@@ -6,10 +6,6 @@ import morgan from 'morgan';
 
 import scrapeRouter from './routes';
 
-import {
-  fetchAll,
-  parseAll,
-} from './scrapers/orc';
 
 // initialize
 const app = express();

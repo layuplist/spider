@@ -33,8 +33,7 @@ const scrape = async (req, res) => {
       if (!res.headersSent) {
         return res.status(500).send({ err: `Error fetching ${type}` });
       } else {
-        res.write({ err: `Error fetching ${type}` });
-        return res.end();
+        return res.end(`Error fetching ${type}`);
       }
     });
 
@@ -44,14 +43,13 @@ const scrape = async (req, res) => {
   );
 
   // check for changes, return early if none
-  if (versions.current[type]?.hash === hash) {
-    if (!res.headersSent) {
-      return res.send({ msg: `No changes detected for ${type}` });
-    } else {
-      res.write({ msg: `No changes detected for ${type}` });
-      return res.end();
-    }
-  }
+  // if (versions.current[type]?.hash === hash) {
+  //   if (!res.headersSent) {
+  //     return res.send({ msg: `No changes detected for ${type}` });
+  //   } else {
+  //     return res.end(`No changes detected for ${type}`);
+  //   }
+  // }
 
   // parse raw data and write to local
   const nextData = parse(data);
@@ -83,16 +81,14 @@ const scrape = async (req, res) => {
       if (!res.headersSent) {
         return res.status(500).send({ err: 'Failed to update repo' });
       } else {
-        res.write({ err: 'Failed to update repo' });
-        return res.end();
+        return res.end('Failed to update repo');
       }
     });
 
   if (!res.headersSent) {
     return res.send({ msg: `Changes detected and pushed for ${type}` });
   } else {
-    res.write({ msg: `Changes detected and pushed for ${type}` });
-    return res.end();
+    return res.end(`Changes detected and pushed for ${type}`);
   }
 };
 
