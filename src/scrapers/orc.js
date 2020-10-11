@@ -148,7 +148,7 @@ const crawlURLs = async (source, courses = []) => {
   });
 
   await Promise.all(promises);
-  console.log(courses.length);
+
   return courses;
 };
 
@@ -166,6 +166,8 @@ const fetchCourses = async (courses) => {
     }));
 
   const remaining = courses.filter((c) => { return !c.success; });
+
+  console.log(`Batch completed, ${remaining.length} remaining`);
 
   if (remaining.length > 0) {
     return courses.filter((c) => { return c.success; })
