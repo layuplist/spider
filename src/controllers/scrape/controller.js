@@ -18,7 +18,7 @@ const scrape = async (req, res) => {
   const { fetch, parse } = getMethodsForType(type);
 
   // get raw data
-  const { hash, data } = await fetch()
+  const { hash, data } = await fetch(req.write)
     .catch((err) => {
       console.error(err.stack);
 
@@ -39,7 +39,7 @@ const scrape = async (req, res) => {
   );
 
   // check for changes, return early if none
-  if (versions.current[type].hash === hash) {
+  if (versions.current[type]?.hash === hash) {
     return res.send({ msg: `No changes detected for ${type}` });
   }
 

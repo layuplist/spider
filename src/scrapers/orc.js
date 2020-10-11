@@ -170,7 +170,9 @@ const fetchCourses = async (courses, res) => {
   const remaining = courses.filter((c) => { return !c.success; });
 
   console.log(`Batch completed, ${remaining.length} remaining`);
-  res.write('working...');
+
+  // prevent heroku from killing my process >:U
+  res.write('.');
 
   if (remaining.length > 0) {
     return courses.filter((c) => { return c.success; })
