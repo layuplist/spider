@@ -7,9 +7,8 @@ import morgan from 'morgan';
 import scrapeRouter from './routes';
 
 import {
-  childrenFetch,
-  fullCoursesURLScrape,
-  fullCoursesScrape,
+  fetchAll,
+  parseAll,
 } from './scrapers/orc';
 
 // initialize
@@ -38,15 +37,14 @@ app.use(bodyParser.json());
 
 // default index route
 app.use('/scrape', scrapeRouter);
-app.use('/orc', (req, res) => {
-  childrenFetch().then((source) => {
-    fullCoursesURLScrape(source)
-      .then((courses) => {
-        console.log(`found ${courses.length} courses.`);
-
-        fullCoursesScrape(courses);
-      });
-  });
+app.use('/orc', (_req, res) => {
+  fetchAll().then((courses) => {
+    console.log('parsing');
+    res.send(parseAll(courses));
+  })
+    .catch((err) => {
+      console.error(err.msg);
+    });
 });
 
 // START THE SERVER

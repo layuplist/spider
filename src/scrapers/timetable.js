@@ -3,7 +3,8 @@ import cheerio from 'cheerio';
 import XXHash from 'xxhash';
 import qs from 'querystring';
 
-// * config
+
+// * CONFIG
 
 const timetableURL = 'https://oracle-www.dartmouth.edu/dart/groucho/timetable.display_courses';
 
@@ -42,7 +43,8 @@ const timetableConfig = {
 // eslint-disable-next-line no-useless-escape
 const titleRegex = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(\(.*\))?$/i;
 
-// * fetch raw data
+
+// * FETCH
 
 const timetableFetch = async () => {
   const res = await axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig);
@@ -55,7 +57,8 @@ const timetableFetch = async () => {
   };
 };
 
-// * parse data
+
+// * PARSE
 
 const timetableParse = (source) => {
   // create cheerio object and filter out relevant table rows
