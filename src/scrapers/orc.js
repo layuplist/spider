@@ -152,8 +152,8 @@ const crawlURLs = async (source, courses = []) => {
   return courses;
 };
 
-const fetchCourses = async (courses, res) => {
-  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
+const fetchCourses = async (courses, write) => {
+  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 10)
     .map(async (c) => {
       c.data = parseCourse(
         (await axios.get(c.url, { timeout: 3500 })
@@ -169,20 +169,20 @@ const fetchCourses = async (courses, res) => {
   const remaining = courses.filter((c) => { return !c.success; });
 
   console.log(`Batch completed, ${remaining.length} remaining`);
-  res.write('working...');
+  write('working...');
 
   if (remaining.length > 0) {
     return courses.filter((c) => { return c.success; })
-      .concat(...await fetchCourses(remaining));
+      .concat(...await fetchCourses(remaining, write));
   } else {
     return courses;
   }
 };
 
-const fetchAll = async (res) => {
+const fetchAll = async (write) => {
   const courses = await crawlURLs();
 
-  return fetchCourses(courses, res);
+  return fetchCourses(courses, write);
 };
 
 
