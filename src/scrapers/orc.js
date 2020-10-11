@@ -155,13 +155,11 @@ const crawlURLs = async (source, courses = []) => {
 const fetchCourses = async (courses, res) => {
   await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
     .map(async (c) => {
-      c.data = parseCourse(
-        (await axios.get(c.url, { timeout: 3500 })
-          .catch((err) => {
-            console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
-          })
-        ).data,
-      );
+      const { data } = await axios.get(c.url, { timeout: 3500 })
+        .catch((err) => {
+          console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
+        });
+      c.data = parseCourse(data);
       c.success = true;
       console.log(`Successfully fetched ${c.subj} ${c.num}`);
     }));
