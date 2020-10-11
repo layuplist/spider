@@ -153,7 +153,7 @@ const crawlURLs = async (source, courses = []) => {
 };
 
 const fetchCourses = async (courses, res) => {
-  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 500)
+  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
     .map(async (c) => {
       c.data = parseCourse(
         (await axios.get(c.url, { timeout: 3500 })
