@@ -18,7 +18,7 @@ const scrape = async (req, res) => {
   const { fetch, parse } = getMethodsForType(type);
 
   // get raw data
-  const { hash, data } = await fetch()
+  const { hash, data } = await fetch(res.write)
     .catch((err) => {
       console.error(err.stack);
 
