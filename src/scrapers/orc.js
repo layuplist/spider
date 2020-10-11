@@ -185,7 +185,7 @@ const fetchCourses = async (courses, res) => {
 const fetchAll = async (res) => {
   const courses = await crawlURLs();
 
-  const data = await fetchCourses(courses.slice(0, 10), res);
+  const data = await fetchCourses(courses, res);
   const hash = XXHash.hash64(Buffer.from(data), Buffer.from('DPLANNER'), 'hex');
 
   data.sort((a, b) => {
