@@ -10,20 +10,9 @@ const scrape = async (req, res) => {
   const { type } = req.query;
 
   // verify eligible type
-  if (!['timetable'].includes(type)) {
+  if (!['timetable', 'orc'].includes(type)) {
     return res.status(400).send({ err: `invalid scrape type: '${type}'` });
   }
-
-  // get appropriate  methods
-  const { fetch, parse } = getMethodsForType(type);
-
-  // get raw data
-  const { hash, data } = await fetch()
-    .catch((err) => {
-      console.error(err.stack);
-
-      return res.status(500).send({ err: `Error fetching ${type}` });
-    });
 
   // load most recent data from repo
   await loadCurrent()
@@ -33,15 +22,34 @@ const scrape = async (req, res) => {
       return res.status(500).send({ err: 'Failed to load repo' });
     });
 
+  // get appropriate  methods
+  const { fetch, parse } = getMethodsForType(type);
+
+  // get raw data
+  const { hash, data } = await fetch(res)
+    .catch((err) => {
+      console.error(err.stack);
+
+      if (!res.headersSent) {
+        return res.status(500).send({ err: `Error fetching ${type}` });
+      } else {
+        return res.end(`Error fetching ${type}`);
+      }
+    });
+
   // load versions file
   const versions = JSON.parse(
     fs.readFileSync('/tmp/data/versions.json'),
   );
 
   // check for changes, return early if none
-  if (versions.current[type].hash === hash) {
-    return res.send({ msg: `No changes detected for ${type}` });
-  }
+  // if (versions.current[type]?.hash === hash) {
+  //   if (!res.headersSent) {
+  //     return res.send({ msg: `No changes detected for ${type}` });
+  //   } else {
+  //     return res.end(`No changes detected for ${type}`);
+  //   }
+  // }
 
   // parse raw data and write to local
   const nextData = parse(data);
@@ -70,10 +78,18 @@ const scrape = async (req, res) => {
     .catch((err) => {
       console.error(err.stack);
 
-      return res.status(500).send({ err: 'Failed to update repo' });
+      if (!res.headersSent) {
+        return res.status(500).send({ err: 'Failed to update repo' });
+      } else {
+        return res.end('Failed to update repo');
+      }
     });
 
-  return res.send({ msg: `Changes detected and pushed for ${type}` });
+  if (!res.headersSent) {
+    return res.send({ msg: `Changes detected and pushed for ${type}` });
+  } else {
+    return res.end(`Changes detected and pushed for ${type}`);
+  }
 };
 
 const ScrapeController = {

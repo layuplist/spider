@@ -2,6 +2,7 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 import XXHash from 'xxhash';
 
+
 // * config
 
 const rootURL = 'http://dartmouth.smartcatalogiq.com';
@@ -14,113 +15,21 @@ const orcSchoolURL = (graduate) => {
 };
 
 const orcSupplementURL = (year) => {
-  if (year < 2018) {
-    return (
-      `${rootURL}/en/${year}s/Supplement/Courses`
-    );
-  } else {
-    return (
-      `${rootURL}/${year}s/Supplement/New-Undergraduate-Courses`
-    );
-  }
+  return year < 2018
+    ? `${rootURL}/en/${year}s/Supplement/Courses`
+    : `${rootURL}/${year}s/Supplement/New-Undergraduate-Courses`;
 };
 
 const orcChildrenURL = (path) => {
-  return (
-    `${path}?getchildren=1`
-  );
+  return `${path}?getchildren=1`;
 };
 
 const courseRegex = /^[A-Z]+\s[0-9]+(.[0-9]+)?$/;
 
-// * full scrape (all courses, all departments)
 
-// * fetch
+// * PARSE
 
-const genericFetch = (url) => {
-  return axios.get(url)
-    .then((res) => {
-      return res.data;
-    })
-    .catch((err) => {
-      throw err;
-    });
-};
-
-const childrenFetch = (url = orcSchoolURL(false)) => {
-  return genericFetch(orcChildrenURL(url));
-};
-
-// const departmentFetch = () => {
-//   // TODO
-// };
-
-// * scrape
-
-const childrenScrape = (source) => {
-  const data = cheerio.load(source);
-  const childrenEl = data('ul[class=navLocal] > li');
-
-  const children = [];
-  childrenEl.each((childIndex, childEl) => {
-    const aTag = data(childEl).find('a').first();
-    const courseMatch = aTag.text().trim().match(courseRegex);
-
-    children[childIndex] = {
-      text: aTag.text(),
-      url: aTag.attr('href'),
-      hasChildren: data(childEl).hasClass('hasChildren'),
-      isCourse: Boolean(courseMatch),
-    };
-  });
-
-  return children;
-};
-
-async function fullCoursesURLScrape(source, courses = []) {
-  const children = childrenScrape(source);
-  const promises = [];
-
-  for (let i = 0; i < children.length; i += 1) {
-    const child = children[i];
-
-    if (child.hasChildren) {
-      promises.push(new Promise((resolve, reject) => {
-        childrenFetch(`${rootURL}${child.url}`)
-          .then((newSource) => {
-            fullCoursesURLScrape(newSource, courses)
-              .then((newCourses) => {
-                courses.concat(newCourses);
-
-                resolve();
-              })
-              .catch((_err) => {
-                reject();
-              });
-          })
-          .catch((_err) => {
-            reject();
-          });
-      }));
-    }
-
-    if (child.isCourse) {
-      const [subj, num] = child.text.split(' ');
-
-      courses.push({
-        subj,
-        num,
-        url: `${rootURL}${child.url}`,
-      });
-    }
-  }
-
-  await Promise.all(promises);
-
-  return courses;
-}
-
-const courseScrape = (source) => {
+const parseCourse = (source) => {
   const data = cheerio.load(source);
   const body = data('div[id=rightpanel] > div[id=main]');
 
@@ -181,64 +90,118 @@ const courseScrape = (source) => {
   return course;
 };
 
-async function fullCoursesScrape(coursesBasic, coursesFull = []) {
-  let promises = [];
-  const status = coursesBasic.reduce((accum, course) => {
-    accum[course.url] = {
-      course,
-      attempts: 0,
-      success: false,
+const parseAll = (source) => {
+  return source.map((course) => {
+    return {
+      subj: course.subj,
+      num: course.num,
+      ...course.data,
     };
+  });
+};
 
-    return accum;
+
+// * URL CRAWL (FETCH)
+
+const crawlChildren = (source) => {
+  const data = cheerio.load(source);
+  const childrenEl = data('ul[class=navLocal] > li');
+
+  const children = [];
+  childrenEl.each((childIndex, childEl) => {
+    const aTag = data(childEl).find('a').first();
+    const courseMatch = aTag.text().trim().match(courseRegex);
+
+    children[childIndex] = {
+      text: aTag.text(),
+      url: aTag.attr('href'),
+      hasChildren: data(childEl).hasClass('hasChildren'),
+      isCourse: Boolean(courseMatch),
+    };
   });
 
-  const createPromise = ({ subj, num, url }) => {
-    status[url].attempts += 1;
+  return children;
+};
 
-    promises.push(new Promise((resolve) => {
-      genericFetch(url)
-        .then((courseRaw) => {
-          coursesFull[`${subj} ${num}`] = courseScrape(courseRaw);
-
-          status[url].success = true;
-          console.log('Success!', Object.values(status).filter((s) => { return s.success; }).length);
-          resolve();
-        })
-        .catch((err) => {
-          console.log(`Failed to load ${url} (attempt ${status[url].attempts}): ${err}`);
-
-          resolve();
-        });
-    }));
-  };
-
-  coursesBasic.forEach((course) => {
-    status[course.url] = {
-      attempts: 0,
-      result: false,
-    };
-    createPromise(course);
-  });
-
-  let pending = coursesBasic;
-
-  while (pending.length > 0) {
-    pending.forEach((course) => { createPromise(course); });
-
-    // eslint-disable-next-line no-await-in-loop
-    await Promise.all(promises);
-
-    promises = [];
-    pending = Object.values(status).filter((s) => { return s.success && s.attempts < 3; }).map((s) => { return s.course; });
+const crawlURLs = async (source, courses = []) => {
+  if (!source) {
+    source = (await axios.get(orcSchoolURL())).data;
   }
 
-  console.log(`${Object.values(status).filter((s) => { return s.success; }).length} completed of ${coursesBasic.length}`);
+  const children = crawlChildren(source);
 
-  return coursesFull;
-}
+  const promises = children.map(async (child) => {
+    if (child.hasChildren) {
+      const nextSource = (await axios.get(orcChildrenURL(`${rootURL}${child.url}`))).data;
+      courses.concat(await crawlURLs(nextSource, courses));
+    }
 
-// * supplement scrape (new courses only)
+    if (child.isCourse) {
+      const [subj, num] = child.text.split(' ');
+
+      courses.push({
+        subj,
+        num,
+        url: `${rootURL}${child.url}`,
+      });
+    }
+  });
+
+  await Promise.all(promises);
+
+  return courses;
+};
+
+const fetchCourses = async (courses, res) => {
+  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
+    .map(async (c) => {
+      const res = await axios.get(c.url, { timeout: 3500 })
+        .catch((err) => {
+          console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
+        });
+
+      if (res) {
+        c.data = parseCourse(res.data);
+        c.success = true;
+        console.log(`Successfully fetched ${c.subj} ${c.num}`);
+      }
+    }));
+
+  const remaining = courses.filter((c) => { return !c.success; });
+
+  console.log(`Batch completed, ${remaining.length} remaining`);
+
+  // prevent heroku from killing my process >:U
+  res.write('.');
+
+  if (remaining.length > 0) {
+    return courses.filter((c) => { return c.success; })
+      .concat(...await fetchCourses(remaining, res));
+  } else {
+    return courses;
+  }
+};
+
+const fetchAll = async (res) => {
+  const courses = await crawlURLs();
+
+  const data = await fetchCourses(courses, res);
+  const hash = XXHash.hash64(Buffer.from(data), Buffer.from('DPLANNER'), 'hex');
+
+  data.sort((a, b) => {
+    return `${a.subj}${a.num}` < `${b.subj}${b.num}`
+      ? -1
+      : 1;
+  });
+
+  return {
+    hash,
+    data,
+  };
+};
+
+
+// * SUPPLEMENTS
 
 // * fetch
 
@@ -297,9 +260,8 @@ const supplementURLScrape = (source) => {
 // * export
 
 export {
-  childrenFetch,
-  fullCoursesURLScrape,
-  fullCoursesScrape,
+  fetchAll,
+  parseAll,
   supplementURLFetch,
   supplementURLScrape,
 };

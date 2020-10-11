@@ -1,6 +1,8 @@
 import {
   timetableFetch,
   timetableParse,
+  orcFetch,
+  orcParse,
 } from '../../../scrapers';
 
 /**
@@ -15,6 +17,12 @@ export const getMethodsForType = (type) => {
       return {
         fetch: timetableFetch,
         parse: timetableParse,
+      };
+
+    case 'orc':
+      return {
+        fetch: orcFetch,
+        parse: orcParse,
       };
 
     default:

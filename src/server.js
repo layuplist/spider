@@ -6,11 +6,6 @@ import morgan from 'morgan';
 
 import scrapeRouter from './routes';
 
-import {
-  childrenFetch,
-  fullCoursesURLScrape,
-  fullCoursesScrape,
-} from './scrapers/orc';
 
 // initialize
 const app = express();
@@ -38,16 +33,7 @@ app.use(bodyParser.json());
 
 // default index route
 app.use('/scrape', scrapeRouter);
-app.use('/orc', (req, res) => {
-  childrenFetch().then((source) => {
-    fullCoursesURLScrape(source)
-      .then((courses) => {
-        console.log(`found ${courses.length} courses.`);
 
-        fullCoursesScrape(courses);
-      });
-  });
-});
 
 // START THE SERVER
 // =============================================================================
