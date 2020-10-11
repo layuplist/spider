@@ -167,9 +167,8 @@ const fetchCourses = async (courses, write) => {
 
   const remaining = courses.filter((c) => { return !c.success; });
 
-  const msg = `Batch completed, ${remaining.length} remaining`;
-  console.log(msg);
-  write(msg);
+  console.log(`Batch completed, ${remaining.length} remaining`);
+  write(`Batch completed, ${remaining.length} remaining`);
 
   if (remaining.length > 0) {
     return courses.filter((c) => { return c.success; })

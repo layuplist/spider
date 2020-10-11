@@ -38,8 +38,7 @@ app.use(bodyParser.json());
 // default index route
 app.use('/scrape', scrapeRouter);
 app.use('/orc', (_req, res) => {
-  fetchAll().then((courses) => {
-    console.log('parsing');
+  fetchAll(res.write).then((courses) => {
     res.send(parseAll(courses));
   })
     .catch((err) => {
