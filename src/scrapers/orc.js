@@ -152,7 +152,7 @@ const crawlURLs = async (source, courses = []) => {
   return courses;
 };
 
-const fetchCourses = async (courses, write) => {
+const fetchCourses = async (courses, res) => {
   await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
     .map(async (c) => {
       c.data = parseCourse(
@@ -169,7 +169,7 @@ const fetchCourses = async (courses, write) => {
   const remaining = courses.filter((c) => { return !c.success; });
 
   console.log(`Batch completed, ${remaining.length} remaining`);
-  write(`Batch completed, ${remaining.length} remaining`);
+  res.write('working...');
 
   if (remaining.length > 0) {
     return courses.filter((c) => { return c.success; })
@@ -179,10 +179,10 @@ const fetchCourses = async (courses, write) => {
   }
 };
 
-const fetchAll = async (write) => {
+const fetchAll = async (res) => {
   const courses = await crawlURLs();
 
-  return fetchCourses(courses, write);
+  return fetchCourses(courses, res);
 };
 
 
