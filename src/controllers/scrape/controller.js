@@ -10,7 +10,7 @@ const scrape = async (req, res) => {
   const { type } = req.query;
 
   // verify eligible type
-  if (!['timetable'].includes(type)) {
+  if (!['timetable', 'orc'].includes(type)) {
     return res.status(400).send({ err: `invalid scrape type: '${type}'` });
   }
 

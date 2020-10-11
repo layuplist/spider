@@ -27,90 +27,7 @@ const orcChildrenURL = (path) => {
 const courseRegex = /^[A-Z]+\s[0-9]+(.[0-9]+)?$/;
 
 
-// * URL CRAWL (FETCH)
-
-const crawlChildren = (source) => {
-  const data = cheerio.load(source);
-  const childrenEl = data('ul[class=navLocal] > li');
-
-  const children = [];
-  childrenEl.each((childIndex, childEl) => {
-    const aTag = data(childEl).find('a').first();
-    const courseMatch = aTag.text().trim().match(courseRegex);
-
-    children[childIndex] = {
-      text: aTag.text(),
-      url: aTag.attr('href'),
-      hasChildren: data(childEl).hasClass('hasChildren'),
-      isCourse: Boolean(courseMatch),
-    };
-  });
-
-  return children;
-};
-
-const crawlURLs = async (source, courses = []) => {
-  if (!source) {
-    source = (await axios.get(orcSchoolURL())).data;
-  }
-
-  const children = crawlChildren(source);
-
-  const promises = children.map(async (child) => {
-    if (child.hasChildren) {
-      const nextSource = (await axios.get(orcChildrenURL(`${rootURL}${child.url}`))).data;
-      courses.concat(await crawlURLs(nextSource, courses));
-    }
-
-    if (child.isCourse) {
-      const [subj, num] = child.text.split(' ');
-
-      courses.push({
-        subj,
-        num,
-        url: `${rootURL}${child.url}`,
-      });
-    }
-  });
-
-  await Promise.all(promises);
-  console.log(courses.length);
-  return courses;
-};
-
-const fetchCourses = async (courses) => {
-  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 500)
-    .map(async (c) => {
-      c.data = (
-        await axios.get(c.url, { timeout: 3500 })
-          .catch((err) => {
-            console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
-          })
-      ).data;
-      c.success = true;
-      console.log(`Successfully fetched ${c.subj} ${c.num}`);
-    }));
-
-  console.log('round complete', courses.filter((c) => { return c.success; }).length);
-
-  const remaining = courses.filter((c) => { return !c.success; });
-
-  if (remaining.length > 0) {
-    return courses.filter((c) => { return c.success; })
-      .concat(...await fetchCourses(remaining));
-  } else {
-    return courses;
-  }
-};
-
-const fetchAll = async () => {
-  const urls = await crawlURLs();
-  console.log(`got ${urls.length} urls`);
-  return fetchCourses(urls);
-};
-
-
-// * SCRAPE COURSES (PARSE)
+// * PARSE
 
 const parseCourse = (source) => {
   const data = cheerio.load(source);
@@ -174,64 +91,98 @@ const parseCourse = (source) => {
 };
 
 const parseAll = (source) => {
-  return source.map((s) => { return parseCourse(s); });
+  return source.map((course) => {
+    return {
+      subj: course.subj,
+      num: course.num,
+      ...course.data,
+    };
+  });
 };
 
-// const scrapeCourses = async (coursesBasic, coursesFull = []) => {
-//   let promises = [];
-//   const status = coursesBasic.reduce((accum, course, i) => {
-//     accum[course.url] = {
-//       course,
-//       attempts: 0,
-//       success: false,
-//       index: i,
-//     };
 
-//     return accum;
-//   }, []);
+// * URL CRAWL (FETCH)
 
-//   const createPromise = ({ subj, num, url }) => {
-//     status[url].attempts += 1;
+const crawlChildren = (source) => {
+  const data = cheerio.load(source);
+  const childrenEl = data('ul[class=navLocal] > li');
 
-//     promises.push(new Promise((resolve) => {
-//       axios.get(url)
-//         .then((res) => {
-//           coursesFull[`${subj} ${num}`] = courseScrape(res.data);
+  const children = [];
+  childrenEl.each((childIndex, childEl) => {
+    const aTag = data(childEl).find('a').first();
+    const courseMatch = aTag.text().trim().match(courseRegex);
 
-//           status[url].success = true;
-//           console.log('Success!', Object.values(status).filter((s) => { return s.success; }).length);
-//           resolve();
-//         })
-//         .catch((err) => {
-//           console.log(`Failed to load ${JSON.stringify(status[url])}: ${err}`);
+    children[childIndex] = {
+      text: aTag.text(),
+      url: aTag.attr('href'),
+      hasChildren: data(childEl).hasClass('hasChildren'),
+      isCourse: Boolean(courseMatch),
+    };
+  });
 
-//           resolve();
-//         });
-//     }));
-//   };
+  return children;
+};
 
-//   coursesBasic.forEach((course) => {
-//     createPromise(course);
-//   });
+const crawlURLs = async (source, courses = []) => {
+  if (!source) {
+    source = (await axios.get(orcSchoolURL())).data;
+  }
 
-//   let pending = coursesBasic;
+  const children = crawlChildren(source);
 
-//   while (pending.length > 0) {
-//     pending.forEach((course) => { createPromise(course); });
+  const promises = children.map(async (child) => {
+    if (child.hasChildren) {
+      const nextSource = (await axios.get(orcChildrenURL(`${rootURL}${child.url}`))).data;
+      courses.concat(await crawlURLs(nextSource, courses));
+    }
 
-//     // eslint-disable-next-line no-await-in-loop
-//     await Promise.all(promises);
+    if (child.isCourse) {
+      const [subj, num] = child.text.split(' ');
 
-//     promises = [];
-//     pending = Object.values(status).filter((s) => { return s.success && s.attempts < 3; }).map((s) => { return s.course; });
-//   }
+      courses.push({
+        subj,
+        num,
+        url: `${rootURL}${child.url}`,
+      });
+    }
+  });
 
-//   console.log(`${Object.values(status).filter((s) => { return s.success; }).length} completed of ${coursesBasic.length}`);
+  await Promise.all(promises);
+  console.log(courses.length);
+  return courses;
+};
 
-//   return coursesFull;
-// };
+const fetchCourses = async (courses) => {
+  await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 500)
+    .map(async (c) => {
+      c.data = parseCourse(
+        (await axios.get(c.url, { timeout: 3500 })
+          .catch((err) => {
+            console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
+          })
+        ).data,
+      );
+      c.success = true;
+    }));
 
-// * supplement scrape (new courses only)
+  const remaining = courses.filter((c) => { return !c.success; });
+
+  if (remaining.length > 0) {
+    return courses.filter((c) => { return c.success; })
+      .concat(...await fetchCourses(remaining));
+  } else {
+    return courses;
+  }
+};
+
+const fetchAll = async () => {
+  const urls = await crawlURLs();
+
+  return fetchCourses(urls);
+};
+
+
+// * SUPPLEMENTS
 
 // * fetch
 
