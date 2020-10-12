@@ -46,18 +46,18 @@ const scrape = async (req, res) => {
     });
 
   // load versions file
-  // const versions = JSON.parse(
-  //   fs.readFileSync('/tmp/data/versions.json'),
-  // );
+  const versions = JSON.parse(
+    fs.readFileSync('/tmp/data/versions.json'),
+  );
 
   // check for changes, return early if none
-  // if (versions.current[type]?.hash === hash) {
-  //   if (!res.headersSent) {
-  //     return res.send({ msg: `No changes detected for ${type}` });
-  //   } else {
-  //     return res.end(`No changes detected for ${type}`);
-  //   }
-  // }
+  if (versions.current[type]?.hash === hash) {
+    if (!res.headersSent) {
+      return res.send({ msg: `No changes detected for ${type}` });
+    } else {
+      return res.end(`No changes detected for ${type}`);
+    }
+  }
 
   // parse raw data and write to local
   const nextData = parse(data);
@@ -75,7 +75,7 @@ const scrape = async (req, res) => {
   const changes = diff(currData, nextData);
 
   // check if eligible for direct commit to master
-  const eligible = (false && Object.keys(changes.added).length === 0 && Object.keys(changes.removed).length === 0) && (
+  const eligible = (Object.keys(changes.added).length === 0 && Object.keys(changes.removed).length === 0) && (
     Object.entries(changes.changed).reduce((valid, [k, v]) => {
       if (v.reduce((whitelisted, val) => {
         return whitelisted && whitelist.includes(`${type}_${val}`);
