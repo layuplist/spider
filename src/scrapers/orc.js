@@ -216,6 +216,10 @@ const fetchCourses = async (courses, res) => {
           console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
         });
 
+      if (!c.attempts) c.attempts = 0;
+      c.attempts += 1;
+      if (c.attempts === 1) c.skip = true;
+
       if (res) {
         c.data = parseCourse(res.data);
         c.success = true;
@@ -223,7 +227,7 @@ const fetchCourses = async (courses, res) => {
       }
     }));
 
-  const remaining = courses.filter((c) => { return !c.success; });
+  const remaining = courses.filter((c) => { return !c.success && !c.skip; });
 
   console.log(`Batch completed, ${remaining.length} remaining`);
 
