@@ -1,17 +1,29 @@
 import fs from 'fs';
+import dotenv from 'dotenv';
+import stringify from 'fast-json-stable-stringify';
 
 import { getMethodsForType } from './helpers';
 import {
   loadCurrent,
   update,
 } from '../../helpers/data';
+import diff from '../../helpers/diff';
+import {
+  hasActivePr,
+  createPr,
+} from '../../helpers/github';
+
+dotenv.config();
+
+const whitelist = process.env.CHANGE_WHITELIST.split(',');
+
 
 const scrape = async (req, res) => {
   const { type } = req.query;
 
   // verify eligible type
   if (!['timetable', 'orc'].includes(type)) {
-    return res.status(400).send({ err: `invalid scrape type: '${type}'` });
+    return res.status(400).send({ err: `Invalid scrape type: '${type}'` });
   }
 
   // load most recent data from repo
@@ -25,22 +37,19 @@ const scrape = async (req, res) => {
   // get appropriate  methods
   const { fetch, parse } = getMethodsForType(type);
 
+  // send response
+  res.send({ msg: 'Task started and current data loaded successfully. See server logs for task result.' });
+
   // get raw data
   const { hash, data } = await fetch(res)
     .catch((err) => {
-      console.error(err.stack);
-
-      if (!res.headersSent) {
-        return res.status(500).send({ err: `Error fetching ${type}` });
-      } else {
-        return res.end(`Error fetching ${type}`);
-      }
+      return console.error(`Error fetching ${type}`, err.stack);
     });
 
   // load versions file
-  const versions = JSON.parse(
-    fs.readFileSync('/tmp/data/versions.json'),
-  );
+  // const versions = JSON.parse(
+  //   fs.readFileSync('/tmp/data/versions.json'),
+  // );
 
   // check for changes, return early if none
   // if (versions.current[type]?.hash === hash) {
@@ -55,18 +64,31 @@ const scrape = async (req, res) => {
   const nextData = parse(data);
   fs.writeFileSync(
     `/tmp/${type}_${hash}.json`,
-    JSON.stringify(nextData, null, 2),
+    stringify(nextData, null, 2),
   );
 
-  // TODO: commit eligible changes directly to master, PR anything needing verification
-
   // get current parsed data from repo
-  // const currData = JSON.parse(
-  //   fs.readFileSync(`/tmp/data/current/${type}.json`),
-  // );
+  const currData = JSON.parse(
+    fs.readFileSync(`/tmp/data/current/${type}.json`),
+  );
 
   // run diff to determine changes
-  // const changes = diff(currData, nextData);
+  const changes = diff(currData, nextData);
+
+  // check if eligible for direct commit to master
+  const eligible = (false && Object.keys(changes.added).length === 0 && Object.keys(changes.removed).length === 0) && (
+    Object.entries(changes.changed).reduce((valid, [k, v]) => {
+      if (v.reduce((whitelisted, val) => {
+        return whitelisted && whitelist.includes(`${type}_${val}`);
+      }, true)) {
+        return valid;
+      } else {
+        return false;
+      }
+    }, true)
+  );
+
+  const branch = eligible ? 'master' : `${type}_${new Date().getTime()}`;
 
   // update repo
   await update(
@@ -74,22 +96,17 @@ const scrape = async (req, res) => {
     type,
     hash,
     `update in ${type} (${new Date().toISOString()})`,
+    branch,
   )
     .catch((err) => {
-      console.error(err.stack);
-
-      if (!res.headersSent) {
-        return res.status(500).send({ err: 'Failed to update repo' });
-      } else {
-        return res.end('Failed to update repo');
-      }
+      console.error(`Failed to update repository (${err.message})`);
     });
 
-  if (!res.headersSent) {
-    return res.send({ msg: `Changes detected and pushed for ${type}` });
-  } else {
-    return res.end(`Changes detected and pushed for ${type}`);
+  if (branch !== 'master') {
+    createPr(branch, changes, whitelist, currData, nextData);
   }
+
+  return console.log(`Changes detected and pushed for ${type}`);
 };
 
 const ScrapeController = {

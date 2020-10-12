@@ -1,11 +1,11 @@
 import {
-  timetableFetch,
-  timetableParse,
+  fetch as timetableFetch,
+  parse as timetableParse,
 } from './timetable';
 
 import {
-  fetchAll as orcFetch,
-  parseAll as orcParse,
+  fetch as orcFetch,
+  parse as orcParse,
 } from './orc';
 
 export {

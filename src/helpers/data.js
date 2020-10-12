@@ -3,6 +3,7 @@ import http from 'isomorphic-git/http/node';
 import fs from 'fs';
 import dotenv from 'dotenv';
 import rimraf from 'rimraf';
+import stringify from 'fast-json-stable-stringify';
 
 dotenv.config();
 
@@ -19,7 +20,6 @@ const loadCurrent = async () => {
     http,
     dir: LOCAL_DIR,
     url: DATA_REPOSITORY_URL,
-    singleBranch: true,
     depth: 1,
     onAuth: () => {
       return ({
@@ -29,8 +29,18 @@ const loadCurrent = async () => {
   });
 };
 
-const update = async (target, sourceType, hash, msg) => {
+const update = async (target, sourceType, hash, msg, branch) => {
   // * update local
+
+  // if branch other than master, checkout
+  if (branch !== 'master') {
+    await git.branch({
+      fs,
+      dir: LOCAL_DIR,
+      ref: branch,
+      checkout: true,
+    });
+  }
 
   // copy in new data
   fs.copyFileSync(`/tmp/${sourceType}_${hash}.json`, `${LOCAL_DIR}/${target}`);
@@ -46,7 +56,7 @@ const update = async (target, sourceType, hash, msg) => {
     timestamp: new Date().toISOString(),
     hash,
   };
-  fs.writeFileSync(`${LOCAL_DIR}/versions.json`, JSON.stringify(versions, null, 2));
+  fs.writeFileSync(`${LOCAL_DIR}/versions.json`, stringify(versions, null, 2));
 
   // * add files to commit
 
@@ -64,7 +74,7 @@ const update = async (target, sourceType, hash, msg) => {
 
   // * commit
 
-  await git.commit({
+  const sha = await git.commit({
     fs,
     dir: LOCAL_DIR,
     author: {
@@ -76,18 +86,20 @@ const update = async (target, sourceType, hash, msg) => {
 
   // * push to repo
 
-  await git.push({
-    fs,
-    http,
-    dir: LOCAL_DIR,
-    remote: 'origin',
-    ref: 'master',
-    onAuth: () => {
-      return ({
-        username: process.env.GH_TOKEN,
-      });
-    },
-  });
+  if (sha) {
+    await git.push({
+      fs,
+      http,
+      dir: LOCAL_DIR,
+      remote: 'origin',
+      ref: branch,
+      onAuth: () => {
+        return ({
+          username: process.env.GH_TOKEN,
+        });
+      },
+    });
+  }
 };
 
 export {

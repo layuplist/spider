@@ -46,20 +46,25 @@ const titleRegex = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(
 
 // * FETCH
 
-const timetableFetch = async () => {
+const fetch = async (_res) => {
   const res = await axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig);
-  const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
-  return {
-    hash,
-    data: res.data,
-  };
+  if (res) {
+    const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+
+    return {
+      hash,
+      data: res.data,
+    };
+  } else {
+    return null;
+  }
 };
 
 
 // * PARSE
 
-const timetableParse = (source) => {
+const parse = (source) => {
   // create cheerio object and filter out relevant table rows
   const data = cheerio.load(source);
   const keys = data('div[class=data-table] > table > tbody > tr').first();
@@ -72,31 +77,33 @@ const timetableParse = (source) => {
   });
 
   // get courses
-  const courses = [];
-  rows.each((courseIndex, courseEl) => {
-    courses[courseIndex] = {};
+  const courses = {};
+  rows.each((_index, courseEl) => {
+    const course = {};
 
     // get properties
     data(courseEl).find('td').each((columnIndex, columnEl) => {
       // check for course link (special field)
       if (headers[columnIndex] === 'Title and Delivery Mode') {
         // get desc link
-        [, courses[courseIndex].Description] = data(columnEl).find('a').first().attr('href')
+        [, course.Description] = data(columnEl).find('a').first().attr('href')
           .split('\'');
 
         // parse title
         const [, courseTitle, courseDeliveryMode, courseTitleAddendum] = titleRegex.exec(data(columnEl).text().trim());
 
         // set props
-        courses[courseIndex].Title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
-        courses[courseIndex].DeliveryMode = courseDeliveryMode;
+        course.Title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
+        course.DeliveryMode = courseDeliveryMode;
       } else {
         const value = data(columnEl).text().trim();
-        courses[courseIndex][headers[columnIndex]] = (
+        course[headers[columnIndex]] = (
           value.length === 0 ? null : value
         );
       }
     });
+
+    courses[course.CRN] = course;
   });
 
   // return course data
@@ -106,6 +113,6 @@ const timetableParse = (source) => {
 // * export
 
 export {
-  timetableFetch,
-  timetableParse,
+  fetch,
+  parse,
 };
