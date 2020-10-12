@@ -45,28 +45,14 @@ const compare = (a, b) => {
 };
 
 /**
- * Get item by id from keyed dictionary
- *
- * @param {*} id id of item to get
- * @param {*} items keyed dictionary, MUST contain id
- */
-export const getItemById = (id, items) => {
-  return (
-    items.filter((item) => {
-      return item.CRN === id;
-    })[0]
-  );
-};
-
-/**
  * Shallow diff two arrays of objects
  *
  * @param {*} curr current array of objects
  * @param {*} next next array of objects
  */
-export const diff = (curr, next) => {
-  const currIds = new Set(curr.map((item) => { return item.CRN; }));
-  const nextIds = new Set(next.map((item) => { return item.CRN; }));
+export default (curr, next) => {
+  const currIds = new Set(Object.keys(curr));
+  const nextIds = new Set(Object.keys(next));
 
   const added = new Set([...nextIds].filter((id) => {
     return !currIds.has(id);
@@ -78,17 +64,18 @@ export const diff = (curr, next) => {
     return nextIds.has(id);
   }));
 
-  const changed = {};
-  persisted.forEach((id) => {
-    const changes = compare(getItemById(id, curr), getItemById(id, next));
+  const changed = Array.from(persisted).reduce((accum, id) => {
+    const changes = compare(curr[id], next[id]);
     if (Object.keys(changes).length > 0) {
-      changed[id] = changes;
+      accum[id] = changes;
     }
-  });
+
+    return accum;
+  }, {});
 
   return {
-    added,
-    removed,
+    added: Array.from(added),
+    removed: Array.from(removed),
     changed,
   };
 };

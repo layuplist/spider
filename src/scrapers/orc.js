@@ -1,9 +1,10 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
 import XXHash from 'xxhash';
+import stringify from 'fast-json-stable-stringify';
 
 
-// * config
+// * CONFIG
 
 const rootURL = 'http://dartmouth.smartcatalogiq.com';
 const orcURL = `${rootURL}/en/current/orc`;
@@ -90,14 +91,68 @@ const parseCourse = (source) => {
   return course;
 };
 
-const parseAll = (source) => {
-  return source.map((course) => {
-    return {
+const parse = (source) => {
+  return source.reduce((data, course) => {
+    data[`${course.subj} ${course.num}`] = {
       subj: course.subj,
       num: course.num,
       ...course.data,
     };
+
+    return data;
+  }, {});
+};
+
+
+// * SUPPLEMENTS
+
+// * fetch
+
+const supplementURLFetch = async (year) => {
+  const res = await axios.post(orcSupplementURL(year))
+    .catch((err) => {
+      console.error(`Error fetching supplemental courses: ${err.message}`);
+    });
+
+  if (res) {
+    // generate hash
+    const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+
+    // return hash * data
+    return {
+      hash,
+      data: res.data,
+    };
+  } else {
+    return null;
+  }
+};
+
+// * scrape
+
+const supplementURLScrape = (source) => {
+  // create cheerio object and filter out relevant elements
+  const data = cheerio.load(source);
+  const listings = data('div[id=middle] > div[id=rightpanel] > div[id=main] > ul > li');
+
+  // get courses
+  const courses = [];
+  listings.each((listingIndex, listingEl) => {
+    const info = data(listingEl).find('a').first().text()
+      .split('&nbsp;');
+
+    const [courseSubj, courseNum] = info;
+    const courseURL = data(listingEl).find('a').first().attr('href');
+
+    courses[listingIndex] = {
+      subj: courseSubj,
+      num: courseNum,
+      url: courseURL,
+    };
   });
+
+  // return course data
+  return courses;
 };
 
 
@@ -153,6 +208,7 @@ const crawlURLs = async (source, courses = []) => {
 };
 
 const fetchCourses = async (courses, res) => {
+  // fetch batch of 250 courses
   await Promise.all(courses.filter((c) => { return !c.success; }).slice(0, 250)
     .map(async (c) => {
       const res = await axios.get(c.url, { timeout: 3500 })
@@ -182,11 +238,18 @@ const fetchCourses = async (courses, res) => {
   }
 };
 
-const fetchAll = async (res) => {
+const fetch = async (res) => {
   const courses = await crawlURLs();
 
+  // add currrent year's supplements
+  const supplementData = await supplementURLFetch(new Date().getFullYear())
+    .catch((err) => {
+      console.error(`Failed to crawl supplemental courses for ${new Date().getFullYear()} (${err.message})`);
+    });
+  if (supplementData) courses.push(...supplementURLScrape(supplementData.data));
+
   const data = await fetchCourses(courses, res);
-  const hash = XXHash.hash64(Buffer.from(data), Buffer.from('DPLANNER'), 'hex');
+  const hash = XXHash.hash64(Buffer.from(stringify(data)), Buffer.from('DPLANNER'), 'hex');
 
   data.sort((a, b) => {
     return `${a.subj}${a.num}` < `${b.subj}${b.num}`
@@ -201,67 +264,9 @@ const fetchAll = async (res) => {
 };
 
 
-// * SUPPLEMENTS
-
-// * fetch
-
-const supplementURLFetch = (year) => {
-  return axios.post(orcSupplementURL(year))
-    .then((res) => {
-      // generate hash
-      const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
-
-      // return hash * data
-      return {
-        hash,
-        data: res.data,
-      };
-    })
-    .catch((err) => {
-      const errMsg = `Error fetching supplemental courses: ${err}`;
-
-      // log error
-      console.log(errMsg);
-
-      // return error message
-      return {
-        msg: errMsg,
-      };
-    });
-};
-
-// * scrape
-
-const supplementURLScrape = (source) => {
-  // create cheerio object and filter out relevant elements
-  const data = cheerio.load(source);
-  const listings = data('div[id=middle] > div[id=rightpanel] > div[id=main] > ul > li');
-
-  // get courses
-  const courses = [];
-  listings.each((listingIndex, listingEl) => {
-    const info = data(listingEl).find('a').first().text()
-      .split('&nbsp;');
-
-    const [courseSubj, courseNum] = info;
-    const courseURL = data(listingEl).find('a').first().attr('href');
-
-    courses[listingIndex] = {
-      subj: courseSubj,
-      num: courseNum,
-      url: courseURL,
-    };
-  });
-
-  // return course data
-  return courses;
-};
-
 // * export
 
 export {
-  fetchAll,
-  parseAll,
-  supplementURLFetch,
-  supplementURLScrape,
+  fetch,
+  parse,
 };

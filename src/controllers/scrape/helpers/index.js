@@ -8,7 +8,7 @@ import {
 /**
  * Returns appropriate fetch and parse methods for data type
  *
- * @param {*} type datatype (timetable, prereqs, etc.)
+ * @param {*} type datatype (timetable, orc)
  */
 // eslint-disable-next-line import/prefer-default-export
 export const getMethodsForType = (type) => {
