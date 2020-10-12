@@ -69,20 +69,22 @@ ${Object.keys(notableChanges).length > 0
 | Course | Field Name | Current Value | Proposed Value |
 |--------|------------|---------------|----------------|
 ${changeTable}` : '\x1B[F'}
-${diff.added.length > 0
-    ? `
+
 ## Additions
 
+${diff.added.length > 0
+    ? `\
 \`\`\`json
 ${`${additionText}${diff.added.length > 10 ? '\n...' : ''}`}
-\`\`\`` : '\x1B[F'}
-${diff.removed.length > 0
-    ? `
+\`\`\`` : '_No additions_'}
+
 ## Removals
 
+${diff.removed.length > 0
+    ? `\
 \`\`\`json
 ${`${removalText}${diff.removed.length > 10 ? ',\n...' : ''}`}
-\`\`\`` : '\x1B[F'}
+\`\`\`` : '_No additions_'}
 
 ## Reviewers
 
