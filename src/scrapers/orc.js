@@ -1,7 +1,7 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
 import XXHash from 'xxhash';
-import stringify from 'fast-json-stable-stringify';
+import stringify from 'json-stable-stringify';
 
 
 // * CONFIG
