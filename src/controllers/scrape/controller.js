@@ -17,6 +17,7 @@ dotenv.config();
 
 const whitelist = process.env.CHANGE_WHITELIST.split(',');
 
+
 const scrape = async (req, res) => {
   const { type } = req.query;
 
@@ -87,10 +88,7 @@ const scrape = async (req, res) => {
     }, true)
   );
 
-  const branch = eligible ? 'master' : type;
-
-  console.log(await hasActivePr('timetable'));
-  createPr('timetable', changes, whitelist, currData, nextData);
+  const branch = eligible ? 'master' : `${type}_${new Date().getTime()}`;
 
   // update repo
   await update(
@@ -104,7 +102,11 @@ const scrape = async (req, res) => {
       console.error(`Failed to update repository (${err.message})`);
     });
 
-  console.log(`Changes detected and pushed for ${type}`);
+  if (branch !== 'master') {
+    createPr(branch, changes, whitelist, currData, nextData);
+  }
+
+  return console.log(`Changes detected and pushed for ${type}`);
 };
 
 const ScrapeController = {

@@ -54,11 +54,11 @@ export const createPr = async (branch, diff, whitelist, prev, next) => {
   }).join(',\n');
 
   const res = await axios.post(`${GH_API_ROOT}/repos/d-planner/data/pulls`, {
-    title: `Unconfirmed Changes in ${branch}`,
+    title: `Unconfirmed Changes (${branch})`,
     head: branch,
     base: 'master',
     body: `\
-# Unconfirmed changes in ${branch}
+# Unconfirmed changes (${branch})
 
 D-Planner/scraper has found changes in ${branch} that are _not_ whitelisted (see below). Please review these before merging. If you think these changes should have been automatically merged, please add them to the whitelist (\`CHANGE_WHITELIST\` environment variable).
 ${Object.keys(notableChanges).length > 0
