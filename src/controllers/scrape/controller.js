@@ -52,10 +52,7 @@ const scrape = async (req, res) => {
 
   // check for changes, return early if none
   if (versions.current[type]?.hash === hash) {
-    if (!res.headersSent) {
-      return res.send({ msg: `No changes detected for ${type}` });
-    } else {
-      return res.end(`No changes detected for ${type}`);
+    return console.log(`No changes detected for ${type}`);
     }
   }
 
