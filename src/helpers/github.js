@@ -62,13 +62,14 @@ export const createPr = async (branch, diff, whitelist, prev, next) => {
 # Unconfirmed changes (${branch})
 
 D-Planner/scraper has found changes in ${branch} that are _not_ whitelisted (see below). Please review these before merging. If you think these changes should have been automatically merged, please add them to the whitelist (\`CHANGE_WHITELIST\` environment variable).
-${Object.keys(notableChanges).length > 0
-    ? `
+
 ## Changes
 
+${Object.keys(notableChanges).length > 0
+    ? `\
 | Course | Field Name | Current Value | Proposed Value |
 |--------|------------|---------------|----------------|
-${changeTable}` : '\x1B[F'}
+${changeTable}` : '_No changes_'}
 
 ## Additions
 
@@ -84,7 +85,7 @@ ${diff.removed.length > 0
     ? `\
 \`\`\`json
 ${`${removalText}${diff.removed.length > 10 ? ',\n...' : ''}`}
-\`\`\`` : '_No additions_'}
+\`\`\`` : '_No removals_'}
 
 ## Reviewers
 
