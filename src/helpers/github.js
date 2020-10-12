@@ -73,7 +73,7 @@ ${diff.added.length > 0
 ## Additions
 
 \`\`\`json
-${`${additionText}${diff.added.length > 10 ? '\n\n...' : ''}`}
+${`${additionText}${diff.added.length > 10 ? '\n...' : ''}`}
 \`\`\`` : '\x1B[F'}
 ${diff.removed.length > 0
     ? `

@@ -9,7 +9,6 @@ import {
 } from '../../helpers/data';
 import diff from '../../helpers/diff';
 import {
-  hasActivePr,
   createPr,
 } from '../../helpers/github';
 
