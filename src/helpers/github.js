@@ -1,5 +1,6 @@
 import axios from 'axios';
 import dotenv from 'dotenv';
+import stringify from 'json-stable-stringify';
 
 dotenv.config();
 
@@ -46,11 +47,11 @@ export const createPr = async (branch, diff, whitelist, prev, next) => {
   }).join('\n');
 
   const additionText = diff.added.slice(0, 5).map((id) => {
-    return JSON.stringify(next[id], null, 2);
+    return stringify(next[id], { space: 2 });
   }).join(',\n');
 
   const removalText = diff.removed.slice(0, 5).map((id) => {
-    return JSON.stringify(prev[id], null, 2);
+    return stringify(prev[id], { space: 2 });
   }).join(',\n');
 
   const res = await axios.post(`${GH_API_ROOT}/repos/d-planner/data/pulls`, {

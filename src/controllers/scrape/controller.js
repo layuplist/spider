@@ -1,6 +1,6 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
-import stringify from 'fast-json-stable-stringify';
+import stringify from 'json-stable-stringify';
 
 import { getMethodsForType } from './helpers';
 import {
@@ -63,7 +63,7 @@ const scrape = async (req, res) => {
   const nextData = parse(data);
   fs.writeFileSync(
     `/tmp/${type}_${hash}.json`,
-    stringify(nextData, null, 2),
+    stringify(nextData, { space: 2 }),
   );
 
   // get current parsed data from repo

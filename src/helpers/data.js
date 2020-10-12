@@ -3,7 +3,7 @@ import http from 'isomorphic-git/http/node';
 import fs from 'fs';
 import dotenv from 'dotenv';
 import rimraf from 'rimraf';
-import stringify from 'fast-json-stable-stringify';
+import stringify from 'json-stable-stringify';
 
 dotenv.config();
 
@@ -56,7 +56,7 @@ const update = async (target, sourceType, hash, msg, branch) => {
     timestamp: new Date().toISOString(),
     hash,
   };
-  fs.writeFileSync(`${LOCAL_DIR}/versions.json`, stringify(versions, null, 2));
+  fs.writeFileSync(`${LOCAL_DIR}/versions.json`, stringify(versions, { space: 2 }));
 
   // * add files to commit
 
