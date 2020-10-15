@@ -71,17 +71,11 @@ const scrape = async (req, res) => {
   const changes = diff(currData, nextData);
 
   // check if eligible for direct commit to master
-  const eligible = (Object.keys(changes.added).length === 0 && Object.keys(changes.removed).length === 0) && (
-    Object.entries(changes.changed).reduce((valid, [k, v]) => {
-      if (v.reduce((whitelisted, val) => {
-        return whitelisted && whitelist.includes(`${type}_${val}`);
-      }, true)) {
-        return valid;
-      } else {
-        return false;
-      }
-    }, true)
-  );
+  const eligible = Object.values(changes.changed).reduce((whitelisted, item) => {
+    return whitelisted && item.changed.reduce((valid, field) => {
+      return valid && whitelist.includes(`${type}_${field}`);
+    }, true);
+  }, true);
 
   const branch = eligible ? 'master' : `${type}_${new Date().getTime()}`;
 
