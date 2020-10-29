@@ -71,7 +71,7 @@ const scrape = async (req, res) => {
   const changes = diff(currData, nextData);
 
   // check if eligible for direct commit to master
-  const eligible = Object.values(changes.changed).reduce((whitelisted, item) => {
+  const eligible = changes.removed.length === 0 && Object.values(changes.changed).reduce((whitelisted, item) => {
     return whitelisted && item.changed.reduce((valid, field) => {
       return valid && whitelist.includes(`${type}_${field}`);
     }, true);
