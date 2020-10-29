@@ -103,7 +103,7 @@ const parse = (source) => {
       }
     });
 
-    courses[course.CRN] = course;
+    courses[`${course.Term}-${course.Subj}-${course.Num}-${course.Sec}`] = course;
   });
 
   // return course data
