@@ -29,7 +29,7 @@ const loadCurrent = async () => {
   });
 };
 
-const update = async (target, sourceType, hash, msg, branch) => {
+const update = async (target, sourceType, hash, ids, msg, branch) => {
   // * update local
 
   // if branch other than master, checkout
@@ -48,13 +48,11 @@ const update = async (target, sourceType, hash, msg, branch) => {
   // update versions file
   const versions = JSON.parse(fs.readFileSync(`${LOCAL_DIR}/versions.json`));
   if (!versions.archive[sourceType]) versions.archive[sourceType] = [];
-  versions.archive[sourceType].push({
-    timestamp: versions.current[sourceType]?.timestamp,
-    hash: versions.current[sourceType]?.hash,
-  });
+  versions.archive[sourceType].push(versions.current[sourceType]);
   versions.current[sourceType] = {
     timestamp: new Date().toISOString(),
     hash,
+    changed: ids,
   };
   fs.writeFileSync(`${LOCAL_DIR}/versions.json`, stringify(versions, { space: 2 }));
 

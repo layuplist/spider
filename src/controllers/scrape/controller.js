@@ -79,11 +79,15 @@ const scrape = async (req, res) => {
 
   const branch = eligible ? 'master' : `${type}_${new Date().getTime()}`;
 
+  // generate list of ids of all updated courses
+  const ids = [...changes.added, changes.removed, Object.keys(changes.changed)];
+
   // update repo
   await update(
     `current/${type}.json`,
     type,
     hash,
+    ids,
     `update in ${type} (${new Date().toISOString()})`,
     branch,
   )

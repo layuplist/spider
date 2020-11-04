@@ -93,7 +93,7 @@ const parseCourse = (source) => {
 
 const parse = (source) => {
   return source.reduce((data, course) => {
-    data[`${course.subj} ${course.num}`] = {
+    data[`${course.subj}-${course.num}`] = {
       subj: course.subj,
       num: course.num,
       ...course.data,
