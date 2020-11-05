@@ -138,10 +138,7 @@ const supplementURLScrape = (source) => {
   // get courses
   const courses = [];
   listings.each((listingIndex, listingEl) => {
-    const info = data(listingEl).find('a').first().text()
-      .split(' ');
-
-    const [courseSubj, courseNum] = info;
+    const [, courseSubj, courseNum] = /^([A-Z]+)\s([^\s]+)/.exec(data(listingEl).find('a').first().text()) || ['', '', ''];
     const courseURL = data(listingEl).find('a').first().attr('href');
 
     courses[listingIndex] = {
