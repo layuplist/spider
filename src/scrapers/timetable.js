@@ -104,7 +104,7 @@ const parse = (source) => {
       }
     });
 
-    courses[`${course.Term}-${course.Subj}-${course.Num}-${course.Sec}`] = course;
+    courses[`${course.term}-${course.subject}-${course.number}-${course.section}`] = course;
   });
 
   // return course data
