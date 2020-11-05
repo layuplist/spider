@@ -143,7 +143,7 @@ const supplementURLScrape = (source) => {
 
     courses[listingIndex] = {
       subject: courseSubj,
-      number: courseNum,
+      number: Number(courseNum),
       url: `${rootURL}${courseURL}`,
     };
   });
@@ -193,7 +193,7 @@ const crawlURLs = async (source, courses = []) => {
 
       courses.push({
         subject,
-        number,
+        number: Number(number),
         url: `${rootURL}${child.url}`,
       });
     }

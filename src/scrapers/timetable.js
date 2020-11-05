@@ -96,6 +96,8 @@ const parse = (source) => {
         // set props
         course.title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
         course.deliveryMode = courseDeliveryMode;
+      } else if (headers[columnIndex] === 'Num') {
+        course.number = Number(data(columnEl).text().trim());
       } else {
         const value = data(columnEl).text().trim();
         course[timetablePropertyMap[headers[columnIndex]]] = (
