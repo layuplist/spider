@@ -60,7 +60,7 @@ const parseCourse = (source) => {
 
   sections.each((_sectionIndex, sectionEl) => {
     const sectionName = data(sectionEl).text().trim();
-    let sectionData = String();
+    let sectionData = '';
 
     // read data up till next section
     let currEl = sectionEl;
@@ -139,7 +139,7 @@ const supplementURLScrape = (source) => {
   const courses = [];
   listings.each((listingIndex, listingEl) => {
     const info = data(listingEl).find('a').first().text()
-      .split('&nbsp;');
+      .split(' ');
 
     const [courseSubj, courseNum] = info;
     const courseURL = data(listingEl).find('a').first().attr('href');
@@ -147,7 +147,7 @@ const supplementURLScrape = (source) => {
     courses[listingIndex] = {
       subj: courseSubj,
       num: courseNum,
-      url: courseURL,
+      url: `${rootURL}${courseURL}`,
     };
   });
 
