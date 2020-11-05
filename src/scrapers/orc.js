@@ -93,9 +93,9 @@ const parseCourse = (source) => {
 
 const parse = (source) => {
   return source.reduce((data, course) => {
-    data[`${course.subj}-${course.num}`] = {
-      subj: course.subj,
-      num: course.num,
+    data[`${course.subject}-${course.number}`] = {
+      subject: course.subject,
+      number: course.number,
       ...course.data,
     };
 
@@ -142,8 +142,8 @@ const supplementURLScrape = (source) => {
     const courseURL = data(listingEl).find('a').first().attr('href');
 
     courses[listingIndex] = {
-      subj: courseSubj,
-      num: courseNum,
+      subject: courseSubj,
+      number: courseNum,
       url: `${rootURL}${courseURL}`,
     };
   });
@@ -189,11 +189,11 @@ const crawlURLs = async (source, courses = []) => {
     }
 
     if (child.isCourse) {
-      const [subj, num] = child.text.split(' ');
+      const [subject, number] = child.text.split(' ');
 
       courses.push({
-        subj,
-        num,
+        subject,
+        number,
         url: `${rootURL}${child.url}`,
       });
     }
@@ -210,7 +210,7 @@ const fetchCourses = async (courses, res) => {
     .map(async (c) => {
       const res = await axios.get(c.url, { timeout: 3500 })
         .catch((err) => {
-          console.error(`Failed to fetch ${c.subj} ${c.num} (${err.message})`);
+          console.error(`Failed to fetch ${c.subject} ${c.number} (${err.message})`);
         });
 
       if (!c.attempts) c.attempts = 0;
@@ -220,7 +220,7 @@ const fetchCourses = async (courses, res) => {
       if (res) {
         c.data = parseCourse(res.data);
         c.success = true;
-        console.log(`Successfully fetched ${c.subj} ${c.num}`);
+        console.log(`Successfully fetched ${c.subject} ${c.number}`);
       }
     }));
 
@@ -250,7 +250,7 @@ const fetch = async (res) => {
   const hash = XXHash.hash64(Buffer.from(stringify(data)), Buffer.from('DPLANNER'), 'hex');
 
   data.sort((a, b) => {
-    return `${a.subj}${a.num}` < `${b.subj}${b.num}`
+    return `${a.subject}${a.number}` < `${b.subject}${b.number}`
       ? -1
       : 1;
   });
