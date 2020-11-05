@@ -218,7 +218,7 @@ const fetchCourses = async (courses, res) => {
 
       if (!c.attempts) c.attempts = 0;
       c.attempts += 1;
-      if (c.attempts === 1) c.skip = true;
+      if (c.attempts === 3) c.skip = true;
 
       if (res) {
         c.data = parseCourse(res.data);
