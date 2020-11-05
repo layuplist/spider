@@ -78,7 +78,7 @@ const parseCourse = (source) => {
         course.xlist = sectionData;
         break;
       case 'Distributive and/or World Culture':
-        course.distrib = sectionData;
+        course.distribs = sectionData;
         break;
       case 'Offered':
         course.offered = sectionData;

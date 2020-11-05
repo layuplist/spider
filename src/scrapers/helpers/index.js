@@ -2,7 +2,7 @@
 export const timetablePropertyMap = {
   Building: 'building',
   Description: 'description',
-  Dist: 'distrib',
+  Dist: 'distribs',
   Enrl: 'enrollment',
   FYS: 'fys',
   Instructor: 'instructor',
