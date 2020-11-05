@@ -3,6 +3,7 @@ import cheerio from 'cheerio';
 import XXHash from 'xxhash';
 import qs from 'querystring';
 
+import { timetablePropertyMap } from './helpers';
 
 // * CONFIG
 
@@ -86,18 +87,18 @@ const parse = (source) => {
       // check for course link (special field)
       if (headers[columnIndex] === 'Title and Delivery Mode') {
         // get desc link
-        [, course.Description] = data(columnEl).find('a').first().attr('href')
+        [, course.description] = data(columnEl).find('a').first().attr('href')
           .split('\'');
 
         // parse title
         const [, courseTitle, courseDeliveryMode, courseTitleAddendum] = titleRegex.exec(data(columnEl).text().trim());
 
         // set props
-        course.Title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
-        course.DeliveryMode = courseDeliveryMode;
+        course.title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
+        course.deliveryMode = courseDeliveryMode;
       } else {
         const value = data(columnEl).text().trim();
-        course[headers[columnIndex]] = (
+        course[timetablePropertyMap[headers[columnIndex]]] = (
           value.length === 0 ? null : value
         );
       }
