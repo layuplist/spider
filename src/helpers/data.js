@@ -52,7 +52,7 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
   versions.current[sourceType] = {
     timestamp: new Date().toISOString(),
     hash,
-    changed: ids,
+    changed: ','.join(ids),
   };
   fs.writeFileSync(`${LOCAL_DIR}/versions.json`, stringify(versions, { space: 2 }));
 
