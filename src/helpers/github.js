@@ -26,7 +26,7 @@ export const hasActivePr = async (branch) => {
 };
 
 export const createPr = async (branch, diff, whitelist, prev, next) => {
-  const notableChanges = Object.entries(diff.changed).reduce((changes, [course, courseChanges]) => {
+  const notableChanges = Object.entries(Object.entries(diff.changed).reduce((changes, [course, courseChanges]) => {
     const values = Array.from(Object.entries(courseChanges).reduce((all, [, val]) => {
       return new Set([...all, ...val]);
     }, new Set()));
@@ -38,13 +38,14 @@ export const createPr = async (branch, diff, whitelist, prev, next) => {
     }
 
     return changes;
-  }, {});
+  }, {}));
 
-  const changeTable = Object.entries(notableChanges).map(([id, changes]) => {
+  let changeTable = notableChanges.slice(0, 100).map(([id, changes]) => {
     return changes.map((field, index) => {
       return `| ${index === 0 ? id : ' '} | ${field} | ${prev[id][field]} | ${next[id][field]} |`;
     }).join('\n');
   }).join('\n');
+  if (notableChanges.length > 100) changeTable += `\n| (${notableChanges.length - 100} more) | | | |`;
 
   const additionText = diff.added.slice(0, 5).map((id) => {
     return stringify(next[id], { space: 2 });
@@ -98,7 +99,7 @@ ${`${removalText}${diff.removed.length > 10 ? ',\n...' : ''}`}
     },
   })
     .catch((err) => {
-      console.error(`Failed to create PR for data/${branch} (${err.message})`, err);
+      console.error(`Failed to create PR for data/${branch} (${err.message})\n`, err.response.data);
     });
 
   if (res) {
