@@ -1,6 +1,7 @@
 // eslint-disable-next-line import/prefer-default-export
 export const timetablePropertyMap = {
   Building: 'building',
+  CRN: 'crn',
   Description: 'description',
   Dist: 'distribs',
   Enrl: 'enrollment',

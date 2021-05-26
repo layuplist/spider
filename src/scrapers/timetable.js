@@ -7,9 +7,9 @@ import { timetablePropertyMap } from './helpers';
 
 // * CONFIG
 
-const timetableURL = 'https://oracle-www.dartmouth.edu/dart/groucho/timetable.display_courses';
+const TIMETABLE_URL = 'https://oracle-www.dartmouth.edu/dart/groucho/timetable.display_courses';
 
-const timetableParams = {
+const TIMETABLE_PARAMS = {
   distribradio: 'alldistribs',
   depts: 'no_value',
   periods: 'no_value',
@@ -35,20 +35,21 @@ const timetableParams = {
   sortorder: 'dept',
 };
 
-const timetableConfig = {
+const TIMETABLE_CONFIG = {
   headers: {
     'Content-Type': 'application/x-www-form-urlencoded',
   },
 };
 
 // eslint-disable-next-line no-useless-escape
-const titleRegex = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(\(.*\))?$/i;
+const TITLE_REGEX = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(\(.*\))?$/i;
+const TEXT_REGEX = /^javascript:reqmat_window\('([^']+)'\)$/m;
 
 
 // * FETCH
 
 const fetch = async (_res) => {
-  const res = await axios.post(timetableURL, qs.stringify(timetableParams), timetableConfig);
+  const res = await axios.post(TIMETABLE_URL, qs.stringify(TIMETABLE_PARAMS), TIMETABLE_CONFIG);
 
   if (res) {
     const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
@@ -91,13 +92,17 @@ const parse = (source) => {
           .split('\'');
 
         // parse title
-        const [, courseTitle, courseDeliveryMode, courseTitleAddendum] = titleRegex.exec(data(columnEl).text().trim());
+        const [, courseTitle, courseDeliveryMode, courseTitleAddendum] = TITLE_REGEX.exec(data(columnEl).text().trim());
 
         // set props
         course.title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
         course.deliveryMode = courseDeliveryMode;
       } else if (headers[columnIndex] === 'Num') {
         course.number = Number(data(columnEl).text().trim());
+      } else if (headers[columnIndex] === 'Text') {
+        const textHref = data(columnEl).find('a').first().attr('href');
+        const [, textUrl] = TEXT_REGEX.exec(textHref);
+        course.text = textUrl;
       } else {
         const value = data(columnEl).text().trim();
         course[timetablePropertyMap[headers[columnIndex]]] = (
