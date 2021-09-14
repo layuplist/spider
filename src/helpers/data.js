@@ -21,6 +21,7 @@ const loadCurrent = async () => {
     dir: LOCAL_DIR,
     url: DATA_REPOSITORY_URL,
     depth: 1,
+    singleBranch: true,
     onAuth: () => {
       return ({
         username: process.env.GH_TOKEN,

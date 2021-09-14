@@ -17,7 +17,7 @@ dotenv.config();
 const whitelist = process.env.CHANGE_WHITELIST.split(',');
 
 const scrape = async (req, res) => {
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, initial`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, initial`);
 
   const { type } = req.query;
 
@@ -34,7 +34,7 @@ const scrape = async (req, res) => {
       return res.status(500).send({ err: 'Failed to load repo' });
     });
 
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, after loading data repository`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, after loading data repository`);
 
   // get appropriate  methods
   const { fetch, parse } = getMethodsForType(type);
@@ -48,14 +48,14 @@ const scrape = async (req, res) => {
       return console.error(`Error fetching ${type}`, err.stack);
     });
 
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, after fetching current timetable data`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, after fetching current timetable data`);
 
   // load versions file
   const versions = JSON.parse(
     fs.readFileSync('/tmp/data/versions.json'),
   );
 
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, after loading versions file into memory`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, after loading versions file into memory`);
 
   // check for changes, return early if none
   if (versions.current[type]?.hash === hash) {
@@ -74,12 +74,12 @@ const scrape = async (req, res) => {
     fs.readFileSync(`/tmp/data/current/${type}.json`),
   );
 
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, after loading previous timetable data`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, after loading previous timetable data`);
 
   // run diff to determine changes
   const changes = diff(currData, nextData);
 
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, after running diff`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, after running diff`);
 
   // check if eligible for direct commit to master
   const eligible = changes.removed.length === 0 && Object.values(changes.changed).reduce((whitelisted, item) => {
@@ -88,7 +88,7 @@ const scrape = async (req, res) => {
     }, true);
   }, true);
 
-  console.info(`[MEMORY USAGE] ${process.memoryUsage().heapTotal}, after checking changes against whitelist`);
+  console.info(`[MEMORY USAGE] ${process.memoryUsage().rss}, after checking changes against whitelist`);
 
   const branch = eligible ? 'master' : `${type}_${new Date().getTime()}`;
 
