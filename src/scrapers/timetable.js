@@ -86,7 +86,7 @@ const parse = (source) => {
     // get properties
     data(courseEl).find('td').each((columnIndex, columnEl) => {
       // check for course link (special field)
-      if (headers[columnIndex] === 'Title and Delivery Mode') {
+      if (headers[columnIndex] === 'Title') {
         // get desc link
         [, course.description] = data(columnEl).find('a').first().attr('href')
           .split('\'');
