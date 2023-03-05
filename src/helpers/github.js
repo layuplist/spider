@@ -26,19 +26,20 @@ export const hasActivePr = async (branch) => {
 };
 
 export const createPr = async (branch, diff, whitelist, prev, next) => {
-  const notableChanges = Object.entries(Object.entries(diff.changed).reduce((changes, [course, courseChanges]) => {
-    const values = Array.from(Object.entries(courseChanges).reduce((all, [, val]) => {
-      return new Set([...all, ...val]);
-    }, new Set()));
+  const notableChanges = Object.entries(Object.entries(diff.changed)
+    .reduce((changes, [course, courseChanges]) => {
+      const values = Array.from(Object.entries(courseChanges).reduce((all, [, val]) => {
+        return new Set([...all, ...val]);
+      }, new Set()));
 
-    if (values.reduce((notable, field) => {
-      return notable || !whitelist.includes(`${branch}_${field}`);
-    }, false)) {
-      changes[course] = values;
-    }
+      if (values.reduce((notable, field) => {
+        return notable || !whitelist.includes(`${branch}_${field}`);
+      }, false)) {
+        changes[course] = values;
+      }
 
-    return changes;
-  }, {}));
+      return changes;
+    }, {}));
 
   let changeTable = notableChanges.slice(0, 100).map(([id, changes]) => {
     return changes.map((field, index) => {
@@ -62,7 +63,9 @@ export const createPr = async (branch, diff, whitelist, prev, next) => {
     body: `\
 # Unconfirmed changes (${branch})
 
-D-Planner/scraper has found changes in ${branch} that are _not_ whitelisted (see below). Please review these before merging. If you think these changes should have been automatically merged, please add them to the whitelist (\`CHANGE_WHITELIST\` environment variable).
+D-Planner/scraper has found changes in ${branch} that are _not_ whitelisted (see below). \
+Please review these before merging. If you think these changes should have been automatically \
+merged, please add them to the whitelist (\`CHANGE_WHITELIST\` environment variable).
 
 ## Changes
 

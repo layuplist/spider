@@ -35,6 +35,8 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
 
   // if branch other than master, checkout
   if (branch !== 'master') {
+    // if there is an existing PR, use that branch instead
+
     await git.branch({
       fs,
       dir: LOCAL_DIR,
