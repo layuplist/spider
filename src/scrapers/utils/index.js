@@ -22,4 +22,5 @@ export const timetablePropertyMap = {
   Title: 'title',
   WC: 'wc',
   Xlist: 'xlist',
+  'Lang Req': 'languageRequirement',
 };

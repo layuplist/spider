@@ -3,7 +3,7 @@ import cheerio from 'cheerio';
 import XXHash from 'xxhash';
 import qs from 'querystring';
 
-import { timetablePropertyMap } from './helpers';
+import { timetablePropertyMap } from './utils';
 
 // * CONFIG
 
@@ -16,6 +16,7 @@ const TIMETABLE_PARAMS = {
   distribs: 'no_value',
   distribs_i: 'no_value',
   distribs_wc: 'no_value',
+  distribs_lang: 'no_value',
   deliverymodes: 'no_value',
   pmode: 'public',
   term: '',
@@ -29,7 +30,7 @@ const TIMETABLE_PARAMS = {
   searchtype: 'Subject Area(s)',
   termradio: 'allterms',
   terms: 'no_value',
-  deliveryradio: 'selectdelivery',
+  deliveryradio: 'alldelivery',
   subjectradio: 'allsubjects',
   hoursradio: 'allhours',
   sortorder: 'dept',
@@ -42,15 +43,13 @@ const TIMETABLE_CONFIG = {
 };
 
 // eslint-disable-next-line no-useless-escape
-const TITLE_REGEX = /(.*?)(?:\s\(((?:Remote|On Campus|Individualized)[^\)]*)\))?(\(.*\))?$/i;
 const TEXT_REGEX = /^javascript:reqmat_window\('([^']+)'\)$/m;
-
 
 // * FETCH
 
 const fetch = async (_res) => {
   const res = await axios.post(TIMETABLE_URL, qs.stringify(TIMETABLE_PARAMS), TIMETABLE_CONFIG);
-
+  console.log(res);
   if (res) {
     const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
@@ -90,13 +89,8 @@ const parse = (source) => {
         // get desc link
         [, course.description] = data(columnEl).find('a').first().attr('href')
           .split('\'');
-
         // parse title
-        const [, courseTitle, courseDeliveryMode, courseTitleAddendum] = TITLE_REGEX.exec(data(columnEl).text().trim());
-
-        // set props
-        course.title = courseTitle + (courseTitleAddendum ? ` ${courseTitleAddendum}` : '');
-        course.deliveryMode = courseDeliveryMode;
+        course.title = data(columnEl).text().trim();
       } else if (headers[columnIndex] === 'Num') {
         course.number = Number(data(columnEl).text().trim());
       } else if (headers[columnIndex] === 'Text') {
@@ -111,7 +105,7 @@ const parse = (source) => {
       }
     });
 
-    courses[`${course.term}-${course.subject}-${course.number}-${course.section}`] = course;
+    courses[`${course.subject}-${course.number}-${course.term}-${course.section}`] = course;
   });
 
   // return course data

@@ -30,18 +30,11 @@ const compare = (a, b) => {
   });
 
   // return all additions, deletions, and changes
-  const result = {};
-  if (added.length > 0) {
-    result.added = added;
-  }
-  if (removed.length > 0) {
-    result.removed = removed;
-  }
-  if (changed.length > 0) {
-    result.changed = changed;
-  }
-
-  return result;
+  return {
+    added,
+    removed,
+    changed,
+  };
 };
 
 /**

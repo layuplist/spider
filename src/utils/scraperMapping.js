@@ -3,7 +3,7 @@ import {
   timetableParse,
   orcFetch,
   orcParse,
-} from '../../../scrapers';
+} from '../scrapers';
 
 /**
  * Returns appropriate fetch and parse methods for data type
