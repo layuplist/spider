@@ -1,9 +1,9 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
-import XXHash from 'xxhash';
+import { hash64 } from 'xxhash';
 import qs from 'querystring';
 
-import { timetablePropertyMap } from './utils';
+import { timetablePropertyMap } from './utils/index';
 
 // * CONFIG
 
@@ -51,7 +51,7 @@ const fetch = async (_res) => {
   const res = await axios.post(TIMETABLE_URL, qs.stringify(TIMETABLE_PARAMS), TIMETABLE_CONFIG);
   console.log(res);
   if (res) {
-    const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+    const hash = hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
     return {
       hash,

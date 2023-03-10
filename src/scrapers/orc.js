@@ -1,6 +1,6 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
-import XXHash from 'xxhash';
+import { hash64 } from 'xxhash';
 import stringify from 'json-stable-stringify';
 
 
@@ -116,7 +116,7 @@ const supplementURLFetch = async (year) => {
 
   if (res) {
     // generate hash
-    const hash = XXHash.hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+    const hash = hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
 
     // return hash * data
     return {
