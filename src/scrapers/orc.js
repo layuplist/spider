@@ -1,8 +1,7 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
-import { hash64 } from 'xxhash';
+import { createHmac } from 'crypto';
 import stringify from 'json-stable-stringify';
-
 
 // * CONFIG
 
@@ -116,7 +115,9 @@ const supplementURLFetch = async (year) => {
 
   if (res) {
     // generate hash
-    const hash = hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+    const hash = createHmac('sha256', 'layuplist')
+      .update(res.data)
+      .digest('hex');
 
     // return hash * data
     return {
@@ -247,7 +248,9 @@ const fetch = async (res) => {
   if (supplementData) courses.push(...supplementURLScrape(supplementData.data));
 
   const data = await fetchCourses(courses, res);
-  const hash = XXHash.hash64(Buffer.from(stringify(data)), Buffer.from('DPLANNER'), 'hex');
+  const hash = createHmac('sha256', 'layuplist')
+    .update(res.data)
+    .digest('hex');
 
   data.sort((a, b) => {
     return `${a.subject}${a.number}` < `${b.subject}${b.number}`

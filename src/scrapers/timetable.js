@@ -1,6 +1,6 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
-import { hash64 } from 'xxhash';
+import { createHmac } from 'crypto';
 import qs from 'querystring';
 
 import { timetablePropertyMap } from './utils/index';
@@ -51,7 +51,9 @@ const fetch = async (_res) => {
   const res = await axios.post(TIMETABLE_URL, qs.stringify(TIMETABLE_PARAMS), TIMETABLE_CONFIG);
   console.log(res);
   if (res) {
-    const hash = hash64(Buffer.from(res.data), Buffer.from('DPLANNER'), 'hex');
+    const hash = createHmac('sha256', 'layuplist')
+      .update(res.data)
+      .digest('hex');
 
     return {
       hash,
@@ -61,7 +63,6 @@ const fetch = async (_res) => {
     return null;
   }
 };
-
 
 // * PARSE
 
