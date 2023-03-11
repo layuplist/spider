@@ -1,6 +1,8 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
 import stringify from 'json-stable-stringify';
+import serverless from 'serverless-http';
+import express from 'express';
 
 import { getMethodsForType } from './utils/scraperMapping';
 import {
@@ -14,8 +16,8 @@ import {
 
 dotenv.config();
 
-export default async (req, res) => {
-  const { type } = req.query;
+const process = async (req, res) => {
+  const { type } = JSON.parse(req.body);
 
   // verify eligible type
   if (!['timetable', 'orc'].includes(type)) {
@@ -144,3 +146,9 @@ export default async (req, res) => {
 
   return console.log(`Changes detected and pushed for ${type}`);
 };
+
+const app = express();
+app.use(express.json());
+app.get('/', process);
+
+export default serverless(app);
