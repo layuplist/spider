@@ -16,7 +16,7 @@ import {
 
 dotenv.config();
 
-const process = async (req, res) => {
+const handler = async (req, res) => {
   const { type } = JSON.parse(req.body);
 
   // verify eligible type
@@ -30,7 +30,6 @@ const process = async (req, res) => {
   await loadCurrent()
     .catch((err) => {
       console.error(err.stack);
-
       return res.status(500).send({ err: 'Failed to load repo' });
     });
 
@@ -39,13 +38,11 @@ const process = async (req, res) => {
   // get appropriate  methods
   const { fetch, parse } = getMethodsForType(type);
 
-  // send response
-  res.send({ msg: 'Task started and current data loaded successfully. See server logs for task result.' });
-
   // get raw data
   const { hash, data } = await fetch(res)
     .catch((err) => {
-      return console.error(`Error fetching ${type}`, err.stack);
+      console.error(err.stack);
+      return res.status(500).send({ err: `Error fetching ${type}: ${err.stack}` });
     });
 
   console.info('Completed new scrape');
@@ -57,7 +54,7 @@ const process = async (req, res) => {
 
   // check for changes, return early if none
   if (versions.current[type]?.hash === hash) {
-    return console.info(`No changes detected for ${type}`);
+    return res.send({ msg: `No changes detected for ${type}` });
   }
 
   console.info('Hash changed, comparing content.');
@@ -144,11 +141,11 @@ const process = async (req, res) => {
     createPr(branch, approvalsNeeded);
   }
 
-  return console.log(`Changes detected and pushed for ${type}`);
+  return res.send({ msg: `Changes detected and pushed for ${type}` });
 };
 
 const app = express();
 app.use(express.json());
-app.get('/', process);
+app.get('/', handler);
 
 export default serverless(app);
