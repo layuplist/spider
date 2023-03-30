@@ -27,13 +27,16 @@ const handler = async (req, res) => {
   console.info('Starting scrape', type);
 
   // load most recent data from repo
-  await loadCurrent()
+  const typeBranch = await loadCurrent(type)
     .catch((err) => {
       console.error(err.stack);
       return res.status(500).send({ err: 'Failed to load repo' });
     });
 
   console.info('Loaded current data');
+  if (typeBranch) {
+    console.info(`\texisting branch for type already exists, using ${typeBranch}`);
+  }
 
   // get appropriate  methods
   const { fetch, parse } = getMethodsForType(type);
@@ -119,7 +122,8 @@ const handler = async (req, res) => {
   const eligible = approvalsNeeded.length === 0;
   console.info('Approvals needed:', approvalsNeeded);
 
-  const branch = eligible ? 'master' : `${type}_${new Date().getTime()}`;
+  const branch = eligible ? 'master' : typeBranch || `${type}_${new Date().getTime()}`;
+  console.info(`Selected branch ${branch} based on approval requirements`);
 
   // generate list of ids of all updated courses
   const ids = [...changes.added, ...changes.removed, ...Object.keys(changes.changed)];

@@ -11,7 +11,7 @@ dotenv.config();
 const DATA_REPOSITORY_URL = 'https://github.com/D-Planner/data.git';
 const LOCAL_DIR = '/tmp/data';
 
-const loadCurrent = async () => {
+const loadCurrent = async (type) => {
   // clear /tmp/data
   rimraf.sync(LOCAL_DIR);
 
@@ -21,13 +21,21 @@ const loadCurrent = async () => {
     dir: LOCAL_DIR,
     url: DATA_REPOSITORY_URL,
     depth: 1,
-    singleBranch: true,
+    singleBranch: false,
     onAuth: () => {
       return ({
         username: process.env.GH_TOKEN,
       });
     },
   });
+
+  const branches = await git.listBranches({ fs, dir: LOCAL_DIR });
+  const typeBranch = branches.find((b) => { return b.startsWith(type); });
+  if (typeBranch) {
+    await git.checkout({ fs, dir: LOCAL_DIR, ref: typeBranch });
+  }
+
+  return typeBranch;
 };
 
 const update = async (target, sourceType, hash, ids, msg, branch) => {
@@ -35,8 +43,6 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
 
   // if branch other than master, checkout
   if (branch !== 'master') {
-    // if there is an existing PR, use that branch instead
-
     await git.branch({
       fs,
       dir: LOCAL_DIR,
