@@ -80,7 +80,7 @@ const handler = async (req, res) => {
 
   console.info('Compared content');
 
-  // check if eligible for direct commit to master
+  // check if eligible for direct commit to main
   const approvalsNeeded = [];
   const totalCourseCount = Object.keys(currData).length;
   console.info(totalCourseCount);
@@ -119,7 +119,7 @@ const handler = async (req, res) => {
     approvalsNeeded.push(`${addedRate * 100}% courses were added (> ${addedThreshold * 100}%)`)
   }
 
-  const branch = typeBranch || (approvalsNeeded.length > 0 ? `${type}_${new Date().getTime()}` : 'master');
+  const branch = typeBranch || (approvalsNeeded.length > 0 ? `${type}_${new Date().getTime()}` : 'main');
   console.info(`Selected branch ${branch} based on approval requirements`);
 
   // generate list of ids of all updated courses
@@ -138,7 +138,7 @@ const handler = async (req, res) => {
       console.error(`Failed to update repository (${err.message})`);
     });
 
-  if (branch !== 'master' && approvalsNeeded.length > 0) {
+  if (branch !== 'main' && approvalsNeeded.length > 0) {
     (typeBranch ? updatePr : createPr)(branch, approvalsNeeded);
   }
 

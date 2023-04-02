@@ -27,7 +27,7 @@ export const createPr = async (branch, approvalsNeeded) => {
   const res = await axios.post(`${GH_API_ROOT}/repos/d-planner/data/pulls`, {
     title: `Unconfirmed Changes (${branch})`,
     head: branch,
-    base: 'master',
+    base: 'main',
     body: `\
 # Unconfirmed Changes (${branch})
 
