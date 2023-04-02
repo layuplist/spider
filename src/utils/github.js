@@ -31,7 +31,7 @@ export const createPr = async (branch, approvalsNeeded) => {
     body: `\
 # Unconfirmed Changes (${branch})
 
-D-Planner/scraper has found changes in ${branch} that are require approval (see below) and cannot \
+D-Planner/scraper has found changes in ${branch} that require approval (see below) and cannot \
 be merged automatically. Please review these before merging. If you think these changes should \
 have been automatically merged, please adjust your approval thresholds in the environment).
 
@@ -42,7 +42,8 @@ ${approvalsNeeded.map((approval) => { return `- ${approval}`; }).join('\n')}
 
 - @D-Planner`,
     maintainer_can_modify: true,
-  }, {
+  },
+  {
     auth: {
       username: 'dplanner-dev',
       password: process.env.GH_TOKEN,
@@ -53,8 +54,41 @@ ${approvalsNeeded.map((approval) => { return `- ${approval}`; }).join('\n')}
     });
 
   if (res) {
+    console.info('Successfully created pull request');
     return res.statusCode === 201;
   } else {
+    console.error('Error creating pull request');
+    return null;
+  }
+};
+
+export const updatePr = async (branch, approvalsNeeded) => {
+  const { data: pulls } = await axios.get(`${GH_API_ROOT}/repos/d-planner/data/pulls`);
+  const pull = pulls.find((p) => {
+    return p.head.ref === branch && p.state === 'open';
+  });
+
+  if (!pull) {
+    return createPr(branch, approvalsNeeded);
+  }
+
+  const res = await axios.post(`${GH_API_ROOT}/repos/d-planner/data/issues/${pull.number}/comments`, {
+    body: `\
+Additional changes were found on this PR that require approval:
+${approvalsNeeded.map((approval) => { return `- ${approval}`; }).join('\n')}`,
+  },
+  {
+    auth: {
+      username: 'dplanner-dev',
+      password: process.env.GH_TOKEN,
+    },
+  });
+
+  if (res) {
+    console.info('Successfully commented on pull request');
+    return res.statusCode === 201;
+  } else {
+    console.error('Error commenting on pull request');
     return null;
   }
 };

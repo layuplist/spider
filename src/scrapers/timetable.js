@@ -49,19 +49,17 @@ const TEXT_REGEX = /^javascript:reqmat_window\('([^']+)'\)$/m;
 
 const fetch = async (_res) => {
   const res = await axios.post(TIMETABLE_URL, qs.stringify(TIMETABLE_PARAMS), TIMETABLE_CONFIG);
-  console.log(res);
-  if (res) {
-    const hash = createHmac('sha256', 'layuplist')
-      .update(res.data)
-      .digest('hex');
 
-    return {
-      hash,
-      data: res.data,
-    };
-  } else {
-    return null;
-  }
+  if (!res) return null;
+
+  const hash = createHmac('sha256', 'layuplist')
+    .update(res.data)
+    .digest('hex');
+
+  return {
+    hash,
+    data: res.data,
+  };
 };
 
 // * PARSE

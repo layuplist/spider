@@ -4,7 +4,7 @@
   "description": "Tools to scrape and analyze Dartmouth data.",
   "author": "Jai Smith <jaismith>",
   "main": "src/server.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "lint": "eslint src/**.js",
     "build": "node ./esbuild.mjs"

@@ -12,6 +12,7 @@ import {
 import diff from './utils/diff';
 import {
   createPr,
+  updatePr,
 } from './utils/github';
 
 dotenv.config();
@@ -96,14 +97,13 @@ const handler = async (req, res) => {
     .forEach((key) => {
       changesPerField[key] /= totalCourseCount;
     });
-  console.info(changesPerField);
   Object.entries(changesPerField).forEach(([field, rate]) => {
     const threshold = parseFloat(
       process.env[`CHANGES_${field.toUpperCase()}_APPROVAL_THRESHOLD`]
         || process.env.CHANGES_DEFAULT_APPROVAL_THRESHOLD,
     );
     if (rate > threshold) {
-      approvalsNeeded.push(`${field} has been changed in ${rate * 100}% of courses (> ${threshold * 100}%)`);
+      approvalsNeeded.push(`\`${field}\` has been changed in ${rate * 100}% of courses (> ${threshold * 100}%)`);
     }
   });
   // removals
@@ -118,11 +118,8 @@ const handler = async (req, res) => {
   if (addedRate > addedThreshold) {
     approvalsNeeded.push(`${addedRate * 100}% courses were added (> ${addedThreshold * 100}%)`)
   }
-  // overall eligibility for direct merge
-  const eligible = approvalsNeeded.length === 0;
-  console.info('Approvals needed:', approvalsNeeded);
 
-  const branch = eligible ? 'master' : typeBranch || `${type}_${new Date().getTime()}`;
+  const branch = typeBranch || (approvalsNeeded.length > 0 ? `${type}_${new Date().getTime()}` : 'master');
   console.info(`Selected branch ${branch} based on approval requirements`);
 
   // generate list of ids of all updated courses
@@ -141,8 +138,8 @@ const handler = async (req, res) => {
       console.error(`Failed to update repository (${err.message})`);
     });
 
-  if (branch !== 'master') {
-    createPr(branch, approvalsNeeded);
+  if (branch !== 'master' && approvalsNeeded.length > 0) {
+    (typeBranch ? updatePr : createPr)(branch, approvalsNeeded);
   }
 
   return res.send({ msg: `Changes detected and pushed for ${type}` });

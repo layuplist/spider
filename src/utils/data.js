@@ -20,8 +20,8 @@ const loadCurrent = async (type) => {
     http,
     dir: LOCAL_DIR,
     url: DATA_REPOSITORY_URL,
-    depth: 1,
     singleBranch: false,
+    depth: 1,
     onAuth: () => {
       return ({
         username: process.env.GH_TOKEN,
@@ -29,7 +29,7 @@ const loadCurrent = async (type) => {
     },
   });
 
-  const branches = await git.listBranches({ fs, dir: LOCAL_DIR });
+  const branches = await git.listBranches({ fs, dir: LOCAL_DIR, remote: 'origin' });
   const typeBranch = branches.find((b) => { return b.startsWith(type); });
   if (typeBranch) {
     await git.checkout({ fs, dir: LOCAL_DIR, ref: typeBranch });
@@ -41,15 +41,12 @@ const loadCurrent = async (type) => {
 const update = async (target, sourceType, hash, ids, msg, branch) => {
   // * update local
 
-  // if branch other than master, checkout
-  if (branch !== 'master') {
-    await git.branch({
-      fs,
-      dir: LOCAL_DIR,
-      ref: branch,
-      checkout: true,
-    });
-  }
+  // checkout target branch
+  await git.checkout({
+    fs,
+    dir: LOCAL_DIR,
+    ref: branch,
+  });
 
   // copy in new data
   fs.copyFileSync(`/tmp/${sourceType}_${hash}.json`, `${LOCAL_DIR}/${target}`);
@@ -90,6 +87,7 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
     },
     message: msg,
   });
+  console.info(`Committed changes ${sha}`);
 
   // * push to repo
 
@@ -106,6 +104,7 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
         });
       },
     });
+    console.info('Changes pushed to repo');
   }
 };
 
