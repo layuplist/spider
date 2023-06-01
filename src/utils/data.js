@@ -47,9 +47,11 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
     dir: LOCAL_DIR,
     ref: branch,
   });
+  console.info(`Checked out branch ${branch}`);
 
   // copy in new data
   fs.copyFileSync(`/tmp/${sourceType}_${hash}.json`, `${LOCAL_DIR}/${target}`);
+  console.info('Updated data file');
 
   // update versions file
   const versions = JSON.parse(fs.readFileSync(`${LOCAL_DIR}/versions.json`));
@@ -61,6 +63,7 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
     changed: ids.join(','),
   };
   fs.writeFileSync(`${LOCAL_DIR}/versions.json`, stringify(versions, { space: 2 }));
+  console.info('Updated versions file');
 
   // * add files to commit
 
@@ -69,12 +72,12 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
     dir: LOCAL_DIR,
     filepath: target,
   });
-
   await git.add({
     fs,
     dir: LOCAL_DIR,
     filepath: 'versions.json',
   });
+  console.info('Staged changes');
 
   // * commit
 
