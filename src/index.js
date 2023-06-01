@@ -139,7 +139,7 @@ const handler = async (req, res) => {
     });
 
   if (branch !== 'main') {
-    (typeBranch ? updatePr : createPr)(branch, approvalsNeeded);
+    await (typeBranch ? updatePr : createPr)(branch, approvalsNeeded);
   }
 
   return res.send({ msg: `Changes detected and pushed for ${type}` });
