@@ -24,6 +24,7 @@ export const hasActivePr = async (branch) => {
 };
 
 export const createPr = async (branch, approvalsNeeded) => {
+  console.info(`Creating new PR with branch ${branch} and required approvals ${approvalsNeeded}`);
   const res = await axios.post(`${GH_API_ROOT}/repos/d-planner/data/pulls`, {
     title: `Unconfirmed Changes (${branch})`,
     head: branch,
@@ -69,8 +70,10 @@ export const updatePr = async (branch, approvalsNeeded) => {
   });
 
   if (!pull) {
+    console.info(`Could not find open PR for branch ${branch}, creating new one.`);
     return createPr(branch, approvalsNeeded);
   }
+  console.info(`Found open PR, updating: ${pull}`);
 
   const res = await axios.post(`${GH_API_ROOT}/repos/d-planner/data/issues/${pull.number}/comments`, {
     body: `\

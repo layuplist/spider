@@ -138,7 +138,7 @@ const handler = async (req, res) => {
       console.error(`Failed to update repository (${err.message})`);
     });
 
-  if (branch !== 'main' && approvalsNeeded.length > 0) {
+  if (branch !== 'main') {
     (typeBranch ? updatePr : createPr)(branch, approvalsNeeded);
   }
 
