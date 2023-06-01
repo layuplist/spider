@@ -20,7 +20,6 @@ const loadCurrent = async (type) => {
     http,
     dir: LOCAL_DIR,
     url: DATA_REPOSITORY_URL,
-    singleBranch: false,
     depth: 1,
     onAuth: () => {
       return ({
@@ -41,13 +40,16 @@ const loadCurrent = async (type) => {
 const update = async (target, sourceType, hash, ids, msg, branch) => {
   // * update local
 
-  // checkout target branch
-  await git.checkout({
-    fs,
-    dir: LOCAL_DIR,
-    ref: branch,
-  });
-  console.info(`Checked out branch ${branch}`);
+  // if not already on target branch, create and checkout
+  if (await git.currentBranch({ fs, dir: LOCAL_DIR }) !== branch) {
+    await git.branch({
+      fs,
+      dir: LOCAL_DIR,
+      ref: branch,
+      checkout: true,
+    });
+    console.info(`Created branch ${branch}`);
+  }
 
   // copy in new data
   fs.copyFileSync(`/tmp/${sourceType}_${hash}.json`, `${LOCAL_DIR}/${target}`);
