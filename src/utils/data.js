@@ -105,7 +105,8 @@ const update = async (target, sourceType, hash, ids, msg, branch) => {
       ref: branch,
       onAuth: () => {
         return ({
-          username: process.env.GH_TOKEN,
+          username: process.env.GH_USERNAME,
+          password: process.env.GH_TOKEN,
         });
       },
     });
